@@ -11,6 +11,8 @@ jobs:
     - uses: cachix/install-nix-action@v13
       with:
         nix_path: nixpkgs=channel:nixos-unstable
+    - name: Initialize Shell
+      run: nix-shell --command echo
     - name: Scrape r/git
       run: nix-shell --command 'scrape-subreddit git'
     - name: Scrape r/news
