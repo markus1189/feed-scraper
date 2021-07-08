@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-08T18:44:23+00:00</updated>
+  <updated>2021-07-08T19:32:38+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -85,6 +85,32 @@
     <updated>2021-07-07T22:28:35+00:00</updated>
     <published>2021-07-07T22:28:35+00:00</published>
     <title>Rudy Giuliani’s DC law license is suspended</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Ginger-Jesus</name>
+      <uri>https://www.reddit.com/user/Ginger-Jesus</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Ginger-Jesus"&gt; /u/Ginger-Jesus &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.komu.com/news/midmissourinews/cpd-officer-involved-in-childs-death-will-not-serve-jail-time/article_49dee1c6-dffd-11eb-ba21-433e73da6891.html?utm_source=SocialNewsDesk&amp;amp;utm_medium=twitter&amp;amp;utm_campaign=SND_twitter"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogcxwd/cpd_officer_who_hit_and_killed_child_with_police/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogcxwd</id>
+    <link href="https://www.reddit.com/r/news/comments/ogcxwd/cpd_officer_who_hit_and_killed_child_with_police/"></link>
+    <updated>2021-07-08T18:12:50+00:00</updated>
+    <published>2021-07-08T18:12:50+00:00</published>
+    <title>CPD officer who hit and killed child with police SUV will not serve jail time</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Illustrious_Welder94</name>
+      <uri>https://www.reddit.com/user/Illustrious_Welder94</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Illustrious_Welder94"&gt; /u/Illustrious_Welder94 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/08/politics/michael-avenatti-prison-nike-extortion/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oge1za/michael_avenatti_sentenced_to_30_months_in_prison/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oge1za</id>
+    <link href="https://www.reddit.com/r/news/comments/oge1za/michael_avenatti_sentenced_to_30_months_in_prison/"></link>
+    <updated>2021-07-08T19:06:27+00:00</updated>
+    <published>2021-07-08T19:06:27+00:00</published>
+    <title>Michael Avenatti sentenced to 30 months in prison for attempting to extort Nike</title>
   </entry>
   <entry>
     <author>
