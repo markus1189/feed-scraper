@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-08T20:35:00+00:00</updated>
+  <updated>2021-07-08T21:36:57+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -345,6 +345,19 @@
     <updated>2021-07-08T02:18:20+00:00</updated>
     <published>2021-07-08T02:18:20+00:00</published>
     <title>Bear pulls woman out of her tent, kills her in Montana</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nedryerson48</name>
+      <uri>https://www.reddit.com/user/nedryerson48</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/08/health/flossing-tooth-loss-cognitive-decline-wellness/index.html?utm_medium=social&amp;amp;utm_source=twCNN&amp;amp;utm_term=link&amp;amp;utm_content=2021-07-08T20%3A04%3A15"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogfckc/flossing_your_teeth_may_protect_against_cognitive/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogfckc</id>
+    <link href="https://www.reddit.com/r/news/comments/ogfckc/flossing_your_teeth_may_protect_against_cognitive/"></link>
+    <updated>2021-07-08T20:10:19+00:00</updated>
+    <published>2021-07-08T20:10:19+00:00</published>
+    <title>Flossing your teeth may protect against cognitive decline</title>
   </entry>
   <entry>
     <author>
