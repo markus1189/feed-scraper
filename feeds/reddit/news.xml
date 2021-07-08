@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-08T19:32:38+00:00</updated>
+  <updated>2021-07-08T20:35:00+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -153,6 +153,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Stormageadon</name>
+      <uri>https://www.reddit.com/user/Stormageadon</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Stormageadon"&gt; /u/Stormageadon &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/86f939c746c7bc56bb9f11f095a95366"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogda7u/biden_says_us_war_in_afghanistan_will_end_august/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogda7u</id>
+    <link href="https://www.reddit.com/r/news/comments/ogda7u/biden_says_us_war_in_afghanistan_will_end_august/"></link>
+    <updated>2021-07-08T18:29:12+00:00</updated>
+    <published>2021-07-08T18:29:12+00:00</published>
+    <title>Biden says U.S. war in Afghanistan will end August 31</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Sumit316</name>
       <uri>https://www.reddit.com/user/Sumit316</uri>
     </author>
@@ -163,6 +176,19 @@
     <updated>2021-07-08T14:22:19+00:00</updated>
     <published>2021-07-08T14:22:19+00:00</published>
     <title>Code in huge ransomware attack written to avoid Russian computers</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Thegoods030</name>
+      <uri>https://www.reddit.com/user/Thegoods030</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Thegoods030"&gt; /u/Thegoods030 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fireengineering.com/firefighting/man-arrested-after-throwing-improvised-explosive-device-near-boulder-fire-station/?utm_medium=email&amp;amp;utm_source=fe_daily_newsletter&amp;amp;utm_campaign=2021-07-08"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogdstw/man_arrested_after_throwing_improvised_explosive/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogdstw</id>
+    <link href="https://www.reddit.com/r/news/comments/ogdstw/man_arrested_after_throwing_improvised_explosive/"></link>
+    <updated>2021-07-08T18:54:23+00:00</updated>
+    <published>2021-07-08T18:54:23+00:00</published>
+    <title>Man Arrested After Throwing Improvised Explosive Device Near Boulder (CO) Fire Station</title>
   </entry>
   <entry>
     <author>
