@@ -1,0 +1,348 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <category term="scala" label="r/scala"></category>
+  <updated>2021-07-08T17:56:13+00:00</updated>
+  <icon>https://www.redditstatic.com/icon.png/</icon>
+  <id>/r/scala.rss</id>
+  <link rel="self" href="https://www.reddit.com/r/scala.rss" type="application/atom+xml"></link>
+  <link rel="alternate" href="https://www.reddit.com/r/scala" type="text/html"></link>
+  <logo>https://b.thumbs.redditmedia.com/UHUUkIT1eS_nIY6GI5Y8oVtfRnauys1iCx0p1A2ryDs.png</logo>
+  <title>Scala</title>
+  <entry>
+    <author>
+      <name>/u/AutoModerator</name>
+      <uri>https://www.reddit.com/user/AutoModerator</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Please post the job with the following template:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;Company Name | Title(s) of position(s) being hired for | City, [State/Province,] Country | {ONSITE, REMOTE} | {Full Time, Part Time, Contract} | (Optional) $approximate salary description contact information &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Posters: Please only post if you are personally involved in the hiring party -- no 3rd party recruiters (you must post the name of the company)&lt;/p&gt; &lt;p&gt;Readers: please only email submitters if you personally are interested in the job—no recruiters or sales calls.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AutoModerator"&gt; /u/AutoModerator &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/obou7u/who_is_hiring_monthly_rscala_job_postings_thread/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/obou7u/who_is_hiring_monthly_rscala_job_postings_thread/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_obou7u</id>
+    <link href="https://www.reddit.com/r/scala/comments/obou7u/who_is_hiring_monthly_rscala_job_postings_thread/"></link>
+    <updated>2021-07-01T16:00:11+00:00</updated>
+    <published>2021-07-01T16:00:11+00:00</published>
+    <title>Who is hiring? Monthly /r/Scala Job Postings Thread!</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/heartly4u</name>
+      <uri>https://www.reddit.com/user/heartly4u</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;All i have been using Java for last 17 years. I want to make a move from Java to Scala. What would be the preferable option to do a swift move. The current organization that i work for wont work in Scala so there is no option of getting any professional experience. &lt;/p&gt; &lt;p&gt;Any recruiters that are asking for Scala developers need some experience in Scala. So please help me understand how i can grow in the FP area , so that i can make a move?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/heartly4u"&gt; /u/heartly4u &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/og4u3e/transitioning_from_java_to_scala_gives_and_takes/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/og4u3e/transitioning_from_java_to_scala_gives_and_takes/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_og4u3e</id>
+    <link href="https://www.reddit.com/r/scala/comments/og4u3e/transitioning_from_java_to_scala_gives_and_takes/"></link>
+    <updated>2021-07-08T10:56:56+00:00</updated>
+    <published>2021-07-08T10:56:56+00:00</published>
+    <title>Transitioning from Java to Scala, Gives and Takes ?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ivanvelikanov</name>
+      <uri>https://www.reddit.com/user/ivanvelikanov</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi,&lt;/p&gt; &lt;p&gt;I am not a full-time developer/coder. But I have been coding for the last ~17 years.&lt;/p&gt; &lt;p&gt;I have mainly used java. For almost a decade I did not even use a build tool other than ANT and used Netbeans. Then I shifted to maven.&lt;/p&gt; &lt;p&gt;Now I want to shift to Scala 3. That requires changing the build tool also.&lt;/p&gt; &lt;p&gt;I don&amp;#39;t have a problem when it comes to Scala. Somehow I am not still comfortable with the build tool. I feel I would prefer either mill or Maven, over SBT. Mill because it is said to be faster than SBT and seems more powerful. Maven because it seems to provide the maximum support amongst all build tools in the JVM ecosystem. For example, the Gluonvm plugin works fine on maven, the Gradle plugin is still a mess, and I am not even sure about the status of this in SBT or mill.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Q1)&lt;/strong&gt; Do you think it is good to use maven to work with Scala while I captch up and become more familiar with the scala ecosystem. Is it even possible? Workable? Sane?&lt;/p&gt; &lt;p&gt;My requirements are simple - simple maven projects, quarkus, javafx, gluovm (with graalvm build support). &lt;strong&gt;I have some legacy java code I wish to maintain, this is impoart for time being&lt;/strong&gt;. So if I can universally use the same build tool for java also, it would be nice. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Wire (a mobile messaging app) seems to be experimenting with scala and JavaFx, and their build tools seem to be maven: &lt;a href="https://github.com/makingthematrix/scalaonandroid/tree/main/HelloFXML3"&gt;https://github.com/makingthematrix/scalaonandroid/tree/main/HelloFXML3&lt;/a&gt; &lt;/p&gt; &lt;p&gt;tagging &lt;a href="/u/makingthematrix"&gt;/u/makingthematrix&lt;/a&gt; &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Q2)&lt;/strong&gt; If not maven, then SBT or Mill, which one fits the above more. My personal bias is more towards Mill, but it has a much smaller ecosystem, so I wonder if it will provide anything close to out of box support for Gluonvm for example.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;Thanks a tonne&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ivanvelikanov"&gt; /u/ivanvelikanov &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/og1txj/transitioning_from_java_to_scala/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/og1txj/transitioning_from_java_to_scala/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_og1txj</id>
+    <link href="https://www.reddit.com/r/scala/comments/og1txj/transitioning_from_java_to_scala/"></link>
+    <updated>2021-07-08T06:47:15+00:00</updated>
+    <published>2021-07-08T06:47:15+00:00</published>
+    <title>Transitioning from Java to Scala</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ellenoize</name>
+      <uri>https://www.reddit.com/user/ellenoize</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good day everyone!&lt;/p&gt; &lt;p&gt;I&amp;#39;ve always been using scalamock with scalatest only, but now I&amp;#39;d like to optimize my tests by rewriting long running sequential scalatest suites to uTest. I&amp;#39;m using default scalatest &lt;code&gt;MockFactory&lt;/code&gt; for my suite. I know that it&amp;#39;s supposed to work with scalatest only and I&amp;#39;ve seen in scalamock guide that you can implement your own &lt;code&gt;MockFactoryBase&lt;/code&gt; and it should somehow work, but I didn&amp;#39;t really work for me(maybe I just understood guid wrong). &lt;/p&gt; &lt;p&gt;I create separate instance of the mock in every test context&lt;br/&gt; &lt;code&gt;test(&amp;quot;blah blah&amp;quot;) {val myMock = mock[TraitToMock] ...}&lt;/code&gt;&lt;br/&gt; Also my project is written using cats-effect, so I&amp;#39;m running tests also with it&amp;#39;s IO &lt;/p&gt; &lt;p&gt;And in process I faced multiple issues such as:&lt;br/&gt; &lt;code&gt;java.util.ConcurrentModificationException: mutation occurred during iteration&lt;/code&gt;&lt;/p&gt; &lt;p&gt;It seems it&amp;#39;s because in UnorderedHandler(which is used in my tests) &lt;code&gt;handle&lt;/code&gt; method they&amp;#39;re using synchronization, but in parent Handler class operations with handlers are not synchronized.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/7sflfd9ud0a71.png?width=1448&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8eae336304b348946886066c1214c950229c0b71"&gt;https://preview.redd.it/7sflfd9ud0a71.png?width=1448&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8eae336304b348946886066c1214c950229c0b71&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/0nglptufe0a71.png?width=1334&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0db3228a4f760d921e495a122ef8c6350364d995"&gt;https://preview.redd.it/0nglptufe0a71.png?width=1334&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0db3228a4f760d921e495a122ef8c6350364d995&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Wrapping this methods in synchronization helps and tests don&amp;#39;t fail. But it seems like this fix is not the best solution.&lt;/p&gt; &lt;p&gt;If I&amp;#39;m not getting exception listed above, I get like intersection of mock contexts, mocks handle each other expectations. Something like that&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/8wsgaq0ai0a71.png?width=3426&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=16b8b9df369e699b5aac7679518fab8cd3b2cc36"&gt;https://preview.redd.it/8wsgaq0ai0a71.png?width=3426&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=16b8b9df369e699b5aac7679518fab8cd3b2cc36&lt;/a&gt;&lt;/p&gt; &lt;p&gt;So maybe someone knows how to make scalamock work with utest properly? Maybe I missed something important or overcomplicate things and much easier solution exists? &lt;/p&gt; &lt;p&gt;Thanks in advance!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ellenoize"&gt; /u/ellenoize &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/ogac3o/using_scalamock_with_utest/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/ogac3o/using_scalamock_with_utest/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogac3o</id>
+    <link href="https://www.reddit.com/r/scala/comments/ogac3o/using_scalamock_with_utest/"></link>
+    <updated>2021-07-08T16:07:19+00:00</updated>
+    <published>2021-07-08T16:07:19+00:00</published>
+    <title>Using scalamock with uTest</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/DanManPanther</name>
+      <uri>https://www.reddit.com/user/DanManPanther</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;In the excitement around Scala 3, I&amp;#39;m curious to get a sense of what the norms are (or likely to be) for backend web development at your company (for those who use Scala at work). Or simply - what would you recommend?&lt;/p&gt; &lt;p&gt;From what I&amp;#39;ve explored just messing around, Play, Scalatra, Jooby, Vert.x. Thinking of a FastAPI/Flask/Falcon equivalent ideally.&lt;/p&gt; &lt;p&gt;How do you find Java interop generally? Is it as simple as using a Java library from Scala?&lt;/p&gt; &lt;p&gt;In a similar vein, what&amp;#39;s your preferred database interaction library? (I Love SLQAlchemy Core in Python, and Dapper in .NET).&lt;/p&gt; &lt;p&gt;I&amp;#39;m also very very curious, coming from Python originally, how you think the migration from 2.x to 3.x will go. (Especially in terms of timeline). Python 2 to 3 was long and a bit painful, but from everything I&amp;#39;ve read it should be a faster and more comfortable transition for Scala.&lt;/p&gt; &lt;p&gt;Lastly - it seems SBT is still the tool of choice? Are build times still tricky even with Scala 3? Is it worth hanging around for those to improve, or looking into Mill, or trying to get Gradle to play nice?&lt;/p&gt; &lt;p&gt;My goal is to dive in and get familiar with the Scala world, but also, evaluate it for use at work.&lt;/p&gt; &lt;p&gt;Warm thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DanManPanther"&gt; /u/DanManPanther &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/ofn683/scala_3_and_web_tech_stack/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/ofn683/scala_3_and_web_tech_stack/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ofn683</id>
+    <link href="https://www.reddit.com/r/scala/comments/ofn683/scala_3_and_web_tech_stack/"></link>
+    <updated>2021-07-07T17:03:51+00:00</updated>
+    <published>2021-07-07T17:03:51+00:00</published>
+    <title>Scala 3 and Web Tech Stack</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ashwinsakthi</name>
+      <uri>https://www.reddit.com/user/ashwinsakthi</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ashwinsakthi"&gt; /u/ashwinsakthi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="/r/Stream2Learn/comments/og369a/getting_started_with_the_latest_version_of_apache/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/og36wj/getting_started_with_the_latest_version_of_apache/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_og36wj</id>
+    <link href="https://www.reddit.com/r/scala/comments/og36wj/getting_started_with_the_latest_version_of_apache/"></link>
+    <updated>2021-07-08T08:40:19+00:00</updated>
+    <published>2021-07-08T08:40:19+00:00</published>
+    <title>Getting Started with the latest version of Apache Spark using Python and Scala in your local PC using Intellij , Windows, Mac , Linux Databricks and Apache Zeppelin.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/junior-pilot-2000</name>
+      <uri>https://www.reddit.com/user/junior-pilot-2000</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;In the first or second episode in the web series &lt;a href="https://www.hbo.com/silicon-valley"&gt;Silicon Valley&lt;/a&gt;, Richard Henricks and Jared Dunn interview Dinesh regarding his skills, where he mentions &amp;quot;&lt;em&gt;I Write Sleek, Performant, Low Overhead, Higher-Order functions that will run on anything&lt;/em&gt;&amp;quot;. &lt;/p&gt; &lt;p&gt;This sentence made me interested in scala. &lt;/p&gt; &lt;p&gt;I know it is just a series and it is not necessary that it will have a relation with the real world, but, it just makes me curious.&lt;/p&gt; &lt;p&gt;So, can anyone explain the relevance of the sentence in the real world?&lt;/p&gt; &lt;p&gt;To watch actual scene, here is link to Youtube video. &lt;a href="https://youtu.be/TnCY6Apxibk?t=100"&gt;Click Here.&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/junior-pilot-2000"&gt; /u/junior-pilot-2000 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/ofownk/what_did_dinesh_in_silicon_valley_mean_when_he/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/ofownk/what_did_dinesh_in_silicon_valley_mean_when_he/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ofownk</id>
+    <link href="https://www.reddit.com/r/scala/comments/ofownk/what_did_dinesh_in_silicon_valley_mean_when_he/"></link>
+    <updated>2021-07-07T18:27:12+00:00</updated>
+    <published>2021-07-07T18:27:12+00:00</published>
+    <title>What did Dinesh in Silicon Valley mean when he said, "I Write Sleek, Performant, Low Overhead, Higher-Order functions that will run on anything".</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/majkp</name>
+      <uri>https://www.reddit.com/user/majkp</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/majkp"&gt; /u/majkp &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://blog.michalp.net/posts/scala/oauth2-app-p1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/ofpg5m/oauth2_scala_application_with_sttpoauth2_part_1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ofpg5m</id>
+    <link href="https://www.reddit.com/r/scala/comments/ofpg5m/oauth2_scala_application_with_sttpoauth2_part_1/"></link>
+    <updated>2021-07-07T18:53:08+00:00</updated>
+    <published>2021-07-07T18:53:08+00:00</published>
+    <title>OAuth2 Scala application with sttp-oauth2, part 1</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/davesmith00000</name>
+      <uri>https://www.reddit.com/user/davesmith00000</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;(This is a release announcement written as a cautionary tale about the dangers of building your own tools...)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;So I was working through the &lt;a href="https://www.reddit.com/r/roguelikedev/comments/o5x585/roguelikedev_does_the_complete_roguelike_tutorial/"&gt;Roguelike tutorials&lt;/a&gt;...&lt;/p&gt; &lt;p&gt;&lt;a href="https://i.redd.it/e20oumhayn971.gif"&gt;Field of view in a roguelike&lt;/a&gt;&lt;/p&gt; &lt;p&gt;...and thought the engine performance could be better - quite normal - every time I build a new type of game I find new ways that Indigo could be better. Tweaked Indigo to change how it deals with large arrays destined for the GPU. While I was there I fixed some other stuff ...and also added the ability to dynamically load shaders. Here are the release notes:&lt;/p&gt; &lt;p&gt;&lt;a href="https://github.com/PurpleKingdomGames/indigo/releases/tag/v0.9.0"&gt;https://github.com/PurpleKingdomGames/indigo/releases/tag/v0.9.0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;That allowed me to simplify the Roguelike Starterkit and make it faster (if anyone is following along, upgrade!):&lt;/p&gt; &lt;p&gt;&lt;a href="https://github.com/PurpleKingdomGames/indigo-roguelike-starterkit"&gt;https://github.com/PurpleKingdomGames/indigo-roguelike-starterkit&lt;/a&gt;&lt;/p&gt; &lt;p&gt;...but with the new dynamic shader loading I realised I could also solve another problem I&amp;#39;d been wondering about: How to share live Indigo shader demos?&lt;/p&gt; &lt;p&gt;Thought it would be fun to have a little website that rendered Indigo flavoured shaders from GitHub gists (no backend, GitHub does the storage, easy peasy...), but website building for me means using Tyrian (an Elm-like web framework), and that also needed an upgrade:&lt;/p&gt; &lt;p&gt;&lt;a href="https://github.com/PurpleKingdomGames/tyrian/releases/tag/v0.2.0"&gt;https://github.com/PurpleKingdomGames/tyrian/releases/tag/v0.2.0&lt;/a&gt;&lt;/p&gt; &lt;p&gt;...but I did eventually build the site:&lt;/p&gt; &lt;p&gt;&lt;a href="https://purplekingdomgames.github.io/shadergist/?gist=davesmith00000/5a6b585dbc2184a2c215b16a91234c22"&gt;https://purplekingdomgames.github.io/shadergist/?gist=davesmith00000/5a6b585dbc2184a2c215b16a91234c22&lt;/a&gt;&lt;/p&gt; &lt;p&gt;And thus all the yaks were shaved. Back to game building.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/davesmith00000"&gt; /u/davesmith00000 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/of5dqj/indigo_tyrian_roguelike_starterkits_oh_my/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/of5dqj/indigo_tyrian_roguelike_starterkits_oh_my/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_of5dqj</id>
+    <link href="https://www.reddit.com/r/scala/comments/of5dqj/indigo_tyrian_roguelike_starterkits_oh_my/"></link>
+    <updated>2021-07-06T22:12:39+00:00</updated>
+    <published>2021-07-06T22:12:39+00:00</published>
+    <title>Indigo, Tyrian, &amp; Roguelike Starter-kits, Oh My!</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/SlightUsual</name>
+      <uri>https://www.reddit.com/user/SlightUsual</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi All, so i am reading the red book, part 4 about the effects &amp;amp; I/O. So after reading most of the chapters. I think I got an understanding of IO monad, please comment about it to solidify my understanding .&lt;/p&gt; &lt;p&gt;So an IO Monad provides methods to execute side effects. so i can use those provided methods for sequencing computations, that depend on side effect ( reading data / writing data ) . More like a effects interface / type class.&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;Thank You&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/SlightUsual"&gt; /u/SlightUsual &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/off9zb/io_monda_and_effects/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/off9zb/io_monda_and_effects/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_off9zb</id>
+    <link href="https://www.reddit.com/r/scala/comments/off9zb/io_monda_and_effects/"></link>
+    <updated>2021-07-07T09:11:19+00:00</updated>
+    <published>2021-07-07T09:11:19+00:00</published>
+    <title>IO monda and Effects</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/makingthematrix</name>
+      <uri>https://www.reddit.com/user/makingthematrix</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Wire Signals is a small event-handling library. It started as a part of the Wire Android codebase. About two thirds of Wire Android is written in Scala, making it unique among Android apps - most of them being implemented in Java and/or Kotlin. Wire is a messenger and as such it must be very responsive: it has to quickly react to any events coming from the backend, as well as from the user, and from the Android OS itself. Most, if not all of the available solutions focus on the backend, so we developed our own implementation of event streams and &amp;quot;signals&amp;quot; - special event streams with caches holding the last propagated value. They proved to be a very flexible and concise way of handling events. During the last we moved that code to a separate repository, rewrote it, added more tests, added a few more features, and **tadaah** this is the result. &lt;/p&gt; &lt;p&gt;There is a longer explanation in the video (links below) but in short, Wire Signals might be a great help if you plan to write a small app or service from scratch and performance and size are important to you. Wire Signals depend only on the standard Scala library, the API is inspired by Scala collections, they&amp;#39;re already battle-tested in production, so you can look into the Wire code to see many examples, and you can contact me for help :) Also, since the code comes from a mobile app, Wire Signals can easily send data across execution contexts - e.g. from GUI to the background and back, but also if you want to have a serial dispatch queue for safe access to a database, etc. For example, I use them both with Android SDK (Wire) and in JavaFX (my &amp;quot;Scala on Android&amp;quot; project).&lt;/p&gt; &lt;p&gt;Links:&lt;br/&gt; 1. An article on Medium and a video: &lt;a href="https://medium.com/swlh/wire-signals-81918bbcc07f"&gt;https://medium.com/swlh/wire-signals-81918bbcc07f&lt;/a&gt;&lt;br/&gt; 2. GitHub repository: &lt;a href="https://github.com/wireapp/wire-signals"&gt;https://github.com/wireapp/wire-signals&lt;/a&gt;&lt;br/&gt; 3. The webpage with ScalaDocs: &lt;a href="https://wire.engineering/wire-signals/"&gt;https://wire.engineering/wire-signals/&lt;/a&gt;&lt;br/&gt; 4. Wire Android app codebase: &lt;a href="https://github.com/wireapp/wire-android"&gt;https://github.com/wireapp/wire-android&lt;/a&gt;&lt;br/&gt; 5. And our main main webpage :) &lt;a href="https://wire.com/en/"&gt;https://wire.com/en/&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/makingthematrix"&gt; /u/makingthematrix &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/of1e84/wire_signals_100_released/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/of1e84/wire_signals_100_released/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_of1e84</id>
+    <link href="https://www.reddit.com/r/scala/comments/of1e84/wire_signals_100_released/"></link>
+    <updated>2021-07-06T18:50:42+00:00</updated>
+    <published>2021-07-06T18:50:42+00:00</published>
+    <title>Wire Signals 1.0.0 released 🥳</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/PyramidsOnDeck</name>
+      <uri>https://www.reddit.com/user/PyramidsOnDeck</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;For some reason, you cannot choose Scala as a language from the drop down menu when you try to submit. However, the Kattis website nevertheless has this site&lt;/p&gt; &lt;p&gt;&lt;a href="https://open.kattis.com/help/scala"&gt;https://open.kattis.com/help/scala&lt;/a&gt;&lt;/p&gt; &lt;p&gt;which makes me believe it should be possible to submit Scala files. Choosing Java as a language does not seem to work for me.&lt;/p&gt; &lt;p&gt;Update: According to Kattis support, they have a full Scala implementation that is currently disabled due to the performance of Scala programs.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PyramidsOnDeck"&gt; /u/PyramidsOnDeck &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/of5v5e/can_you_submit_scala_files_to_kattis/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/of5v5e/can_you_submit_scala_files_to_kattis/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_of5v5e</id>
+    <link href="https://www.reddit.com/r/scala/comments/of5v5e/can_you_submit_scala_files_to_kattis/"></link>
+    <updated>2021-07-06T22:38:12+00:00</updated>
+    <published>2021-07-06T22:38:12+00:00</published>
+    <title>Can you submit Scala files to Kattis?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/PhaseDelays</name>
+      <uri>https://www.reddit.com/user/PhaseDelays</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I finally got around to finishing this and sticking it on Maven Central, and by finishing it I mean I decided on a whim to start over from scratch a couple days ago and somehow ended up with a better library than I had before. &lt;/p&gt; &lt;p&gt;&lt;a href="https://github.com/ciaraobrien/dottytags"&gt;https://github.com/ciaraobrien/dottytags&lt;/a&gt;&lt;/p&gt; &lt;p&gt;It&amp;#39;s as close as I could get to a straight clone of ScalaTags with the twist that everything is done with macros at compile-time, so it reduces the runtime processing to mostly just concatenating literal strings with a few dynamic strings in an Array with a StringBuilder, with the upshot being that it&amp;#39;s between 2 and 10 times faster at runtime than ScalaTags (which is already quite quick) depending on the exact nature of the workload it&amp;#39;s given.&lt;/p&gt; &lt;p&gt;If you give it a totally static tree structure (just literals in an uninterrupted tree of macro invocations), it&amp;#39;ll return you a hardcoded literal string of the appropriate HTML/XML/SVG output (which is obviously extremely fast to process at runtime), dynamic variables in the tree mostly just get spliced in between long literal strings in an array and then concatenated together at runtime.&lt;/p&gt; &lt;p&gt;Of course, since everything is being done at compile-time except for the processing &amp;quot;scheduled&amp;quot; by the macros (ampersand-escaping the dynamic strings where necessary, and of course concatenating what needs to be concatenated), this library has no actual runtime semantics and cannot do anything dynamic other than accept and incorporate non-static data into the initial construction of a tree, so there are a few small limitations on how you can express things, but in general the ways of expressing things that you aren&amp;#39;t allowed to use are slow in and of themselves, at least relative to what little runtime processing normally needs to be done, so it&amp;#39;s arguably good that they&amp;#39;re impossible to express using this library.&lt;/p&gt; &lt;p&gt;What do y&amp;#39;all think of this? Have I wasted my time on this? (the answer is no because it helped me develop metametaprogramming techniques that I have other uses for, but other than that I mean) Am I speaking into the void even now?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PhaseDelays"&gt; /u/PhaseDelays &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oekv9o/check_out_my_extremely_dumb_scala_3/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oekv9o/check_out_my_extremely_dumb_scala_3/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oekv9o</id>
+    <link href="https://www.reddit.com/r/scala/comments/oekv9o/check_out_my_extremely_dumb_scala_3/"></link>
+    <updated>2021-07-06T01:27:55+00:00</updated>
+    <published>2021-07-06T01:27:55+00:00</published>
+    <title>Check out my extremely dumb Scala 3 metaprogramming library (it's literally just ScalaTags but everything is done at compile time) that I've been developing off and on since 3.0.0-M1</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/elastiknn</name>
+      <uri>https://www.reddit.com/user/elastiknn</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m working with akka-stream and would like to define a &lt;code&gt;Flow&lt;/code&gt; that takes some data from a Source and writes each record to another system. After all of the records have been written, I need to call a &lt;code&gt;close()&lt;/code&gt; method. I&amp;#39;m running the stream with &lt;code&gt;.runWith(Sink.ignore)&lt;/code&gt;, and I&amp;#39;d like to ensure the &lt;code&gt;runWith&lt;/code&gt; Future completes only after the &lt;code&gt;close()&lt;/code&gt; method has completed.&lt;/p&gt; &lt;p&gt;So far I&amp;#39;ve found two ways that seem like they could work with Flows: &lt;code&gt;alsoToMat&lt;/code&gt; and &lt;code&gt;watchTermination&lt;/code&gt;. In both cases, the &lt;code&gt;runWith&lt;/code&gt; Future completes before the &lt;code&gt;close&lt;/code&gt; method has completed.&lt;/p&gt; &lt;p&gt;I&amp;#39;ve gotten it to work by using &lt;code&gt;.toMat&lt;/code&gt;, but this turns the &lt;code&gt;Flow&lt;/code&gt; into a &lt;code&gt;Sink&lt;/code&gt;. I&amp;#39;d prefer to keep it as a &lt;code&gt;Flow&lt;/code&gt; if possible.&lt;/p&gt; &lt;p&gt;I wrote this up as an example App on Scastie: &lt;a href="https://scastie.scala-lang.org/alexklibisz/baWl6EB7TkSjL7DMV2ZX5Q/2"&gt;https://scastie.scala-lang.org/alexklibisz/baWl6EB7TkSjL7DMV2ZX5Q/2&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I appreciate that identifying the last element of a stream is a tricky problem. &lt;/p&gt; &lt;p&gt;It seems like there is some precedent for making this kind of thing work. For example, it seems that the &lt;code&gt;FileSource&lt;/code&gt; can close a file handle before the full stream has completed. &lt;code&gt;FileSource&lt;/code&gt; is implemented as a more complicated custom graph stage. I&amp;#39;d prefer to avoid that if possible, but I don&amp;#39;t mind doing it if necessary.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/elastiknn"&gt; /u/elastiknn &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oemw5z/akkastream_define_a_flow_that_will_close_a/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oemw5z/akkastream_define_a_flow_that_will_close_a/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oemw5z</id>
+    <link href="https://www.reddit.com/r/scala/comments/oemw5z/akkastream_define_a_flow_that_will_close_a/"></link>
+    <updated>2021-07-06T03:35:57+00:00</updated>
+    <published>2021-07-06T03:35:57+00:00</published>
+    <title>Akka-stream: Define a Flow that will close a resource once the surrounding stream is complete</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/kubukoz</name>
+      <uri>https://www.reddit.com/user/kubukoz</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/kubukoz"&gt; /u/kubukoz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.youtube.com/watch?v=-zr1cCWf4iI"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oe94sg/supervisor_background_processing_in_functional/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oe94sg</id>
+    <link href="https://www.reddit.com/r/scala/comments/oe94sg/supervisor_background_processing_in_functional/"></link>
+    <updated>2021-07-05T15:00:10+00:00</updated>
+    <published>2021-07-05T15:00:10+00:00</published>
+    <title>Supervisor | Background processing in functional Scala #3</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Good-Potato7770</name>
+      <uri>https://www.reddit.com/user/Good-Potato7770</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi everyone I am a college student taking scala this semester. Our professor has given us a project where he wants us to display the total number of deaths by covid for a specific country using a scala program using scala collections.&lt;/p&gt; &lt;p&gt;The txt file has records for each country, new cases, new deaths each day, date, total number of deaths etc.&lt;/p&gt; &lt;p&gt;I&amp;#39;m struggling to find a way to display the results. I have searched online and found that the basic step would be to something similar to:&lt;/p&gt; &lt;p&gt;import scala.io.Source&lt;/p&gt; &lt;p&gt;val lines = Source.fromFile(&amp;quot;/Users/Al/.bash_profile&amp;quot;).getLines.toList&lt;/p&gt; &lt;p&gt;How can I extract specific record from txt file? Any kind of help would be appreciated thankyou&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Good-Potato7770"&gt; /u/Good-Potato7770 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oeulju/covid_19_data_set_extraction/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oeulju/covid_19_data_set_extraction/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oeulju</id>
+    <link href="https://www.reddit.com/r/scala/comments/oeulju/covid_19_data_set_extraction/"></link>
+    <updated>2021-07-06T13:08:50+00:00</updated>
+    <published>2021-07-06T13:08:50+00:00</published>
+    <title>Covid 19 data set extraction</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/No_Competition_9678</name>
+      <uri>https://www.reddit.com/user/No_Competition_9678</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello there,&lt;/p&gt; &lt;p&gt;I want to share a small library with you. Please go ahead and roast it.&lt;/p&gt; &lt;p&gt;Its a linked list with size completely determined at compile time.&lt;br/&gt; It is of limited practicality, but you can do some cool stuff.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Compile error when accessing head or tail of empty list.&lt;br/&gt;&lt;/li&gt; &lt;li&gt;Compile error when &lt;code&gt;.get&lt;/code&gt; at index greater than size.&lt;br/&gt;&lt;/li&gt; &lt;li&gt;You can only zip with list of same size.&lt;/li&gt; &lt;li&gt;You can split a list, and you get two lists each of which has the correct size.&lt;/li&gt; &lt;li&gt;Concatenation of lists results in list with correct size.&lt;/li&gt; &lt;li&gt;&amp;lt;any typical method you find in a normal list&amp;gt;&lt;br/&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;cats.Traverse&lt;/code&gt; instance&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Cross compiled for 2.11, 2.12, and 2.13.&lt;br/&gt; libraryDependencies += &amp;quot;com.cmhteixeira&amp;quot; %% &amp;quot;typed-list&amp;quot; % &amp;quot;2.0.0&amp;quot;&lt;/p&gt; &lt;p&gt;Repo: &lt;a href="https://github.com/cmhteixeira/typed-list"&gt;https://github.com/cmhteixeira/typed-list&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/No_Competition_9678"&gt; /u/No_Competition_9678 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oehr83/roast_my_library_typedlist/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oehr83/roast_my_library_typedlist/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oehr83</id>
+    <link href="https://www.reddit.com/r/scala/comments/oehr83/roast_my_library_typedlist/"></link>
+    <updated>2021-07-05T22:20:02+00:00</updated>
+    <published>2021-07-05T22:20:02+00:00</published>
+    <title>Roast my library: typed-list</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ThatOrchid</name>
+      <uri>https://www.reddit.com/user/ThatOrchid</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello! I&amp;#39;m currently working through a course that posts its material publicly online, and am working through the longest increasing subsequence problem. This problem is a little different than usual because it wants you to return a sequence and not just the length. I feel like I found the length in an efficient way, using dynamic programming. But because I am new to scala and not that great at algorithms, I don&amp;#39;t think I constructed the subsequence efficiently. Here is my code: &lt;/p&gt; &lt;pre&gt;&lt;code&gt;/* * Assignment: Longest increasing subsequence * * Sequences are a natural source of computational problems. One such * family of problems involves finding subsequences with specified * properties in a given sequence. This exercise asks you to write * a program that, given a sequence * * s(0), s(1), ..., s(n-1) * * of integers as input, finds a ___longest increasing subsequence___ * of the sequence s. * * For example, suppose we are given as input the sequence * * 72, 16, 51, 17, 6, 21, 92, 59, 54, 78, 41, 33, 94, * 85, 83, 56, 2, 46, 57, 44, 73, 6, 47, 47, 0. * * In this sequence, a longest increasing subsequence has length 7. * One example of such an increasing subsequence is * * 16 &amp;lt; 17 &amp;lt; 21 &amp;lt; 54 &amp;lt; 56 &amp;lt; 57 &amp;lt; 73. * * More generally, your program must be such that * given a sequence * * s(0), s(1), ..., s(n-1) * * of integers as input, the program returns a subsequence * * s(i_1), s(i_2), ..., s(i_k) * * that meets all of the following three properties: * * 1. The positions that define the subsequence are increasing: * * 0 &amp;lt;= i_1 &amp;lt; i_2 &amp;lt; ... &amp;lt; i_k &amp;lt;= n-1 * * 2. The subsequence is increasing: * * s(i_1) &amp;lt; s(i_2) &amp;lt; ... &amp;lt; s(i_k) * * 3. The length k of the subsequence is as large as possible. * * * Hints: * * You can solve this exercise using __dynamic programming__ as a * solution strategy. That is, you __tabulate__ solutions of carefully * designed subproblems and use these solutions to gradually build your * way up to solve larger and larger subproblems until you solve * the original problem. Here are some more detailed hints: * * a) Suppose that for all i = 0, 1, ..., j-1 we know L(i), the length * of a longest increasing subsequence in s(0), s(1), ..., s(i) * that terminates at position i. * b) Suppose we have already computed in an array the values * L(0), L(1), ..., L(j-1). How can we make use of these values * to compute the next value L(j) ? * c) Furthermore, suppose for each i we know p(i), the position * prior to the last position i in a longest increasing subsequence * that terminates at position i. * (Note that such a position p(i) need not always exist, however.) * d) How can we make use of the values p(i) for i &amp;lt;= j to determine * a concrete increasing subsequence of length L(j) * that terminates at j ? * e) Design your program to complete the arrays L and p, one position * at a time. * f) Use the arrays L and p to return a concrete longest increasing * subsequence in the given sequence s. * */ import scala.collection.mutable.ArrayBuffer import scala.util.control._ package object longestIncreasingSubsequence { /** Returns a longest increasing subsequence in the sequence s. * If there are multiple such subsequences, any subsequence will do. */ def longestIncreasingSubsequence(s: Seq[Int]): Seq[Int] = { /* L is an array where L(i) is the longest increasing subsequence that can be created up to and including index i from the Seq s. To compute the value after L(j-1), which is L(j), if L(j) &amp;gt; L(j-1) =&amp;gt; L(j) = L(j-1) + 1 p is an array */ require(s.length &amp;gt; 0) val L = Array.fill(s.length){1} val p = Array.fill(s.length){-1} var maxN = 1 var maxI = 0 for (j &amp;lt;- Range(1, s.length)) { for (i &amp;lt;- Range(0,j)) { if (s(j) &amp;gt; s(i)) { if (L(i) + 1 &amp;gt; L(j)) { L(j) = L(i) + 1 p(j) = i } if (maxN &amp;lt; L(j)) { maxN = L(j) maxI = j } } } } val loop = new Breaks var i = maxI var idxs = ArrayBuffer(maxI) loop.breakable { while (true) { println(i) if (i == -1) loop.break else { i = p(i) idxs = idxs :+ i } } } idxs = idxs.reverse val result = s.indices.collect { case i if idxs contains i =&amp;gt; s(i) } result } } &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Specifically, I would like to avoid using ArrayBuffers and breaking a loop if possible. And this whole chunk of code just looks bad. &lt;/p&gt; &lt;pre&gt;&lt;code&gt; val loop = new Breaks var i = maxI var idxs = ArrayBuffer(maxI) loop.breakable { while (true) { println(i) if (i == -1) loop.break else { i = p(i) idxs = idxs :+ i } } } idxs = idxs.reverse val result = s.indices.collect { case i if idxs contains i =&amp;gt; s(i) } result &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;If any of you have any tips whether it be specific to this algorithm or scala in general, let me know. Thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ThatOrchid"&gt; /u/ThatOrchid &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oemsts/longest_increasing_subsequence/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oemsts/longest_increasing_subsequence/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oemsts</id>
+    <link href="https://www.reddit.com/r/scala/comments/oemsts/longest_increasing_subsequence/"></link>
+    <updated>2021-07-06T03:29:58+00:00</updated>
+    <published>2021-07-06T03:29:58+00:00</published>
+    <title>Longest Increasing Subsequence</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/luceat-lux-vestra</name>
+      <uri>https://www.reddit.com/user/luceat-lux-vestra</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://leetcode.com/problems/minimum-absolute-difference/"&gt;https://leetcode.com/problems/minimum-absolute-difference/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I&amp;#39;m stuck in here.This works fine on IntelliJ but not on &lt;code&gt;leetcode&lt;/code&gt;.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Line 8: error: No implicit Ordering defined for List[Int]. (in solution.scala)tarr.map(_.sorted.toList).filter(t =&amp;gt; ((t(0) - t(1)).abs == min)).&lt;strong&gt;&lt;strong&gt;sorted&lt;/strong&gt;&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;^&lt;/p&gt; &lt;/blockquote&gt; &lt;pre&gt;&lt;code&gt;object Solution { def minimumAbsDifference(arr: Array[Int]): List[List[Int]] = { val tarr = arr.combinations(2).toList val min = tarr.map(t =&amp;gt; (t(0) - t(1)).abs).min tarr.map(_.sorted.toList).filter(t =&amp;gt; ((t(0) - t(1)).abs == min)).sorted } } &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;and I also want to solve like this simple way.&lt;/p&gt; &lt;pre&gt;&lt;code&gt;class Solution: def minimumAbsDifference(self, arr: List[int]) -&amp;gt; List[List[int]]: arr.sort() mn = min(b - a for a, b in zip(arr, arr[1:])) return [[a, b] for a, b in zip(arr, arr[1:]) if b - a == mn] &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Please give me some advice!&lt;br/&gt; Thanks.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/luceat-lux-vestra"&gt; /u/luceat-lux-vestra &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oertx9/help_me_to_solve_this_leetcode_problem_using_scala/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oertx9/help_me_to_solve_this_leetcode_problem_using_scala/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oertx9</id>
+    <link href="https://www.reddit.com/r/scala/comments/oertx9/help_me_to_solve_this_leetcode_problem_using_scala/"></link>
+    <updated>2021-07-06T09:56:21+00:00</updated>
+    <published>2021-07-06T09:56:21+00:00</published>
+    <title>help me to solve this `leetcode` problem using scala.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Amuro_Ray</name>
+      <uri>https://www.reddit.com/user/Amuro_Ray</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m trying to run a small migration program to move my data from You need a budget to GNU cash. I found a program that can do the &lt;a href="https://github.com/galbarm/YNAB4toGnuCashMigrationTool"&gt;migration&lt;/a&gt;. I can get it to run but I ran into an exception. Which I think is wrong.&lt;/p&gt; &lt;p&gt;The exception is being thrown against the line below&lt;/p&gt; &lt;pre&gt;&lt;code&gt;D01/08/2017 T-575.00 PInlingua M N CR LMonthly Bills:education &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;It&amp;#39;s throwing based on the last case. In the file below &lt;a href="https://github.com/galbarm/YNAB4toGnuCashMigrationTool/blob/master/src/main/scala/YNABTransaction.scala"&gt;https://github.com/galbarm/YNAB4toGnuCashMigrationTool/blob/master/src/main/scala/YNABTransaction.scala&lt;/a&gt; &lt;/p&gt; &lt;p&gt;The case: &lt;/p&gt; &lt;pre&gt;&lt;code&gt;case _ =&amp;gt; assert(L.exists(_.startsWith(&amp;quot;Income:Available&amp;quot;)), s&amp;quot;payee transaction must have an income category: $this&amp;quot;) &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;I&amp;#39;ve never used scala or java really but is that saying L should start with Income:Available if the payee exists?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Amuro_Ray"&gt; /u/Amuro_Ray &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oe9m9c/help_running_a_scala_projectvery_little_knowledge/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oe9m9c/help_running_a_scala_projectvery_little_knowledge/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oe9m9c</id>
+    <link href="https://www.reddit.com/r/scala/comments/oe9m9c/help_running_a_scala_projectvery_little_knowledge/"></link>
+    <updated>2021-07-05T15:24:12+00:00</updated>
+    <published>2021-07-05T15:24:12+00:00</published>
+    <title>Help running a Scala project(very little knowledge), related to You need a budget desktop program.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/petrzapletal</name>
+      <uri>https://www.reddit.com/user/petrzapletal</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/petrzapletal"&gt; /u/petrzapletal &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://petr-zapletal.medium.com/this-week-in-scala-jul-5-2021-c2875782cb03?sk=06fb7e24dcace2f9093ab9eea1db9e5d"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oe8gz8/this_week_in_scala_jul_5_2021/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oe8gz8</id>
+    <link href="https://www.reddit.com/r/scala/comments/oe8gz8/this_week_in_scala_jul_5_2021/"></link>
+    <updated>2021-07-05T14:26:41+00:00</updated>
+    <published>2021-07-05T14:26:41+00:00</published>
+    <title>This week in #Scala (Jul 5, 2021)</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/bb-elder-b</name>
+      <uri>https://www.reddit.com/user/bb-elder-b</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Any idea if sbt can be installed on raspberry pi 4b ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/bb-elder-b"&gt; /u/bb-elder-b &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oeeymp/raspberry_pi_4b/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oeeymp/raspberry_pi_4b/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oeeymp</id>
+    <link href="https://www.reddit.com/r/scala/comments/oeeymp/raspberry_pi_4b/"></link>
+    <updated>2021-07-05T19:54:23+00:00</updated>
+    <published>2021-07-05T19:54:23+00:00</published>
+    <title>Raspberry pi 4b</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AlexITC</name>
+      <uri>https://www.reddit.com/user/AlexITC</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hey everybody, after having built some web applications with Scala/Scala.js, we started stripping common functionality out into a reusable template.&lt;/p&gt; &lt;p&gt;While this is similar to &lt;a href="https://github.com/softwaremill/bootzooka"&gt;bootzooka&lt;/a&gt;, the main difference is the tech stack.&lt;/p&gt; &lt;p&gt;For anyone that hasn&amp;#39;t tried building web apps in Scala.js, let me tell you that it is a lovely experience, having worked with several JavaScript frameworks before, I couldn&amp;#39;t be happier with Scala.js + Slinky (React) + Scalablytyped.&lt;/p&gt; &lt;p&gt;There is still lots of stuff to do but if we focus on getting it perfect, we wouldn&amp;#39;t get to a release date ever.&lt;/p&gt; &lt;p&gt;&lt;a href="https://github.com/wiringbits/scala-webapp-template"&gt;https://github.com/wiringbits/scala-webapp-template&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AlexITC"&gt; /u/AlexITC &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/odrm5q/sharing_our_reusable_skeleton_to_build_web_apps/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/odrm5q/sharing_our_reusable_skeleton_to_build_web_apps/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_odrm5q</id>
+    <link href="https://www.reddit.com/r/scala/comments/odrm5q/sharing_our_reusable_skeleton_to_build_web_apps/"></link>
+    <updated>2021-07-04T19:47:06+00:00</updated>
+    <published>2021-07-04T19:47:06+00:00</published>
+    <title>Sharing our reusable skeleton to build web apps in Scala/Scala.js</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/yo_whattup</name>
+      <uri>https://www.reddit.com/user/yo_whattup</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/yo_whattup"&gt; /u/yo_whattup &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://youtu.be/kKvxdqC1g3I"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/oebrgv/lets_about_how_long_you_should_expect_it_to_take/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oebrgv</id>
+    <link href="https://www.reddit.com/r/scala/comments/oebrgv/lets_about_how_long_you_should_expect_it_to_take/"></link>
+    <updated>2021-07-05T17:13:11+00:00</updated>
+    <published>2021-07-05T17:13:11+00:00</published>
+    <title>Let’s about how long you should expect it to take from the moment you start learning to code until the moment you land your first dev job!</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/agilesteel</name>
+      <uri>https://www.reddit.com/user/agilesteel</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/agilesteel"&gt; /u/agilesteel &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.youtube.com/watch?v=e1kIjiWHVhE"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/odfbhn/part_4_zioenv_getting_started_with_zio_in_scala3/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_odfbhn</id>
+    <link href="https://www.reddit.com/r/scala/comments/odfbhn/part_4_zioenv_getting_started_with_zio_in_scala3/"></link>
+    <updated>2021-07-04T07:10:37+00:00</updated>
+    <published>2021-07-04T07:10:37+00:00</published>
+    <title>Part 4 - ZIO[Env, _, _] - Getting Started with ZIO in Scala3</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/luceat-lux-vestra</name>
+      <uri>https://www.reddit.com/user/luceat-lux-vestra</uri>
+    </author>
+    <category term="scala" label="r/scala"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://leetcode.com/problems/keyboard-row/discuss/499553/Quick-rust-solution"&gt;https://leetcode.com/problems/keyboard-row/discuss/499553/Quick-rust-solution&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I&amp;#39;m new to both of &lt;code&gt;rust&lt;/code&gt; and &lt;code&gt;scala&lt;/code&gt;.I want code like above link.&lt;/p&gt; &lt;p&gt;I tried that style but failed.Just simple changes, but I don&amp;#39;t know why it fails even saw the compiler error message.&lt;/p&gt; &lt;p&gt;```scala object Solution { def findWords(words: Array[String]): Array[String] = { val rows = Array[String](&amp;quot;qwertyuiop&amp;quot;, &amp;quot;asdfghjkl&amp;quot;, &amp;quot;zxcvbnm&amp;quot;)&lt;/p&gt; &lt;pre&gt;&lt;code&gt;words.filter(word =&amp;gt; { rows.fold(false)( (b, row) =&amp;gt; { b || word.toLowerCase.forall(c =&amp;gt; row.contains(c)) } ) }) &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;} }&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/luceat-lux-vestra"&gt; /u/luceat-lux-vestra &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/odh9bb/help_me_to_solve_the_leetcode_problem_with_scala/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/scala/comments/odh9bb/help_me_to_solve_the_leetcode_problem_with_scala/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_odh9bb</id>
+    <link href="https://www.reddit.com/r/scala/comments/odh9bb/help_me_to_solve_the_leetcode_problem_with_scala/"></link>
+    <updated>2021-07-04T09:48:25+00:00</updated>
+    <published>2021-07-04T09:48:25+00:00</published>
+    <title>Help me to solve the `leetcode` problem with `Scala`!</title>
+  </entry>
+</feed>

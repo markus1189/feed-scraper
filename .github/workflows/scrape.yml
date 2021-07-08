@@ -12,6 +12,8 @@ jobs:
       with:
         nix_path: nixpkgs=channel:nixos-unstable
     - name: Scrape r/git
-      run: nix-shell --command 'reddit-git'
+      run: nix-shell --command 'scrape-subreddit git'
+    - name: Scrape r/news
+      run: nix-shell --command 'scrape-subreddit news'
     - name: Commit and Push
       run: nix-shell --command 'commit-and-push'
