@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-08T22:36:36+00:00</updated>
+  <updated>2021-07-08T23:34:35+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -215,6 +215,32 @@
     <updated>2021-07-08T12:42:05+00:00</updated>
     <published>2021-07-08T12:42:05+00:00</published>
     <title>US jobless claims tick up to 373,000 from a pandemic low</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/__masterbaiter__</name>
+      <uri>https://www.reddit.com/user/__masterbaiter__</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/__masterbaiter__"&gt; /u/__masterbaiter__ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php?IPID=SFGate-HP-Editors-Picks"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogiapn/california_exodus_is_just_a_myth_massive_uc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogiapn</id>
+    <link href="https://www.reddit.com/r/news/comments/ogiapn/california_exodus_is_just_a_myth_massive_uc/"></link>
+    <updated>2021-07-08T22:39:54+00:00</updated>
+    <published>2021-07-08T22:39:54+00:00</published>
+    <title>California exodus is just a myth, massive UC research project finds</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/besselfunctions</name>
+      <uri>https://www.reddit.com/user/besselfunctions</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/besselfunctions"&gt; /u/besselfunctions &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/business-california-ca-state-wire-72b63d7f3f0cd03184bf79b8750dc8eb"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogi4o8/california_charges_6_exhighway_officers_with/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogi4o8</id>
+    <link href="https://www.reddit.com/r/news/comments/ogi4o8/california_charges_6_exhighway_officers_with/"></link>
+    <updated>2021-07-08T22:30:52+00:00</updated>
+    <published>2021-07-08T22:30:52+00:00</published>
+    <title>California charges 6 ex-highway officers with overtime fraud</title>
   </entry>
   <entry>
     <author>
