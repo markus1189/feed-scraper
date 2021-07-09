@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-09T07:32:38+00:00</updated>
+  <updated>2021-07-09T08:38:29+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -227,6 +227,19 @@
     <updated>2021-07-07T03:17:24+00:00</updated>
     <published>2021-07-07T03:17:24+00:00</published>
     <title>Merged into master, reverted into develop. Not sure what to do next</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/juristr</name>
+      <uri>https://www.reddit.com/user/juristr</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/juristr"&gt; /u/juristr &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://youtu.be/JoZalb4N1G8"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ogrc0f/find_the_first_bad_commit_that_broke_your_app/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogrc0f</id>
+    <link href="https://www.reddit.com/r/git/comments/ogrc0f/find_the_first_bad_commit_that_broke_your_app/"></link>
+    <updated>2021-07-09T08:32:00+00:00</updated>
+    <published>2021-07-09T08:32:00+00:00</published>
+    <title>Find the first bad commit that broke your App with Git bisect!</title>
   </entry>
   <entry>
     <author>
