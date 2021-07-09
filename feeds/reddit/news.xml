@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T12:54:07+00:00</updated>
+  <updated>2021-07-09T13:35:41+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -8,6 +8,19 @@
   <logo>https://a.thumbs.redditmedia.com/d1huQb5y8kISty2ax02MmO7pK5uVJt1pGuSqOiOjIl0.png</logo>
   <subtitle>The place for news articles about current events in the United States and the rest of the world. Discuss it all here.</subtitle>
   <title>News</title>
+  <entry>
+    <author>
+      <name>/u/123456American</name>
+      <uri>https://www.reddit.com/user/123456American</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/123456American"&gt; /u/123456American &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnet.com/news/googles-hypocritical-remote-work-policies-anger-employees/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogu8st/googles_hypocritical_remote_work_policies_anger/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogu8st</id>
+    <link href="https://www.reddit.com/r/news/comments/ogu8st/googles_hypocritical_remote_work_policies_anger/"></link>
+    <updated>2021-07-09T12:10:19+00:00</updated>
+    <published>2021-07-09T12:10:19+00:00</published>
+    <title>Google's 'hypocritical' remote work policies anger employees</title>
+  </entry>
   <entry>
     <author>
       <name>/u/AgentSlimepunk</name>
@@ -254,6 +267,19 @@
     <updated>2021-07-08T14:31:15+00:00</updated>
     <published>2021-07-08T14:31:15+00:00</published>
     <title>Still waiting for a tax refund? IRS backlog has grown to 35 million returns</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/PhilipLiptonSchrute</name>
+      <uri>https://www.reddit.com/user/PhilipLiptonSchrute</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PhilipLiptonSchrute"&gt; /u/PhilipLiptonSchrute &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/08/business/restaurant-worker-quit-rates/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oguqpf/restaurant_workers_are_quitting_in_droves_that/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oguqpf</id>
+    <link href="https://www.reddit.com/r/news/comments/oguqpf/restaurant_workers_are_quitting_in_droves_that/"></link>
+    <updated>2021-07-09T12:41:22+00:00</updated>
+    <published>2021-07-09T12:41:22+00:00</published>
+    <title>Restaurant workers are quitting in droves. That might not change anytime soon</title>
   </entry>
   <entry>
     <author>
