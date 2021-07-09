@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T14:35:34+00:00</updated>
+  <updated>2021-07-09T15:44:41+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -124,6 +124,19 @@
     <updated>2021-07-08T09:52:14+00:00</updated>
     <published>2021-07-08T09:52:14+00:00</published>
     <title>A Georgia woman was arrested on animal cruelty charges after investigators said they found more than 100 dead dogs and cats on her property</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Feeling-Wallaby-4505</name>
+      <uri>https://www.reddit.com/user/Feeling-Wallaby-4505</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Feeling-Wallaby-4505"&gt; /u/Feeling-Wallaby-4505 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/houston-police-investigating-murder-suicide-downtown-aquarium/story?id=78747046"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogwfq2/houston_police_investigating_murdersuicide_at/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogwfq2</id>
+    <link href="https://www.reddit.com/r/news/comments/ogwfq2/houston_police_investigating_murdersuicide_at/"></link>
+    <updated>2021-07-09T14:14:45+00:00</updated>
+    <published>2021-07-09T14:14:45+00:00</published>
+    <title>Houston police investigating murder-suicide at Downtown Aquarium</title>
   </entry>
   <entry>
     <author>
