@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T04:46:39+00:00</updated>
+  <updated>2021-07-09T05:32:41+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -319,6 +319,19 @@
     <updated>2021-07-08T16:06:12+00:00</updated>
     <published>2021-07-08T16:06:12+00:00</published>
     <title>Wells Fargo to close all personal lines of credit - CNBC</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/golgaltha</name>
+      <uri>https://www.reddit.com/user/golgaltha</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/golgaltha"&gt; /u/golgaltha &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/government-and-politics-police-riots-seattle-police-reform-276125259e85a4b837b9dd10d2114399"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ognv1d/report_2_seattle_police_officers_broke_law_during/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ognv1d</id>
+    <link href="https://www.reddit.com/r/news/comments/ognv1d/report_2_seattle_police_officers_broke_law_during/"></link>
+    <updated>2021-07-09T04:12:49+00:00</updated>
+    <published>2021-07-09T04:12:49+00:00</published>
+    <title>Report: 2 Seattle police officers broke law during DC riots</title>
   </entry>
   <entry>
     <author>
