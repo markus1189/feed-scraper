@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T01:37:07+00:00</updated>
+  <updated>2021-07-09T02:44:16+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -449,6 +449,32 @@
     <updated>2021-07-08T15:48:37+00:00</updated>
     <published>2021-07-08T15:48:37+00:00</published>
     <title>To Catch Teenage Gamers After Curfew, Chinese Company Deploys Facial Recognition</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/shahin-13</name>
+      <uri>https://www.reddit.com/user/shahin-13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/shahin-13"&gt; /u/shahin-13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/suspect-arrested-triple-murder-georgia-golf-course-n1273433"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogjzfz/suspect_arrested_in_triple_murder_on_georgia_golf/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogjzfz</id>
+    <link href="https://www.reddit.com/r/news/comments/ogjzfz/suspect_arrested_in_triple_murder_on_georgia_golf/"></link>
+    <updated>2021-07-09T00:15:15+00:00</updated>
+    <published>2021-07-09T00:15:15+00:00</published>
+    <title>Suspect arrested in triple murder on Georgia golf course</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/single_white_dad</name>
+      <uri>https://www.reddit.com/user/single_white_dad</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/single_white_dad"&gt; /u/single_white_dad &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.hawaiinewsnow.com/2021/07/07/300-year-old-maui-petroglyphs-hit-with-paintballs-apparent-vandalism/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogk2d0/300yearold_maui_petroglyphs_hit_with_paintballs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogk2d0</id>
+    <link href="https://www.reddit.com/r/news/comments/ogk2d0/300yearold_maui_petroglyphs_hit_with_paintballs/"></link>
+    <updated>2021-07-09T00:19:54+00:00</updated>
+    <published>2021-07-09T00:19:54+00:00</published>
+    <title>300-year-old Maui petroglyphs hit with paintballs in apparent vandalism</title>
   </entry>
   <entry>
     <author>
