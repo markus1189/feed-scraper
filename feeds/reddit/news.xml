@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T10:38:28+00:00</updated>
+  <updated>2021-07-09T11:32:39+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -205,6 +205,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/MaxQ50</name>
+      <uri>https://www.reddit.com/user/MaxQ50</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/MaxQ50"&gt; /u/MaxQ50 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://news.sky.com/story/police-bodycam-video-shows-kidnapped-girl-6-being-rescued-by-officer-in-kentucky-12351985?dcmp=snt-sf-twitter"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogsybk/police_bodycam_video_shows_kidnapped_girl_6_being/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogsybk</id>
+    <link href="https://www.reddit.com/r/news/comments/ogsybk/police_bodycam_video_shows_kidnapped_girl_6_being/"></link>
+    <updated>2021-07-09T10:40:29+00:00</updated>
+    <published>2021-07-09T10:40:29+00:00</published>
+    <title>Police bodycam video shows kidnapped girl, 6, being rescued by officer in Kentucky | US News</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/PhilDesenex</name>
       <uri>https://www.reddit.com/user/PhilDesenex</uri>
     </author>
@@ -371,6 +384,19 @@
     <updated>2021-07-07T15:58:48+00:00</updated>
     <published>2021-07-07T15:58:48+00:00</published>
     <title>Trump sues Twitter, Google and Facebook, alleging 'censorship'</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/joburgexpat</name>
+      <uri>https://www.reddit.com/user/joburgexpat</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/joburgexpat"&gt; /u/joburgexpat &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/taliban-says-it-controls-most-afghanistan-reassures-russia-2021-07-09/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogsp2q/taliban_says_it_controls_most_of_afghanistan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogsp2q</id>
+    <link href="https://www.reddit.com/r/news/comments/ogsp2q/taliban_says_it_controls_most_of_afghanistan/"></link>
+    <updated>2021-07-09T10:20:47+00:00</updated>
+    <published>2021-07-09T10:20:47+00:00</published>
+    <title>Taliban says it controls most of Afghanistan, reassures Russia</title>
   </entry>
   <entry>
     <author>
