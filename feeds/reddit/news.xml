@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T08:38:31+00:00</updated>
+  <updated>2021-07-09T09:39:01+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -517,6 +517,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/rickk79</name>
+      <uri>https://www.reddit.com/user/rickk79</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/rickk79"&gt; /u/rickk79 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/world/2021/jul/04/uk-scientists-caution-that-lifting-of-covid-rules-is-like-building-variant-factories"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogr5w4/uk_scientists_caution_that_lifting_of_covid_rules/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogr5w4</id>
+    <link href="https://www.reddit.com/r/news/comments/ogr5w4/uk_scientists_caution_that_lifting_of_covid_rules/"></link>
+    <updated>2021-07-09T08:17:43+00:00</updated>
+    <published>2021-07-09T08:17:43+00:00</published>
+    <title>UK scientists caution that lifting of Covid rules is like building ‘variant factories’</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/shahin-13</name>
       <uri>https://www.reddit.com/user/shahin-13</uri>
     </author>
@@ -540,6 +553,19 @@
     <updated>2021-07-09T00:19:54+00:00</updated>
     <published>2021-07-09T00:19:54+00:00</published>
     <title>300-year-old Maui petroglyphs hit with paintballs in apparent vandalism</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/sixshots_onlyfive</name>
+      <uri>https://www.reddit.com/user/sixshots_onlyfive</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/sixshots_onlyfive"&gt; /u/sixshots_onlyfive &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.avclub.com/new-zealand-mom-names-her-kids-metallica-pantera-and-1847251756"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogpe2s/new_zealand_mom_names_her_kids_metallica_pantera/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogpe2s</id>
+    <link href="https://www.reddit.com/r/news/comments/ogpe2s/new_zealand_mom_names_her_kids_metallica_pantera/"></link>
+    <updated>2021-07-09T05:58:31+00:00</updated>
+    <published>2021-07-09T05:58:31+00:00</published>
+    <title>New Zealand mom names her kids Metallica, Pantera, and Slayer</title>
   </entry>
   <entry>
     <author>
