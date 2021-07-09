@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-08T23:34:35+00:00</updated>
+  <updated>2021-07-09T01:37:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -72,6 +72,19 @@
     <updated>2021-07-08T21:22:46+00:00</updated>
     <published>2021-07-08T21:22:46+00:00</published>
     <title>Pfizer says it is developing a Covid booster shot to target the highly transmissible delta variant</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Dictator0</name>
+      <uri>https://www.reddit.com/user/Dictator0</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Dictator0"&gt; /u/Dictator0 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/marilyn-manson-surrenders-police-assault-arrest-warrant-n1273391"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogkh0v/marilyn_manson_surrenders_to_police_for_assault/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogkh0v</id>
+    <link href="https://www.reddit.com/r/news/comments/ogkh0v/marilyn_manson_surrenders_to_police_for_assault/"></link>
+    <updated>2021-07-09T00:44:01+00:00</updated>
+    <published>2021-07-09T00:44:01+00:00</published>
+    <title>Marilyn Manson surrenders to police for assault arrest warrant</title>
   </entry>
   <entry>
     <author>
@@ -309,6 +322,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/lnghrn53</name>
+      <uri>https://www.reddit.com/user/lnghrn53</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/lnghrn53"&gt; /u/lnghrn53 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbs7.com/2021/07/08/owner-san-jan-sentenced-15-years-fraud/?"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogi0mt/west_texas_man_sentenced_to_15_years_in_federal/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogi0mt</id>
+    <link href="https://www.reddit.com/r/news/comments/ogi0mt/west_texas_man_sentenced_to_15_years_in_federal/"></link>
+    <updated>2021-07-08T22:24:55+00:00</updated>
+    <published>2021-07-08T22:24:55+00:00</published>
+    <title>West Texas man sentenced to 15 years in Federal Prison for $18 million fraudulent scheme</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/lolipopey</name>
       <uri>https://www.reddit.com/user/lolipopey</uri>
     </author>
@@ -462,6 +488,19 @@
     <updated>2021-07-08T09:42:14+00:00</updated>
     <published>2021-07-08T09:42:14+00:00</published>
     <title>Lead Sinovac vaccine scientist in Indonesia dies of suspected Covid-19, media say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/thornreservoir</name>
+      <uri>https://www.reddit.com/user/thornreservoir</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/thornreservoir"&gt; /u/thornreservoir &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abc7news.com/earthquake-bay-area-tahoe-earth-quake-near-me-just-now/10872467/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogiyc3/preliminary_59magnitude_earthquake_strikes_near/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogiyc3</id>
+    <link href="https://www.reddit.com/r/news/comments/ogiyc3/preliminary_59magnitude_earthquake_strikes_near/"></link>
+    <updated>2021-07-08T23:16:34+00:00</updated>
+    <published>2021-07-08T23:16:34+00:00</published>
+    <title>Preliminary 5.9-magnitude earthquake strikes near California-Nevada border</title>
   </entry>
   <entry>
     <author>
