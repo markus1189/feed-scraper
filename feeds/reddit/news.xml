@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T18:46:16+00:00</updated>
+  <updated>2021-07-09T19:32:57+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -72,6 +72,19 @@
     <updated>2021-07-08T15:58:55+00:00</updated>
     <published>2021-07-08T15:58:55+00:00</published>
     <title>Historic Northwest heat wave 'virtually impossible' without human-caused climate crisis, study finds</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Bonboniru</name>
+      <uri>https://www.reddit.com/user/Bonboniru</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Bonboniru"&gt; /u/Bonboniru &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/science/environment/us-just-experienced-hottest-june-record-rcna1378"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oh162n/the_us_just_experienced_its_hottest_june_on_record/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh162n</id>
+    <link href="https://www.reddit.com/r/news/comments/oh162n/the_us_just_experienced_its_hottest_june_on_record/"></link>
+    <updated>2021-07-09T18:06:41+00:00</updated>
+    <published>2021-07-09T18:06:41+00:00</published>
+    <title>The U.S. just experienced its hottest June on record</title>
   </entry>
   <entry>
     <author>
@@ -423,6 +436,19 @@
     <updated>2021-07-08T18:54:23+00:00</updated>
     <published>2021-07-08T18:54:23+00:00</published>
     <title>Man Arrested After Throwing Improvised Explosive Device Near Boulder (CO) Fire Station</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/UnclePhilWasMyFather</name>
+      <uri>https://www.reddit.com/user/UnclePhilWasMyFather</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/UnclePhilWasMyFather"&gt; /u/UnclePhilWasMyFather &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://wsvn.com/news/local/cat-missing-after-surfside-condo-collapse-found-alive/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oh1jyz/cat_missing_after_surfside_condo_collapse_found/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh1jyz</id>
+    <link href="https://www.reddit.com/r/news/comments/oh1jyz/cat_missing_after_surfside_condo_collapse_found/"></link>
+    <updated>2021-07-09T18:26:26+00:00</updated>
+    <published>2021-07-09T18:26:26+00:00</published>
+    <title>Cat missing after Surfside condo collapse found alive</title>
   </entry>
   <entry>
     <author>
