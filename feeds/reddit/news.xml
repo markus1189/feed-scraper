@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T17:00:27+00:00</updated>
+  <updated>2021-07-09T17:41:03+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -469,6 +469,19 @@
       <uri>https://www.reddit.com/user/fbreaker</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/fbreaker"&gt; /u/fbreaker &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/race-and-ethnicity-racial-injustice-charlottesville-b2d4e50d0b1cc6f84a4c3aa8c2436ec0?utm_source=Twitter&amp;amp;utm_campaign=SocialFlow&amp;amp;utm_medium=AP"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oh05ut/charlottesville_to_remove_confederate_monuments/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh05ut</id>
+    <link href="https://www.reddit.com/r/news/comments/oh05ut/charlottesville_to_remove_confederate_monuments/"></link>
+    <updated>2021-07-09T17:17:32+00:00</updated>
+    <published>2021-07-09T17:17:32+00:00</published>
+    <title>Charlottesville to remove Confederate monuments Saturday</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/fbreaker</name>
+      <uri>https://www.reddit.com/user/fbreaker</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/fbreaker"&gt; /u/fbreaker &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://whdh.com/news/7-sent-back-to-canada-after-using-library-lawn-to-enter-us/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogy2qd/7_sent_back_to_canada_after_using_library_lawn_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ogy2qd</id>
     <link href="https://www.reddit.com/r/news/comments/ogy2qd/7_sent_back_to_canada_after_using_library_lawn_to/"></link>
@@ -813,6 +826,19 @@
     <updated>2021-07-08T23:16:34+00:00</updated>
     <published>2021-07-08T23:16:34+00:00</published>
     <title>Preliminary 5.9-magnitude earthquake strikes near California-Nevada border</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/tool1001</name>
+      <uri>https://www.reddit.com/user/tool1001</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tool1001"&gt; /u/tool1001 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/article/us-health-coronavirus-usa-children-idUSKCN2EF1NK"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogzc1r/cdc_recommends_masking_indoors_for_unvaccinated/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogzc1r</id>
+    <link href="https://www.reddit.com/r/news/comments/ogzc1r/cdc_recommends_masking_indoors_for_unvaccinated/"></link>
+    <updated>2021-07-09T16:36:55+00:00</updated>
+    <published>2021-07-09T16:36:55+00:00</published>
+    <title>CDC recommends masking indoors for unvaccinated students, teachers in U.S. schools</title>
   </entry>
   <entry>
     <author>
