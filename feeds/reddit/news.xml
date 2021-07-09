@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T05:32:41+00:00</updated>
+  <updated>2021-07-09T06:46:09+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -423,6 +423,19 @@
     <updated>2021-07-08T10:30:17+00:00</updated>
     <published>2021-07-08T10:30:17+00:00</published>
     <title>Exiled Turkish journalist attacked outside home in Germany</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marsianer</name>
+      <uri>https://www.reddit.com/user/marsianer</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marsianer"&gt; /u/marsianer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nzherald.co.nz/travel/new-zealand-adds-belarus-officials-to-travel-ban-over-ryanair-incident/Z35DEZYPUZ6NZRJJBYOTMMKAUU/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogm6vw/new_zealand_adds_belarus_officials_to_travel_ban/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogm6vw</id>
+    <link href="https://www.reddit.com/r/news/comments/ogm6vw/new_zealand_adds_belarus_officials_to_travel_ban/"></link>
+    <updated>2021-07-09T02:29:36+00:00</updated>
+    <published>2021-07-09T02:29:36+00:00</published>
+    <title>New Zealand adds Belarus officials to travel ban over Ryanair incident</title>
   </entry>
   <entry>
     <author>
