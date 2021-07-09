@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-09T21:36:46+00:00</updated>
+  <updated>2021-07-09T22:36:21+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -201,6 +201,19 @@
     <updated>2021-07-04T15:20:23+00:00</updated>
     <published>2021-07-04T15:20:23+00:00</published>
     <title>Git Problem: Cannot do git push</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/aristoshi</name>
+      <uri>https://www.reddit.com/user/aristoshi</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I noticed that commit should not have been committed, so I want to delete it from the Pull Request which has been sent in GitHub. It&amp;#39;s the last commit out of 4 commits.&lt;/p&gt; &lt;p&gt;I&amp;#39;d really appreciate step by step directions, please keep in mind I&amp;#39;ve already made a PR and the platform is GitHub.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/aristoshi"&gt; /u/aristoshi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oh6bvy/i_made_a_pull_request_on_github_however_i_want_to/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oh6bvy/i_made_a_pull_request_on_github_however_i_want_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh6bvy</id>
+    <link href="https://www.reddit.com/r/git/comments/oh6bvy/i_made_a_pull_request_on_github_however_i_want_to/"></link>
+    <updated>2021-07-09T22:33:08+00:00</updated>
+    <published>2021-07-09T22:33:08+00:00</published>
+    <title>I made a pull request on GitHub, however I want to remove one of the commits (its the 4th out of 4 commits), how do I do that?</title>
   </entry>
   <entry>
     <author>
