@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T11:32:39+00:00</updated>
+  <updated>2021-07-09T12:54:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -114,6 +114,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/FlimsyBodybuilder4</name>
+      <uri>https://www.reddit.com/user/FlimsyBodybuilder4</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/FlimsyBodybuilder4"&gt; /u/FlimsyBodybuilder4 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/afghan-pilots-assassinated-by-taliban-us-withdraws-2021-07-09/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogtk68/afghan_pilots_assassinated_by_taliban_as_us/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogtk68</id>
+    <link href="https://www.reddit.com/r/news/comments/ogtk68/afghan_pilots_assassinated_by_taliban_as_us/"></link>
+    <updated>2021-07-09T11:24:43+00:00</updated>
+    <published>2021-07-09T11:24:43+00:00</published>
+    <title>Afghan pilots assassinated by Taliban as U.S. withdraws</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/FriesWithThat</name>
       <uri>https://www.reddit.com/user/FriesWithThat</uri>
     </author>
@@ -215,6 +228,19 @@
     <updated>2021-07-09T10:40:29+00:00</updated>
     <published>2021-07-09T10:40:29+00:00</published>
     <title>Police bodycam video shows kidnapped girl, 6, being rescued by officer in Kentucky | US News</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/NineteenEighty9</name>
+      <uri>https://www.reddit.com/user/NineteenEighty9</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/NineteenEighty9"&gt; /u/NineteenEighty9 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/americas/new-video-surfaces-mexican-presidents-brother-taking-stacks-cash-2021-07-09/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogtdyp/new_video_surfaces_of_mexican_presidents_brother/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogtdyp</id>
+    <link href="https://www.reddit.com/r/news/comments/ogtdyp/new_video_surfaces_of_mexican_presidents_brother/"></link>
+    <updated>2021-07-09T11:12:42+00:00</updated>
+    <published>2021-07-09T11:12:42+00:00</published>
+    <title>New video surfaces of Mexican president's brother taking stacks of cash</title>
   </entry>
   <entry>
     <author>
@@ -670,5 +696,18 @@
     <updated>2021-07-08T12:31:42+00:00</updated>
     <published>2021-07-08T12:31:42+00:00</published>
     <title>Massive X-class solar flare erupted from sun</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/vokiel</name>
+      <uri>https://www.reddit.com/user/vokiel</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/vokiel"&gt; /u/vokiel &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.aljazeera.com/news/2021/7/9/us-set-to-add-more-chinese-companies-to-blacklist-over"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogsllp/us_set_to_add_more_chinese_companies_to_blacklist/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ogsllp</id>
+    <link href="https://www.reddit.com/r/news/comments/ogsllp/us_set_to_add_more_chinese_companies_to_blacklist/"></link>
+    <updated>2021-07-09T10:13:09+00:00</updated>
+    <published>2021-07-09T10:13:09+00:00</published>
+    <title>US set to add more Chinese companies to blacklist over Xinjiang</title>
   </entry>
 </feed>
