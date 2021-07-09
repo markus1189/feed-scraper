@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-09T22:36:23+00:00</updated>
+  <updated>2021-07-09T23:34:38+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -735,6 +735,19 @@
     <updated>2021-07-09T20:24:57+00:00</updated>
     <published>2021-07-09T20:24:57+00:00</published>
     <title>Judge blocks Tennessee's new transgender bathroom law, ACLU says</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/mrfresh5812</name>
+      <uri>https://www.reddit.com/user/mrfresh5812</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/mrfresh5812"&gt; /u/mrfresh5812 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/florida-surfside-building-collapse-300dfe219b28e50a0336d786055283ca"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oh2ehe/heartbreaking_death_toll_in_florida_condo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh2ehe</id>
+    <link href="https://www.reddit.com/r/news/comments/oh2ehe/heartbreaking_death_toll_in_florida_condo/"></link>
+    <updated>2021-07-09T19:08:55+00:00</updated>
+    <published>2021-07-09T19:08:55+00:00</published>
+    <title>'Heartbreaking': Death toll in Florida condo collapse now 78</title>
   </entry>
   <entry>
     <author>
