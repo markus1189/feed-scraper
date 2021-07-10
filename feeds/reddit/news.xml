@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T13:34:03+00:00</updated>
+  <updated>2021-07-10T14:32:50+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1024,6 +1024,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/poclee</name>
+      <uri>https://www.reddit.com/user/poclee</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/poclee"&gt; /u/poclee &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbc.ca/news/canada/british-columbia/meng-wanzhou-evidence-extradition-huawei-case-1.6097232"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohi0us/huawei_exec_meng_wanzhou_loses_bid_for_key/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohi0us</id>
+    <link href="https://www.reddit.com/r/news/comments/ohi0us/huawei_exec_meng_wanzhou_loses_bid_for_key/"></link>
+    <updated>2021-07-10T12:43:14+00:00</updated>
+    <published>2021-07-10T12:43:14+00:00</published>
+    <title>Huawei exec Meng Wanzhou loses bid for key evidence in U.S. extradition battle</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/raramuri19</name>
       <uri>https://www.reddit.com/user/raramuri19</uri>
     </author>
@@ -1060,6 +1073,19 @@
     <updated>2021-07-09T08:17:43+00:00</updated>
     <published>2021-07-09T08:17:43+00:00</published>
     <title>UK scientists caution that lifting of Covid rules is like building ‘variant factories’</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/rytis</name>
+      <uri>https://www.reddit.com/user/rytis</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/rytis"&gt; /u/rytis &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/09/us/california-earthquake-highway-trnd/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohhoi1/california_earthquake_sends_boulders_tumbling/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohhoi1</id>
+    <link href="https://www.reddit.com/r/news/comments/ohhoi1/california_earthquake_sends_boulders_tumbling/"></link>
+    <updated>2021-07-10T12:19:13+00:00</updated>
+    <published>2021-07-10T12:19:13+00:00</published>
+    <title>California earthquake sends boulders tumbling onto major highway</title>
   </entry>
   <entry>
     <author>
