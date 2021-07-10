@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T04:46:35+00:00</updated>
+  <updated>2021-07-10T05:32:40+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -670,6 +670,19 @@
     <updated>2021-07-09T04:12:49+00:00</updated>
     <published>2021-07-09T04:12:49+00:00</published>
     <title>Report: 2 Seattle police officers broke law during DC riots</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/internweb</name>
+      <uri>https://www.reddit.com/user/internweb</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/internweb"&gt; /u/internweb &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.laweekly.com/friday-morning-l-a-earthquake-was-actually-a-sonic-boom/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oh5q00/friday_morning_la_earthquake_was_actually_a_sonic/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh5q00</id>
+    <link href="https://www.reddit.com/r/news/comments/oh5q00/friday_morning_la_earthquake_was_actually_a_sonic/"></link>
+    <updated>2021-07-09T21:59:50+00:00</updated>
+    <published>2021-07-09T21:59:50+00:00</published>
+    <title>Friday Morning L.A. ‘Earthquake’ Was Actually A Sonic Boom</title>
   </entry>
   <entry>
     <author>
