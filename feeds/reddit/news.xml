@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T10:37:40+00:00</updated>
+  <updated>2021-07-10T11:32:58+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -267,6 +267,19 @@
     <updated>2021-07-08T18:12:50+00:00</updated>
     <published>2021-07-08T18:12:50+00:00</published>
     <title>CPD officer who hit and killed child with police SUV will not serve jail time</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/GummySkittles</name>
+      <uri>https://www.reddit.com/user/GummySkittles</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/GummySkittles"&gt; /u/GummySkittles &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/lawyers-breonna-taylors-family-sue-police-existence-body/story?id=78753109"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohgg50/lawyers_for_breonna_taylors_family_sue_police/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohgg50</id>
+    <link href="https://www.reddit.com/r/news/comments/ohgg50/lawyers_for_breonna_taylors_family_sue_police/"></link>
+    <updated>2021-07-10T10:43:56+00:00</updated>
+    <published>2021-07-10T10:43:56+00:00</published>
+    <title>Lawyers for Breonna Taylor's family sue police over existence of body camera footage</title>
   </entry>
   <entry>
     <author>
