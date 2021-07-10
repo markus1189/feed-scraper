@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T15:42:07+00:00</updated>
+  <updated>2021-07-10T16:57:28+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -439,6 +439,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Mighty_L_LORT</name>
+      <uri>https://www.reddit.com/user/Mighty_L_LORT</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mighty_L_LORT"&gt; /u/Mighty_L_LORT &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/lifestyle/sports/us-olympic-swimmer-michael-andrew-wont-get-vaccinated-2021-07-09/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohltwy/us_olympic_swimmer_michael_andrew_wont_get/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohltwy</id>
+    <link href="https://www.reddit.com/r/news/comments/ohltwy/us_olympic_swimmer_michael_andrew_wont_get/"></link>
+    <updated>2021-07-10T16:27:34+00:00</updated>
+    <published>2021-07-10T16:27:34+00:00</published>
+    <title>U.S. Olympic swimmer Michael Andrew won't get vaccinated</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/NineteenEighty9</name>
       <uri>https://www.reddit.com/user/NineteenEighty9</uri>
     </author>
@@ -644,6 +657,19 @@
     <updated>2021-07-09T17:00:02+00:00</updated>
     <published>2021-07-09T17:00:02+00:00</published>
     <title>Missing teacher Alice Hodgkinson reportedly found dead in Japan</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/legend-of-zelda-auction-video-games-0ba3a92a781dc79a1285cd7f748cbfed"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohl96b/unopened_legend_of_zelda_game_from_1987_sells_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohl96b</id>
+    <link href="https://www.reddit.com/r/news/comments/ohl96b/unopened_legend_of_zelda_game_from_1987_sells_for/"></link>
+    <updated>2021-07-10T15:55:57+00:00</updated>
+    <published>2021-07-10T15:55:57+00:00</published>
+    <title>Unopened Legend of Zelda game from 1987 sells for $870,000</title>
   </entry>
   <entry>
     <author>
@@ -1047,6 +1073,19 @@
     <updated>2021-07-09T19:13:49+00:00</updated>
     <published>2021-07-09T19:13:49+00:00</published>
     <title>Man with concealed carry license steps in, shoots gunman who shot 3, Chicago police say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/pain_in_your_ass</name>
+      <uri>https://www.reddit.com/user/pain_in_your_ass</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/pain_in_your_ass"&gt; /u/pain_in_your_ass &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.whio.com/news/trending/florida-airport-evacuated-over-security-investigation/N7ZF4DCZKJEINAC2DHVIZT5BGE/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohk840/florida_airport_evacuated_over_security/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohk840</id>
+    <link href="https://www.reddit.com/r/news/comments/ohk840/florida_airport_evacuated_over_security/"></link>
+    <updated>2021-07-10T14:58:50+00:00</updated>
+    <published>2021-07-10T14:58:50+00:00</published>
+    <title>Florida airport evacuated over ‘security investigation’</title>
   </entry>
   <entry>
     <author>
