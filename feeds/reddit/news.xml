@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T14:32:50+00:00</updated>
+  <updated>2021-07-10T15:42:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -85,6 +85,19 @@
     <updated>2021-07-08T15:58:55+00:00</updated>
     <published>2021-07-08T15:58:55+00:00</published>
     <title>Historic Northwest heat wave 'virtually impossible' without human-caused climate crisis, study finds</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Bonboniru</name>
+      <uri>https://www.reddit.com/user/Bonboniru</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Bonboniru"&gt; /u/Bonboniru &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/amp/ncna1273612"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohkfgn/statues_of_confederate_generals_come_down_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohkfgn</id>
+    <link href="https://www.reddit.com/r/news/comments/ohkfgn/statues_of_confederate_generals_come_down_in/"></link>
+    <updated>2021-07-10T15:09:28+00:00</updated>
+    <published>2021-07-10T15:09:28+00:00</published>
+    <title>Statues of Confederate generals come down in Charlottesville, Virginia</title>
   </entry>
   <entry>
     <author>
@@ -501,6 +514,19 @@
     <updated>2021-07-09T00:58:54+00:00</updated>
     <published>2021-07-09T00:58:54+00:00</published>
     <title>17-year-old dies after being shot in the head while driving home from Astros game</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/SovietSunrise</name>
+      <uri>https://www.reddit.com/user/SovietSunrise</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/SovietSunrise"&gt; /u/SovietSunrise &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/10/weather/heat-sea-life-deaths-trnd-scn/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohk9a8/extreme_heat_cooked_mussels_clams_and_other/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohk9a8</id>
+    <link href="https://www.reddit.com/r/news/comments/ohk9a8/extreme_heat_cooked_mussels_clams_and_other/"></link>
+    <updated>2021-07-10T15:00:28+00:00</updated>
+    <published>2021-07-10T15:00:28+00:00</published>
+    <title>Extreme heat cooked mussels, clams and other shellfish alive on beaches in Western Canada</title>
   </entry>
   <entry>
     <author>
