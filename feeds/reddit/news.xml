@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T21:36:18+00:00</updated>
+  <updated>2021-07-10T22:36:05+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -202,6 +202,19 @@
     <updated>2021-07-09T23:27:00+00:00</updated>
     <published>2021-07-09T23:27:00+00:00</published>
     <title>Twitter Bans White Nationalist Leader Nick Fuentes, Ally Of Arizona Republican Rep. Gosar</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Evacipate628</name>
+      <uri>https://www.reddit.com/user/Evacipate628</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Evacipate628"&gt; /u/Evacipate628 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/texas-man-who-waited-6-hours-polling-site-charged-illegal-n1273619"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohr0el/texas_man_who_waited_6_hours_at_polling_site_is/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohr0el</id>
+    <link href="https://www.reddit.com/r/news/comments/ohr0el/texas_man_who_waited_6_hours_at_polling_site_is/"></link>
+    <updated>2021-07-10T21:11:40+00:00</updated>
+    <published>2021-07-10T21:11:40+00:00</published>
+    <title>Texas man who waited 6 hours at polling site is charged with illegal voting</title>
   </entry>
   <entry>
     <author>
@@ -436,6 +449,19 @@
     <updated>2021-07-10T17:55:10+00:00</updated>
     <published>2021-07-10T17:55:10+00:00</published>
     <title>G20 ministers endorse 'historic' global deal to tax multinationals</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/KindOwl2805</name>
+      <uri>https://www.reddit.com/user/KindOwl2805</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KindOwl2805"&gt; /u/KindOwl2805 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/10/us/west-heat-wave-death-valley.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohqyyj/death_valley_hits_130_degrees_as_heat_wave_sweeps/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohqyyj</id>
+    <link href="https://www.reddit.com/r/news/comments/ohqyyj/death_valley_hits_130_degrees_as_heat_wave_sweeps/"></link>
+    <updated>2021-07-10T21:09:23+00:00</updated>
+    <published>2021-07-10T21:09:23+00:00</published>
+    <title>Death Valley Hits 130 Degrees as Heat Wave Sweeps the West</title>
   </entry>
   <entry>
     <author>
@@ -1333,6 +1359,19 @@
     <updated>2021-07-07T21:56:46+00:00</updated>
     <published>2021-07-07T21:56:46+00:00</published>
     <title>Aurora police sergeant arrested in Denver on DUI charges after fleeing scene on foot, police say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/tellman1257</name>
+      <uri>https://www.reddit.com/user/tellman1257</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tellman1257"&gt; /u/tellman1257 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/09/climate/marine-heat-wave.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohr1vb/like_in_postapocalyptic_movies_heat_wave_killed/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohr1vb</id>
+    <link href="https://www.reddit.com/r/news/comments/ohr1vb/like_in_postapocalyptic_movies_heat_wave_killed/"></link>
+    <updated>2021-07-10T21:14:01+00:00</updated>
+    <published>2021-07-10T21:14:01+00:00</published>
+    <title>Like in ‘Postapocalyptic Movies’: Heat Wave Killed Marine Wildlife en Masse An early estimate points to a huge die-off along the Pacific Coast, and scientists say rivers farther inland are warming to levels that could be lethal for some kinds of salmon.</title>
   </entry>
   <entry>
     <author>
