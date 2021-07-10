@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T22:36:05+00:00</updated>
+  <updated>2021-07-10T23:34:15+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -150,6 +150,19 @@
     <updated>2021-07-09T13:59:18+00:00</updated>
     <published>2021-07-09T13:59:18+00:00</published>
     <title>Meth addiction in fish poses threat to ecosystem balance</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/DevilChillin</name>
+      <uri>https://www.reddit.com/user/DevilChillin</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DevilChillin"&gt; /u/DevilChillin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://hothardware.com/news/police-bust-illegal-crypto-mining-ring-enslaving-thousands-of-ps4-consoles"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohs978/police_bust_illegal_cryptomining_ring_enslaving/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohs978</id>
+    <link href="https://www.reddit.com/r/news/comments/ohs978/police_bust_illegal_cryptomining_ring_enslaving/"></link>
+    <updated>2021-07-10T22:23:43+00:00</updated>
+    <published>2021-07-10T22:23:43+00:00</published>
+    <title>Police Bust Illegal Cryptomining Ring Enslaving Thousands Of PS4 Consoles And GPUs</title>
   </entry>
   <entry>
     <author>
@@ -553,6 +566,19 @@
     <updated>2021-07-10T20:45:58+00:00</updated>
     <published>2021-07-10T20:45:58+00:00</published>
     <title>Al Sharpton eulogizes white Arkansas teen shot by deputy</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/PeaceComprehensive16</name>
+      <uri>https://www.reddit.com/user/PeaceComprehensive16</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PeaceComprehensive16"&gt; /u/PeaceComprehensive16 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://amp.cnn.com/cnn/2021/07/09/us/hawaiian-petroglyphs-vandalized-by-paintballs-trnd/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohrrg2/hawaiian_authorities_are_asking_for_help_after/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohrrg2</id>
+    <link href="https://www.reddit.com/r/news/comments/ohrrg2/hawaiian_authorities_are_asking_for_help_after/"></link>
+    <updated>2021-07-10T21:54:53+00:00</updated>
+    <published>2021-07-10T21:54:53+00:00</published>
+    <title>Hawaiian authorities are asking for help after historic cliff carvings were vandalized with paintballs</title>
   </entry>
   <entry>
     <author>
