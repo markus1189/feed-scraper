@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T11:32:58+00:00</updated>
+  <updated>2021-07-10T12:52:48+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -20,6 +20,19 @@
     <updated>2021-07-09T12:10:19+00:00</updated>
     <published>2021-07-09T12:10:19+00:00</published>
     <title>Google's 'hypocritical' remote work policies anger employees</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/404user</name>
+      <uri>https://www.reddit.com/user/404user</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/404user"&gt; /u/404user &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.npr.org/2021/07/09/1014475875/abortion-rights-laws-states-record-conservatives"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohdgip/more_abortion_restrictions_have_been_enacted_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohdgip</id>
+    <link href="https://www.reddit.com/r/news/comments/ohdgip/more_abortion_restrictions_have_been_enacted_in/"></link>
+    <updated>2021-07-10T06:23:39+00:00</updated>
+    <published>2021-07-10T06:23:39+00:00</published>
+    <title>More Abortion Restrictions Have Been Enacted In The U.S. This Year Than In Any Other</title>
   </entry>
   <entry>
     <author>
@@ -647,6 +660,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/dayun616</name>
+      <uri>https://www.reddit.com/user/dayun616</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/dayun616"&gt; /u/dayun616 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/08/asia/belgium-seoul-ambassador-immediate-return-intl/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohgfft/belgium_recalls_ambassador_to_seoul_after_wifes/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohgfft</id>
+    <link href="https://www.reddit.com/r/news/comments/ohgfft/belgium_recalls_ambassador_to_seoul_after_wifes/"></link>
+    <updated>2021-07-10T10:42:14+00:00</updated>
+    <published>2021-07-10T10:42:14+00:00</published>
+    <title>Belgium recalls ambassador to Seoul after wife's second physical altercation</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/fbreaker</name>
       <uri>https://www.reddit.com/user/fbreaker</uri>
     </author>
@@ -1125,6 +1151,19 @@
     <updated>2021-07-09T16:36:55+00:00</updated>
     <published>2021-07-09T16:36:55+00:00</published>
     <title>CDC recommends masking indoors for unvaccinated students, teachers in U.S. schools</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/tool101</name>
+      <uri>https://www.reddit.com/user/tool101</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tool101"&gt; /u/tool101 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/race-and-ethnicity-racial-injustice-charlottesville-2efbc5e13b74e2545a0f6642e2384308"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohgzse/robert_e_lee_statue_removal_underway_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohgzse</id>
+    <link href="https://www.reddit.com/r/news/comments/ohgzse/robert_e_lee_statue_removal_underway_in/"></link>
+    <updated>2021-07-10T11:27:39+00:00</updated>
+    <published>2021-07-10T11:27:39+00:00</published>
+    <title>Robert E. Lee statue removal underway in Charlottesville</title>
   </entry>
   <entry>
     <author>
