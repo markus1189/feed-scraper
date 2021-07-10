@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T16:57:28+00:00</updated>
+  <updated>2021-07-10T17:38:51+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -332,6 +332,19 @@
     <updated>2021-07-10T01:11:20+00:00</updated>
     <published>2021-07-10T01:11:20+00:00</published>
     <title>California city destroys dozens of boats people call home to clear floating community</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/IOughtToBeThrownAway</name>
+      <uri>https://www.reddit.com/user/IOughtToBeThrownAway</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/IOughtToBeThrownAway"&gt; /u/IOughtToBeThrownAway &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.wagmtv.com/2021/07/08/maine-sees-increase-potato-acreage/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohla2n/maine_sees_increase_in_potato_acreage/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohla2n</id>
+    <link href="https://www.reddit.com/r/news/comments/ohla2n/maine_sees_increase_in_potato_acreage/"></link>
+    <updated>2021-07-10T15:57:29+00:00</updated>
+    <published>2021-07-10T15:57:29+00:00</published>
+    <title>Maine sees increase in potato acreage</title>
   </entry>
   <entry>
     <author>
@@ -1008,6 +1021,19 @@
     <updated>2021-07-08T02:18:20+00:00</updated>
     <published>2021-07-08T02:18:20+00:00</published>
     <title>Bear pulls woman out of her tent, kills her in Montana</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nedryerson48</name>
+      <uri>https://www.reddit.com/user/nedryerson48</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.brusselstimes.com/news/belgium-all-news/176925/at-least-20-young-people-flew-from-spain-to-belgium-despite-positive-covid-test/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohm07w/at_least_20_young_people_flew_from_spain_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohm07w</id>
+    <link href="https://www.reddit.com/r/news/comments/ohm07w/at_least_20_young_people_flew_from_spain_to/"></link>
+    <updated>2021-07-10T16:37:12+00:00</updated>
+    <published>2021-07-10T16:37:12+00:00</published>
+    <title>At least 20 young people flew from Spain to Belgium, despite positive Covid test</title>
   </entry>
   <entry>
     <author>
