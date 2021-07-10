@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T18:43:10+00:00</updated>
+  <updated>2021-07-10T19:32:37+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1041,6 +1041,19 @@
       <uri>https://www.reddit.com/user/nedryerson48</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/health-nebraska-bats-152d4d54bbfaeba326afb82daec50d5d"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oho7q4/nebraska_zoo_says_200_people_possibly_exposed_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oho7q4</id>
+    <link href="https://www.reddit.com/r/news/comments/oho7q4/nebraska_zoo_says_200_people_possibly_exposed_to/"></link>
+    <updated>2021-07-10T18:36:58+00:00</updated>
+    <published>2021-07-10T18:36:58+00:00</published>
+    <title>Nebraska zoo says 200 people possibly exposed to rabid bat</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nedryerson48</name>
+      <uri>https://www.reddit.com/user/nedryerson48</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/wy-state-wire-mt-state-wire-id-state-wire-montana-environment-and-nature-b97b23f04ec5e7689d660a0e3a9483af?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ofxs1o/bear_pulls_woman_out_of_her_tent_kills_her_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ofxs1o</id>
     <link href="https://www.reddit.com/r/news/comments/ofxs1o/bear_pulls_woman_out_of_her_tent_kills_her_in/"></link>
@@ -1125,6 +1138,19 @@
     <updated>2021-07-09T19:13:49+00:00</updated>
     <published>2021-07-09T19:13:49+00:00</published>
     <title>Man with concealed carry license steps in, shoots gunman who shot 3, Chicago police say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/pain_in_your_ass</name>
+      <uri>https://www.reddit.com/user/pain_in_your_ass</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/pain_in_your_ass"&gt; /u/pain_in_your_ass &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/housekeeper-claims-chris-brown-s-dog-mauled-her-alleges-he-n1273274"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohnv7r/housekeeper_claims_chris_browns_dog_mauled_her/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohnv7r</id>
+    <link href="https://www.reddit.com/r/news/comments/ohnv7r/housekeeper_claims_chris_browns_dog_mauled_her/"></link>
+    <updated>2021-07-10T18:18:02+00:00</updated>
+    <published>2021-07-10T18:18:02+00:00</published>
+    <title>Housekeeper claims Chris Brown's dog mauled her, alleges he euthanized it to destroy evidence</title>
   </entry>
   <entry>
     <author>
