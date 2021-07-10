@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T20:34:05+00:00</updated>
+  <updated>2021-07-10T21:36:18+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -517,6 +517,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Partiallysensitive</name>
+      <uri>https://www.reddit.com/user/Partiallysensitive</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Partiallysensitive"&gt; /u/Partiallysensitive &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/wireStory/al-sharpton-eulogize-arkansas-teen-fatally-shot-deputy-78682172"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohqjvv/al_sharpton_eulogizes_white_arkansas_teen_shot_by/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohqjvv</id>
+    <link href="https://www.reddit.com/r/news/comments/ohqjvv/al_sharpton_eulogizes_white_arkansas_teen_shot_by/"></link>
+    <updated>2021-07-10T20:45:58+00:00</updated>
+    <published>2021-07-10T20:45:58+00:00</published>
+    <title>Al Sharpton eulogizes white Arkansas teen shot by deputy</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/PhilDesenex</name>
       <uri>https://www.reddit.com/user/PhilDesenex</uri>
     </author>
@@ -865,6 +878,19 @@
     <updated>2021-07-09T04:12:49+00:00</updated>
     <published>2021-07-09T04:12:49+00:00</published>
     <title>Report: 2 Seattle police officers broke law during DC riots</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/iAmTheHYPE-</name>
+      <uri>https://www.reddit.com/user/iAmTheHYPE-</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/iAmTheHYPE-"&gt; /u/iAmTheHYPE- &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.accuweather.com/en/travel/mysterious-ruins-on-el-salvador-beach-captivate-onlookers/977543"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohph8r/mysterious_mansion_ruins_on_beach_captivate/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohph8r</id>
+    <link href="https://www.reddit.com/r/news/comments/ohph8r/mysterious_mansion_ruins_on_beach_captivate/"></link>
+    <updated>2021-07-10T19:45:49+00:00</updated>
+    <published>2021-07-10T19:45:49+00:00</published>
+    <title>Mysterious mansion ruins on beach captivate onlookers</title>
   </entry>
   <entry>
     <author>
