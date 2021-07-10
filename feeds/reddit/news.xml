@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T19:32:37+00:00</updated>
+  <updated>2021-07-10T20:34:05+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -319,6 +319,19 @@
     <updated>2021-07-10T10:43:56+00:00</updated>
     <published>2021-07-10T10:43:56+00:00</published>
     <title>Lawyers for Breonna Taylor's family sue police over existence of body camera footage</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Haqqoo</name>
+      <uri>https://www.reddit.com/user/Haqqoo</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Haqqoo"&gt; /u/Haqqoo &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/travel/article/italy-villages-pay-33000-to-move-in-calabria-cmd/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohp66l/these_pretty_italian_villages_want_to_pay_you/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohp66l</id>
+    <link href="https://www.reddit.com/r/news/comments/ohp66l/these_pretty_italian_villages_want_to_pay_you/"></link>
+    <updated>2021-07-10T19:29:17+00:00</updated>
+    <published>2021-07-10T19:29:17+00:00</published>
+    <title>These pretty Italian villages want to pay you $33,000 to move in</title>
   </entry>
   <entry>
     <author>
