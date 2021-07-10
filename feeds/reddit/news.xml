@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T12:52:48+00:00</updated>
+  <updated>2021-07-10T13:34:03+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -621,6 +621,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/architecture13</name>
+      <uri>https://www.reddit.com/user/architecture13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/architecture13"&gt; /u/architecture13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/09/business/student-loans-wiped-out.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohhq8b/the_education_dept_will_wipe_out_55_million_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohhq8b</id>
+    <link href="https://www.reddit.com/r/news/comments/ohhq8b/the_education_dept_will_wipe_out_55_million_in/"></link>
+    <updated>2021-07-10T12:22:40+00:00</updated>
+    <published>2021-07-10T12:22:40+00:00</published>
+    <title>The Education Dept. will wipe out $55 million in student loans for borrowers at 3 institutions.</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/besselfunctions</name>
       <uri>https://www.reddit.com/user/besselfunctions</uri>
     </author>
@@ -631,6 +644,19 @@
     <updated>2021-07-08T22:30:52+00:00</updated>
     <published>2021-07-08T22:30:52+00:00</published>
     <title>California charges 6 ex-highway officers with overtime fraud</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/bustead</name>
+      <uri>https://www.reddit.com/user/bustead</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/bustead"&gt; /u/bustead &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://sentinelcolorado.com/news/metro/repeat-sexual-offender-sentenced-to-life-in-prison-for-2019-rape-carjacking/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohd2en/repeat_sexual_offender_sentenced_to_life_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohd2en</id>
+    <link href="https://www.reddit.com/r/news/comments/ohd2en/repeat_sexual_offender_sentenced_to_life_in/"></link>
+    <updated>2021-07-10T05:53:04+00:00</updated>
+    <published>2021-07-10T05:53:04+00:00</published>
+    <title>Repeat sexual offender sentenced to life in prison for 2019 rape, carjacking</title>
   </entry>
   <entry>
     <author>
