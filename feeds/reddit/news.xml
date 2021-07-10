@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T01:31:50+00:00</updated>
+  <updated>2021-07-10T02:44:10+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -371,6 +371,19 @@
     <updated>2021-07-09T10:40:29+00:00</updated>
     <published>2021-07-09T10:40:29+00:00</published>
     <title>Police bodycam video shows kidnapped girl, 6, being rescued by officer in Kentucky | US News</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Mighty_L_LORT</name>
+      <uri>https://www.reddit.com/user/Mighty_L_LORT</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mighty_L_LORT"&gt; /u/Mighty_L_LORT &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://news.sky.com/story/covid-19-eleven-people-dying-from-hunger-a-minute-as-pandemic-fuels-starvation-crisis-warns-oxfam-12352071"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oh833v/eleven_people_dying_from_hunger_a_minute/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh833v</id>
+    <link href="https://www.reddit.com/r/news/comments/oh833v/eleven_people_dying_from_hunger_a_minute/"></link>
+    <updated>2021-07-10T00:18:40+00:00</updated>
+    <published>2021-07-10T00:18:40+00:00</published>
+    <title>Eleven people dying from hunger a minute, outpacing those from coronavirus as pandemic fuels starvation crisis, warns Oxfam</title>
   </entry>
   <entry>
     <author>
