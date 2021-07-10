@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T02:44:10+00:00</updated>
+  <updated>2021-07-10T03:39:38+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -491,6 +491,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/TradingAllIn</name>
+      <uri>https://www.reddit.com/user/TradingAllIn</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/TradingAllIn"&gt; /u/TradingAllIn &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/biden-executive-order-anticompetitive-economic-practices-watch-live-stream-today-2021-07-09/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oh25d8/president_biden_signed_an_executive_order_on/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh25d8</id>
+    <link href="https://www.reddit.com/r/news/comments/oh25d8/president_biden_signed_an_executive_order_on/"></link>
+    <updated>2021-07-09T18:56:47+00:00</updated>
+    <published>2021-07-09T18:56:47+00:00</published>
+    <title>President Biden signed an executive order on Friday cracking down on what the White House says are anticompetitive practices among technology companies, labor and several other economic sectors.</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/UnclePhilWasMyFather</name>
       <uri>https://www.reddit.com/user/UnclePhilWasMyFather</uri>
     </author>
@@ -579,6 +592,19 @@
     <updated>2021-07-07T23:36:43+00:00</updated>
     <published>2021-07-07T23:36:43+00:00</published>
     <title>Dangerously low blood supply in U.S. forces some hospitals to postpone surgeries</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cigs_and_coffee</name>
+      <uri>https://www.reddit.com/user/cigs_and_coffee</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cigs_and_coffee"&gt; /u/cigs_and_coffee &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fox5ny.com/news/nypd-bee-keeper-removes-25000-bees-from-times-square"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oh96n2/nypd_beekeeper_removes_25000_bees_from_times/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oh96n2</id>
+    <link href="https://www.reddit.com/r/news/comments/oh96n2/nypd_beekeeper_removes_25000_bees_from_times/"></link>
+    <updated>2021-07-10T01:26:09+00:00</updated>
+    <published>2021-07-10T01:26:09+00:00</published>
+    <title>NYPD beekeeper removes 25,000 bees from Times Square</title>
   </entry>
   <entry>
     <author>
