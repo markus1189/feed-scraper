@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-11T08:37:21+00:00</updated>
+  <updated>2021-07-11T09:38:14+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -500,6 +500,19 @@
     <updated>2021-07-08T13:27:51+00:00</updated>
     <published>2021-07-08T13:27:51+00:00</published>
     <title>Git tag release utility</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/spalza</name>
+      <uri>https://www.reddit.com/user/spalza</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;At my company, each developer has his own EC2 login where his repo is stored. Normally we will connect VsCode directly to this instance and use it as a mounted drive. Pushes and pulls are done to the remote from here.&lt;/p&gt; &lt;p&gt;In my case the drive is quite slow due to my slow internet at home. A senior developer is helping me get the repo from my EC2 instance via zipping script, SCP it to my local, and overwrite my local files (every time I do this). The reverse would be done when I&amp;#39;m ready to update the EC2 instance. This is a workaround until we can configure EC2 as a remote; at the current moment it seems configured but fails to push and pull.&lt;/p&gt; &lt;p&gt;I asked him if there is potential for information loss if I manually overwrite my local files from EC2. He said no because git will keep the latest branch information. Is this correct?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/spalza"&gt; /u/spalza &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oi0ymn/manual_overwrites_will_git_info_be_lost/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oi0ymn/manual_overwrites_will_git_info_be_lost/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi0ymn</id>
+    <link href="https://www.reddit.com/r/git/comments/oi0ymn/manual_overwrites_will_git_info_be_lost/"></link>
+    <updated>2021-07-11T08:49:31+00:00</updated>
+    <published>2021-07-11T08:49:31+00:00</published>
+    <title>Manual overwrites - will git info be lost</title>
   </entry>
   <entry>
     <author>

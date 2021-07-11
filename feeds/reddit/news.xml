@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T08:37:24+00:00</updated>
+  <updated>2021-07-11T09:38:16+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1271,6 +1271,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/nanaboostme</name>
+      <uri>https://www.reddit.com/user/nanaboostme</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nanaboostme"&gt; /u/nanaboostme &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.standard.co.uk/news/uk/richard-branson-elon-musk-the-sunday-times-spacex-jeff-bezos-b945176.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi0mc8/elon_musk_buys_ticket_on_sir_richard_bransons/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi0mc8</id>
+    <link href="https://www.reddit.com/r/news/comments/oi0mc8/elon_musk_buys_ticket_on_sir_richard_bransons/"></link>
+    <updated>2021-07-11T08:18:43+00:00</updated>
+    <published>2021-07-11T08:18:43+00:00</published>
+    <title>Elon Musk buys ticket on Sir Richard Branson’s space flight – report</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/nedryerson48</name>
       <uri>https://www.reddit.com/user/nedryerson48</uri>
     </author>
@@ -1541,6 +1554,19 @@
     <updated>2021-07-10T21:14:01+00:00</updated>
     <published>2021-07-10T21:14:01+00:00</published>
     <title>Like in ‘Postapocalyptic Movies’: Heat Wave Killed Marine Wildlife en Masse An early estimate points to a huge die-off along the Pacific Coast, and scientists say rivers farther inland are warming to levels that could be lethal for some kinds of salmon.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/tequilasky</name>
+      <uri>https://www.reddit.com/user/tequilasky</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tequilasky"&gt; /u/tequilasky &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/Sports/wireStory/messis-argentina-beats-brazil-wins-copa-america-title-78777111"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohw4ax/messis_argentina_beats_brazil_10_wins_copa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohw4ax</id>
+    <link href="https://www.reddit.com/r/news/comments/ohw4ax/messis_argentina_beats_brazil_10_wins_copa/"></link>
+    <updated>2021-07-11T02:30:53+00:00</updated>
+    <published>2021-07-11T02:30:53+00:00</published>
+    <title>Messi's Argentina beats Brazil 1-0, wins Copa America title</title>
   </entry>
   <entry>
     <author>
