@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T20:33:46+00:00</updated>
+  <updated>2021-07-11T21:36:29+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -683,6 +683,19 @@
     <updated>2021-07-10T16:27:34+00:00</updated>
     <published>2021-07-10T16:27:34+00:00</published>
     <title>U.S. Olympic swimmer Michael Andrew won't get vaccinated</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Minute_Presentation</name>
+      <uri>https://www.reddit.com/user/Minute_Presentation</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Minute_Presentation"&gt; /u/Minute_Presentation &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/media/2021/jul/11/georgian-cameraman-dies-after-attack-by-far-right-anti-lgbtq-mob"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oibsnu/georgian_cameraman_dies_after_attack_by_farright/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oibsnu</id>
+    <link href="https://www.reddit.com/r/news/comments/oibsnu/georgian_cameraman_dies_after_attack_by_farright/"></link>
+    <updated>2021-07-11T20:17:38+00:00</updated>
+    <published>2021-07-11T20:17:38+00:00</published>
+    <title>Georgian cameraman dies after attack by far-right, anti-LGBTQ mob</title>
   </entry>
   <entry>
     <author>
