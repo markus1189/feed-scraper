@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T21:36:29+00:00</updated>
+  <updated>2021-07-11T22:36:02+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -46,6 +46,19 @@
     <updated>2021-07-09T05:41:13+00:00</updated>
     <published>2021-07-09T05:41:13+00:00</published>
     <title>5.9 Earthquake Shakes Wide Area of California</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Alex09464367</name>
+      <uri>https://www.reddit.com/user/Alex09464367</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Alex09464367"&gt; /u/Alex09464367 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/sport/live/football/50941458"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oidhig/watch_euro_2020_final_penalty_heartbreak_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oidhig</id>
+    <link href="https://www.reddit.com/r/news/comments/oidhig/watch_euro_2020_final_penalty_heartbreak_for/"></link>
+    <updated>2021-07-11T21:56:24+00:00</updated>
+    <published>2021-07-11T21:56:24+00:00</published>
+    <title>Watch Euro 2020 final: Penalty heartbreak for England as Italy win shootout</title>
   </entry>
   <entry>
     <author>
@@ -137,6 +150,19 @@
     <updated>2021-07-09T18:06:41+00:00</updated>
     <published>2021-07-09T18:06:41+00:00</published>
     <title>The U.S. just experienced its hottest June on record</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/CAllD2B</name>
+      <uri>https://www.reddit.com/user/CAllD2B</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/CAllD2B"&gt; /u/CAllD2B &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.episcopalnewsservice.org/pressreleases/santa-fe-church-forgives-entire-state-of-new-mexico-medical-debt/?fbclid=IwAR1wB6fRXKrSunM6qLQEg0jSgEzDmVK9cWNkfZdWohHmgBud05TVRyYz4XM"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oid3h9/santa_fe_church_forgives_entire_state_of_new/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oid3h9</id>
+    <link href="https://www.reddit.com/r/news/comments/oid3h9/santa_fe_church_forgives_entire_state_of_new/"></link>
+    <updated>2021-07-11T21:32:12+00:00</updated>
+    <published>2021-07-11T21:32:12+00:00</published>
+    <title>Santa Fe Church Forgives Entire State of New Mexico Medical Debt</title>
   </entry>
   <entry>
     <author>
@@ -982,6 +1008,19 @@
     <updated>2021-07-08T22:39:54+00:00</updated>
     <published>2021-07-08T22:39:54+00:00</published>
     <title>California exodus is just a myth, massive UC research project finds</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/alien_ghost</name>
+      <uri>https://www.reddit.com/user/alien_ghost</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/alien_ghost"&gt; /u/alien_ghost &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/Sports/wireStory/atlanta-lb-mingo-charged-indecency-child-texas-78775729"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oibpyt/nfl_lb_mingo_charged_with_indecency_with_child_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oibpyt</id>
+    <link href="https://www.reddit.com/r/news/comments/oibpyt/nfl_lb_mingo_charged_with_indecency_with_child_in/"></link>
+    <updated>2021-07-11T20:13:35+00:00</updated>
+    <published>2021-07-11T20:13:35+00:00</published>
+    <title>NFL LB Mingo charged with indecency with child in Texas</title>
   </entry>
   <entry>
     <author>
