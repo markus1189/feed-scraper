@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-10T23:34:15+00:00</updated>
+  <updated>2021-07-11T01:39:18+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -205,6 +205,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/DragonPup</name>
+      <uri>https://www.reddit.com/user/DragonPup</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DragonPup"&gt; /u/DragonPup &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/new-covid-19-cases-united-states-almost-all-among-people-unvaccinated/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohuzjq/almost_all_new_covid19_cases_are_among_people_who/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohuzjq</id>
+    <link href="https://www.reddit.com/r/news/comments/ohuzjq/almost_all_new_covid19_cases_are_among_people_who/"></link>
+    <updated>2021-07-11T01:13:39+00:00</updated>
+    <published>2021-07-11T01:13:39+00:00</published>
+    <title>Almost all new COVID-19 cases are among people who have not been vaccinated</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Elderthedog</name>
       <uri>https://www.reddit.com/user/Elderthedog</uri>
     </author>
@@ -371,6 +384,19 @@
     <updated>2021-07-09T17:12:28+00:00</updated>
     <published>2021-07-09T17:12:28+00:00</published>
     <title>Los Angeles County sees exponential growth in Covid-19 cases as Delta variant becomes dominant, worrying officials</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Hughjarse</name>
+      <uri>https://www.reddit.com/user/Hughjarse</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Hughjarse"&gt; /u/Hughjarse &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.abc.net.au/news/2021-07-11/california-fires-advance-as-heatwave-blankets-western-us/100284324"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohtx4l/california_burns_as_staggering_high_temperature/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohtx4l</id>
+    <link href="https://www.reddit.com/r/news/comments/ohtx4l/california_burns_as_staggering_high_temperature/"></link>
+    <updated>2021-07-11T00:03:11+00:00</updated>
+    <published>2021-07-11T00:03:11+00:00</published>
+    <title>California burns as staggering high temperature of 54C recorded in Death Valley</title>
   </entry>
   <entry>
     <author>
@@ -738,6 +764,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/XXmynameisNeganXX</name>
+      <uri>https://www.reddit.com/user/XXmynameisNeganXX</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/XXmynameisNeganXX"&gt; /u/XXmynameisNeganXX &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcbayarea.com/news/california/california-wildfire-advances-as-heat-wave-blankets-us-west/2591007/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohsleq/california_wildfire_advances_as_heat_wave/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohsleq</id>
+    <link href="https://www.reddit.com/r/news/comments/ohsleq/california_wildfire_advances_as_heat_wave/"></link>
+    <updated>2021-07-10T22:43:22+00:00</updated>
+    <published>2021-07-10T22:43:22+00:00</published>
+    <title>California Wildfire advances as heat wave blankets US West</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Yeetdembabies</name>
       <uri>https://www.reddit.com/user/Yeetdembabies</uri>
     </author>
@@ -1060,6 +1099,19 @@
     <updated>2021-07-08T10:30:17+00:00</updated>
     <published>2021-07-08T10:30:17+00:00</published>
     <title>Exiled Turkish journalist attacked outside home in Germany</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marsianer</name>
+      <uri>https://www.reddit.com/user/marsianer</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marsianer"&gt; /u/marsianer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://whbl.com/2021/07/09/russia-records-around-428000-excess-deaths-during-pandemic-reuters-calculations/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohul5k/russia_records_around_428000_excess_deaths_during/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohul5k</id>
+    <link href="https://www.reddit.com/r/news/comments/ohul5k/russia_records_around_428000_excess_deaths_during/"></link>
+    <updated>2021-07-11T00:47:29+00:00</updated>
+    <published>2021-07-11T00:47:29+00:00</published>
+    <title>Russia records around 428,000 excess deaths during pandemic</title>
   </entry>
   <entry>
     <author>
@@ -1489,6 +1541,19 @@
     <updated>2021-07-09T15:43:15+00:00</updated>
     <published>2021-07-09T15:43:15+00:00</published>
     <title>Heavy Rains Pound New York City, Flooding Subway Stations and Roads</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/very_excited</name>
+      <uri>https://www.reddit.com/user/very_excited</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/very_excited"&gt; /u/very_excited &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/lifestyle-politics-government-and-politics-georgia-jimmy-carter-55f6bac7ab089707a18a5cd23194b2b9"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohufot/jimmy_carter_wife_rosalynn_celebrate_75_years_of/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohufot</id>
+    <link href="https://www.reddit.com/r/news/comments/ohufot/jimmy_carter_wife_rosalynn_celebrate_75_years_of/"></link>
+    <updated>2021-07-11T00:37:25+00:00</updated>
+    <published>2021-07-11T00:37:25+00:00</published>
+    <title>Jimmy Carter, wife Rosalynn celebrate 75 years of marriage</title>
   </entry>
   <entry>
     <author>
