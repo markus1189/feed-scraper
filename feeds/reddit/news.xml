@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T10:37:49+00:00</updated>
+  <updated>2021-07-11T11:32:41+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -410,6 +410,32 @@
     <updated>2021-07-09T17:12:28+00:00</updated>
     <published>2021-07-09T17:12:28+00:00</published>
     <title>Los Angeles County sees exponential growth in Covid-19 cases as Delta variant becomes dominant, worrying officials</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Hero_You_Dont_Need</name>
+      <uri>https://www.reddit.com/user/Hero_You_Dont_Need</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Hero_You_Dont_Need"&gt; /u/Hero_You_Dont_Need &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fr24news.com/a/2021/07/video-shows-woman-taped-to-seat-after-trying-to-open-plane-door-on-american-airlines-flight.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi2h1d/video_shows_woman_taped_to_seat_after_trying_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi2h1d</id>
+    <link href="https://www.reddit.com/r/news/comments/oi2h1d/video_shows_woman_taped_to_seat_after_trying_to/"></link>
+    <updated>2021-07-11T11:01:29+00:00</updated>
+    <published>2021-07-11T11:01:29+00:00</published>
+    <title>Video shows woman taped to seat after trying to open plane door on American Airlines flight</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Hodeedo</name>
+      <uri>https://www.reddit.com/user/Hodeedo</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Hodeedo"&gt; /u/Hodeedo &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/video/maryland-looks-to-restore-oyster-population/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi1sgr/maryland_looks_to_restore_oyster_population/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi1sgr</id>
+    <link href="https://www.reddit.com/r/news/comments/oi1sgr/maryland_looks_to_restore_oyster_population/"></link>
+    <updated>2021-07-11T10:03:15+00:00</updated>
+    <published>2021-07-11T10:03:15+00:00</published>
+    <title>Maryland looks to restore oyster population</title>
   </entry>
   <entry>
     <author>
