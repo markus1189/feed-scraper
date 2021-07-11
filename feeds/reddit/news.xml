@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T17:39:04+00:00</updated>
+  <updated>2021-07-11T18:43:17+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -950,6 +950,19 @@
       <uri>https://www.reddit.com/user/altmorty</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/altmorty"&gt; /u/altmorty &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/society/2021/jul/11/baby-gets-go-ahead-for-worlds-most-expensive-drug-from-nhs"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi7r77/baby_gets_goahead_for_worlds_most_expensive_drug/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi7r77</id>
+    <link href="https://www.reddit.com/r/news/comments/oi7r77/baby_gets_goahead_for_worlds_most_expensive_drug/"></link>
+    <updated>2021-07-11T16:37:17+00:00</updated>
+    <published>2021-07-11T16:37:17+00:00</published>
+    <title>Baby gets go-ahead for world’s most expensive drug from UK National Health Service: NHS approved to use gene therapy to treat baby born with spinal muscular atrophy</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/altmorty</name>
+      <uri>https://www.reddit.com/user/altmorty</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/altmorty"&gt; /u/altmorty &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/world/2021/jul/09/missing-teacher-alice-hodgkinson-reportedly-found-dead-in-japan"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogzsor/missing_teacher_alice_hodgkinson_reportedly_found/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ogzsor</id>
     <link href="https://www.reddit.com/r/news/comments/ogzsor/missing_teacher_alice_hodgkinson_reportedly_found/"></link>
@@ -1089,6 +1102,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/deepseed26</name>
+      <uri>https://www.reddit.com/user/deepseed26</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/deepseed26"&gt; /u/deepseed26 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.euroweeklynews.com/2021/07/10/covid-passports-uk/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi8wmm/covid_passports_will_be_compulsory_in_uk_pubs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi8wmm</id>
+    <link href="https://www.reddit.com/r/news/comments/oi8wmm/covid_passports_will_be_compulsory_in_uk_pubs/"></link>
+    <updated>2021-07-11T17:39:40+00:00</updated>
+    <published>2021-07-11T17:39:40+00:00</published>
+    <title>Covid passports will be compulsory in UK pubs</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/fbreaker</name>
       <uri>https://www.reddit.com/user/fbreaker</uri>
     </author>
@@ -1164,6 +1190,19 @@
     <updated>2021-07-09T04:12:49+00:00</updated>
     <published>2021-07-09T04:12:49+00:00</published>
     <title>Report: 2 Seattle police officers broke law during DC riots</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/guntherbumpass</name>
+      <uri>https://www.reddit.com/user/guntherbumpass</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/guntherbumpass"&gt; /u/guntherbumpass &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/trouble-alaska-massive-oil-pipeline-threatened-thawing-permafrost-n1273589"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi7sgz/trouble_in_alaska_massive_oil_pipeline_is/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi7sgz</id>
+    <link href="https://www.reddit.com/r/news/comments/oi7sgz/trouble_in_alaska_massive_oil_pipeline_is/"></link>
+    <updated>2021-07-11T16:39:10+00:00</updated>
+    <published>2021-07-11T16:39:10+00:00</published>
+    <title>Trouble in Alaska? Massive oil pipeline is threatened by thawing permafrost</title>
   </entry>
   <entry>
     <author>
