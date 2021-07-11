@@ -1,12 +1,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-11T15:41:59+00:00</updated>
+  <updated>2021-07-11T16:57:27+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
   <link rel="alternate" href="https://www.reddit.com/r/git" type="text/html"></link>
   <logo>https://b.thumbs.redditmedia.com/Bw40GDos1awbwVMD5-ChpEuIISbIvbfoWdVJOrmPuHI.png</logo>
   <title>git</title>
+  <entry>
+    <author>
+      <name>/u/AllezLesHabs21</name>
+      <uri>https://www.reddit.com/user/AllezLesHabs21</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;So, a graphic representation:&lt;/p&gt; &lt;p&gt;&lt;code&gt; Main ---&amp;gt; Mods ---------------------------------&amp;gt; AddX - Changed Modal Size | - Add prettier to the code block - Changed alert timeout | &lt;/code&gt;&lt;/p&gt; &lt;p&gt;Then when I publish, push and create a PR from AddX to Main, the only changes would be that there is prettier added to the code block.&lt;/p&gt; &lt;p&gt;This is because I have added some mods to make my life easier, but they aren&amp;#39;t needed, it&amp;#39;s just a personal preference. Anything in AddX will not conflict with Mods.&lt;/p&gt; &lt;p&gt;I hope this makes sense and that it&amp;#39;s possible....&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AllezLesHabs21"&gt; /u/AllezLesHabs21 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oi7fcn/help_i_created_a_branch_mods_based_on_main_main_i/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oi7fcn/help_i_created_a_branch_mods_based_on_main_main_i/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi7fcn</id>
+    <link href="https://www.reddit.com/r/git/comments/oi7fcn/help_i_created_a_branch_mods_based_on_main_main_i/"></link>
+    <updated>2021-07-11T16:18:49+00:00</updated>
+    <published>2021-07-11T16:18:49+00:00</published>
+    <title>[Help] I created a branch (Mods) based on main (Main). I want to create a branch based on (Mods) called AddX, but then when I create a PR for AddX there is only the difference between AddX and Main in the PR. Is this possible?</title>
+  </entry>
   <entry>
     <author>
       <name>/u/Andy-AO</name>
@@ -383,6 +396,19 @@
     <updated>2021-07-04T20:24:52+00:00</updated>
     <published>2021-07-04T20:24:52+00:00</published>
     <title>NEW VSCode extension "Blockman" to highlight nested code blocks</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/lestrenched</name>
+      <uri>https://www.reddit.com/user/lestrenched</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;For example,&lt;/p&gt; &lt;p&gt;&lt;code&gt; commit &amp;lt;super-long-hash&amp;gt; Author: None &amp;lt;None&amp;gt; Date: Sat Jul 10 05:19:13 2021 -0700 &lt;/code&gt;&lt;/p&gt; &lt;p&gt;I don&amp;#39;t understand why this is happening. I&amp;#39;ve tried searching for it, but no results. This is affecting my commits, my GitHub repo says &amp;quot;None commited &amp;lt;commit message&amp;gt;&amp;quot;. Please help.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/lestrenched"&gt; /u/lestrenched &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oi7u9w/helpwhy_do_my_commits_show_none_as_author/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oi7u9w/helpwhy_do_my_commits_show_none_as_author/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi7u9w</id>
+    <link href="https://www.reddit.com/r/git/comments/oi7u9w/helpwhy_do_my_commits_show_none_as_author/"></link>
+    <updated>2021-07-11T16:41:57+00:00</updated>
+    <published>2021-07-11T16:41:57+00:00</published>
+    <title>[HELP]Why do my commits show "None" as author?</title>
   </entry>
   <entry>
     <author>

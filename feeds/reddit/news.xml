@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T15:42:01+00:00</updated>
+  <updated>2021-07-11T16:57:30+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -608,6 +608,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/LengthinessDue5066</name>
+      <uri>https://www.reddit.com/user/LengthinessDue5066</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/LengthinessDue5066"&gt; /u/LengthinessDue5066 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/health/health-news/high-potency-weed-linked-psychotic-episodes-mysterious-vomiting-illness-young-n1273463"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi4s36/a_mysterious_vomiting_illness_afflicts_some_users/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi4s36</id>
+    <link href="https://www.reddit.com/r/news/comments/oi4s36/a_mysterious_vomiting_illness_afflicts_some_users/"></link>
+    <updated>2021-07-11T13:49:00+00:00</updated>
+    <published>2021-07-11T13:49:00+00:00</published>
+    <title>A mysterious vomiting illness afflicts some users of high potency pot</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/MalcolmLinair</name>
       <uri>https://www.reddit.com/user/MalcolmLinair</uri>
     </author>
@@ -1151,6 +1164,19 @@
     <updated>2021-07-10T19:45:49+00:00</updated>
     <published>2021-07-10T19:45:49+00:00</published>
     <title>Mysterious mansion ruins on beach captivate onlookers</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ilovelifewoof</name>
+      <uri>https://www.reddit.com/user/ilovelifewoof</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ilovelifewoof"&gt; /u/ilovelifewoof &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/europe/georgia-probes-death-journalist-beaten-during-attacks-lgbt-supporters-2021-07-11/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi5fnx/georgia_probes_death_of_journalist_beaten_during/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi5fnx</id>
+    <link href="https://www.reddit.com/r/news/comments/oi5fnx/georgia_probes_death_of_journalist_beaten_during/"></link>
+    <updated>2021-07-11T14:28:43+00:00</updated>
+    <published>2021-07-11T14:28:43+00:00</published>
+    <title>Georgia probes death of journalist beaten during attacks on LGBT+ supporters</title>
   </entry>
   <entry>
     <author>
