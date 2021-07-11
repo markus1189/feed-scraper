@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T04:46:06+00:00</updated>
+  <updated>2021-07-11T05:32:35+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -59,6 +59,19 @@
     <updated>2021-07-10T17:28:17+00:00</updated>
     <published>2021-07-10T17:28:17+00:00</published>
     <title>Michigan family loses appeal in lawsuit over priest's funeral remarks</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/BlackMixen</name>
+      <uri>https://www.reddit.com/user/BlackMixen</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/BlackMixen"&gt; /u/BlackMixen &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/world/2021/jul/11/woman-90-infected-with-alpha-and-beta-covid-variants-at-the-same-time?CMP=Share_AndroidApp_Other"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohxj5a/woman_90_infected_with_alpha_and_beta_covid/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohxj5a</id>
+    <link href="https://www.reddit.com/r/news/comments/ohxj5a/woman_90_infected_with_alpha_and_beta_covid/"></link>
+    <updated>2021-07-11T04:09:22+00:00</updated>
+    <published>2021-07-11T04:09:22+00:00</published>
+    <title>Woman, 90, infected with Alpha and Beta Covid variants at the same time</title>
   </entry>
   <entry>
     <author>
@@ -293,6 +306,19 @@
     <updated>2021-07-09T13:11:10+00:00</updated>
     <published>2021-07-09T13:11:10+00:00</published>
     <title>Man who smashed Black teen's face with bike chain sentenced to 5 years in prison</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Frequent-Arrival4266</name>
+      <uri>https://www.reddit.com/user/Frequent-Arrival4266</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Frequent-Arrival4266"&gt; /u/Frequent-Arrival4266 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.thedenverchannel.com/news/crime/4-arrested-at-maven-hotel-police-feared-a-las-vegas-style-shooting-during-all-star-game-in-denver#click=https://t.co/hQpvkNDSmZ"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohyf8x/maid_stops_potential_mass_shooting_ahead_of/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohyf8x</id>
+    <link href="https://www.reddit.com/r/news/comments/ohyf8x/maid_stops_potential_mass_shooting_ahead_of/"></link>
+    <updated>2021-07-11T05:16:04+00:00</updated>
+    <published>2021-07-11T05:16:04+00:00</published>
+    <title>Maid stops potential mass shooting ahead of Denver MLB All Star Game</title>
   </entry>
   <entry>
     <author>
