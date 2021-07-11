@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T22:36:02+00:00</updated>
+  <updated>2021-07-11T23:34:30+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -595,6 +595,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/JBupp</name>
+      <uri>https://www.reddit.com/user/JBupp</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/JBupp"&gt; /u/JBupp &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/woman-hits-multiple-cops-wild-police-chase-arrested/story?id=78705411"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oidkso/woman_hits_multiple_cops_in_wild_police_chase/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oidkso</id>
+    <link href="https://www.reddit.com/r/news/comments/oidkso/woman_hits_multiple_cops_in_wild_police_chase/"></link>
+    <updated>2021-07-11T22:01:03+00:00</updated>
+    <published>2021-07-11T22:01:03+00:00</published>
+    <title>Woman hits multiple cops in wild police chase, gets arrested while ordering food at McDonald's drive-thru</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/JomadoSumabi</name>
       <uri>https://www.reddit.com/user/JomadoSumabi</uri>
     </author>
@@ -894,6 +907,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/The_Krukenberg</name>
+      <uri>https://www.reddit.com/user/The_Krukenberg</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/The_Krukenberg"&gt; /u/The_Krukenberg &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/11/anthony-fauci-covid-booster-shot-vaccinated-americans"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oidltp/fauci_says_no_immediate_need_for_covid_booster/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oidltp</id>
+    <link href="https://www.reddit.com/r/news/comments/oidltp/fauci_says_no_immediate_need_for_covid_booster/"></link>
+    <updated>2021-07-11T22:02:30+00:00</updated>
+    <published>2021-07-11T22:02:30+00:00</published>
+    <title>Fauci says no immediate need for Covid booster for fully vaccinated Americans</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Thegoods030</name>
       <uri>https://www.reddit.com/user/Thegoods030</uri>
     </author>
@@ -1164,6 +1190,19 @@
     <updated>2021-07-10T01:26:09+00:00</updated>
     <published>2021-07-10T01:26:09+00:00</published>
     <title>NYPD beekeeper removes 25,000 bees from Times Square</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cyanocobalamin</name>
+      <uri>https://www.reddit.com/user/cyanocobalamin</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cyanocobalamin"&gt; /u/cyanocobalamin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/weather/death-valley-hits-130-degrees-relentless-western-heat-wave-adds-n1273648"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oidm7w/death_valley_hits_130_degrees_as_relentless/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oidm7w</id>
+    <link href="https://www.reddit.com/r/news/comments/oidm7w/death_valley_hits_130_degrees_as_relentless/"></link>
+    <updated>2021-07-11T22:03:05+00:00</updated>
+    <published>2021-07-11T22:03:05+00:00</published>
+    <title>Death Valley hits 130 degrees as relentless Western heat wave adds fuel to wildfires</title>
   </entry>
   <entry>
     <author>
@@ -1463,6 +1502,19 @@
     <updated>2021-07-11T00:47:29+00:00</updated>
     <published>2021-07-11T00:47:29+00:00</published>
     <title>Russia records around 428,000 excess deaths during pandemic</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marsianer</name>
+      <uri>https://www.reddit.com/user/marsianer</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marsianer"&gt; /u/marsianer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/indigenous-american-residential-schools/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oidvfx/indigenous_americans_call_for_justice_over/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oidvfx</id>
+    <link href="https://www.reddit.com/r/news/comments/oidvfx/indigenous_americans_call_for_justice_over/"></link>
+    <updated>2021-07-11T22:16:43+00:00</updated>
+    <published>2021-07-11T22:16:43+00:00</published>
+    <title>Indigenous Americans call for justice over residential schools</title>
   </entry>
   <entry>
     <author>
@@ -1827,6 +1879,19 @@
     <updated>2021-07-07T21:56:46+00:00</updated>
     <published>2021-07-07T21:56:46+00:00</published>
     <title>Aurora police sergeant arrested in Denver on DUI charges after fleeing scene on foot, police say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/stupidstupidreddit2</name>
+      <uri>https://www.reddit.com/user/stupidstupidreddit2</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/stupidstupidreddit2"&gt; /u/stupidstupidreddit2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/11/world/americas/cuba-crisis-protests.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oidiw3/cubans_denounce_misery_in_biggest_protests_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oidiw3</id>
+    <link href="https://www.reddit.com/r/news/comments/oidiw3/cubans_denounce_misery_in_biggest_protests_in/"></link>
+    <updated>2021-07-11T21:58:26+00:00</updated>
+    <published>2021-07-11T21:58:26+00:00</published>
+    <title>Cubans Denounce ‘Misery’ in Biggest Protests in Decades</title>
   </entry>
   <entry>
     <author>
