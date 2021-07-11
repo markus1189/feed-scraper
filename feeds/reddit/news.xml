@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T12:52:42+00:00</updated>
+  <updated>2021-07-11T13:34:09+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1515,6 +1515,19 @@
     <updated>2021-07-10T12:19:13+00:00</updated>
     <published>2021-07-10T12:19:13+00:00</published>
     <title>California earthquake sends boulders tumbling onto major highway</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/secret759</name>
+      <uri>https://www.reddit.com/user/secret759</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/secret759"&gt; /u/secret759 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/europe/pope-francis-appears-public-first-time-since-surgery-2021-07-11/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi482d/pope_reappears_after_surgery_backs_free_universal/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi482d</id>
+    <link href="https://www.reddit.com/r/news/comments/oi482d/pope_reappears_after_surgery_backs_free_universal/"></link>
+    <updated>2021-07-11T13:12:50+00:00</updated>
+    <published>2021-07-11T13:12:50+00:00</published>
+    <title>Pope reappears after surgery, backs free universal health care</title>
   </entry>
   <entry>
     <author>
