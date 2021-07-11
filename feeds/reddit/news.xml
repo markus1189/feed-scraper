@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T03:39:49+00:00</updated>
+  <updated>2021-07-11T04:46:06+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -722,6 +722,19 @@
     <updated>2021-07-08T14:22:19+00:00</updated>
     <published>2021-07-08T14:22:19+00:00</published>
     <title>Code in huge ransomware attack written to avoid Russian computers</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/The_Krukenberg</name>
+      <uri>https://www.reddit.com/user/The_Krukenberg</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/The_Krukenberg"&gt; /u/The_Krukenberg &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/10/us/west-heat-wave-death-valley.html?utm_source=facebook&amp;amp;utm_medium=news_tab&amp;amp;utm_content=curated&amp;amp;fb_news_token=Ry%2BP9WOJZ44G3SbW6aolGw%3D%3D.H5fTcVZAx5HGoOfSjHTazZXWCvBbnRsZp9zEXBxkZLASZ%2BHeNNwBIUStXkMEtLenru4DNNBBFBA7P8JgmMkPkBLX1%2FUEX3n49mBX0RKIE7LKuLhwJBEGHh4txkM%2FWJAvR%2FwxWNNVz7h8Ys4ShBflhAnN5yZUG1%2BdafGXuaKMGrRh1tPQA3AjbkMAMQ1xqoWR6QmS%2BGGTRWjZUKZlPS9VtOXe00oV3OITPIsGaHUVeb0xSz9IsbDnR6n80FmYdYMNNiT44DZfvd9XQIr6w1T6bg%3D%3D"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohwzbq/death_valley_hits_130_degrees_as_heat_wave_sweeps/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohwzbq</id>
+    <link href="https://www.reddit.com/r/news/comments/ohwzbq/death_valley_hits_130_degrees_as_heat_wave_sweeps/"></link>
+    <updated>2021-07-11T03:30:02+00:00</updated>
+    <published>2021-07-11T03:30:02+00:00</published>
+    <title>Death Valley Hits 130 Degrees as Heat Wave Sweeps the West</title>
   </entry>
   <entry>
     <author>
@@ -1502,6 +1515,19 @@
     <updated>2021-07-09T12:35:43+00:00</updated>
     <published>2021-07-09T12:35:43+00:00</published>
     <title>Man accused of stabbing Boston rabbi is charged with hate crimes</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/thexboxcollect</name>
+      <uri>https://www.reddit.com/user/thexboxcollect</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/thexboxcollect"&gt; /u/thexboxcollect &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.thedenverchannel.com/news/crime/four-arrested-at-maven-hotel-face-weapon-charges-police-feared-las-vegas-style-shooting-during-all-star-game"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohxhx0/four_arrested_at_maven_hotel_face_weapon_charges/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohxhx0</id>
+    <link href="https://www.reddit.com/r/news/comments/ohxhx0/four_arrested_at_maven_hotel_face_weapon_charges/"></link>
+    <updated>2021-07-11T04:07:00+00:00</updated>
+    <published>2021-07-11T04:07:00+00:00</published>
+    <title>Four arrested at Maven Hotel face weapon charges; police feared ‘Las Vegas style shooting’ during All-Star Game</title>
   </entry>
   <entry>
     <author>
