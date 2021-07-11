@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T16:57:30+00:00</updated>
+  <updated>2021-07-11T17:39:04+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -846,6 +846,19 @@
       <uri>https://www.reddit.com/user/Thegoods030</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Thegoods030"&gt; /u/Thegoods030 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.13abc.com/2021/07/07/city-toledo-takes-firefighters-court-they-battle-cancer/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi84rr/city_of_toledo_takes_cancerstricken_firefighters/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi84rr</id>
+    <link href="https://www.reddit.com/r/news/comments/oi84rr/city_of_toledo_takes_cancerstricken_firefighters/"></link>
+    <updated>2021-07-11T16:57:49+00:00</updated>
+    <published>2021-07-11T16:57:49+00:00</published>
+    <title>City of Toledo takes cancer-stricken firefighters to court over worker’s comp claims</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Thegoods030</name>
+      <uri>https://www.reddit.com/user/Thegoods030</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Thegoods030"&gt; /u/Thegoods030 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fireengineering.com/firefighting/man-arrested-after-throwing-improvised-explosive-device-near-boulder-fire-station/?utm_medium=email&amp;amp;utm_source=fe_daily_newsletter&amp;amp;utm_campaign=2021-07-08"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogdstw/man_arrested_after_throwing_improvised_explosive/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ogdstw</id>
     <link href="https://www.reddit.com/r/news/comments/ogdstw/man_arrested_after_throwing_improvised_explosive/"></link>
@@ -1177,6 +1190,19 @@
     <updated>2021-07-11T14:28:43+00:00</updated>
     <published>2021-07-11T14:28:43+00:00</published>
     <title>Georgia probes death of journalist beaten during attacks on LGBT+ supporters</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/incubusfan3737</name>
+      <uri>https://www.reddit.com/user/incubusfan3737</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/incubusfan3737"&gt; /u/incubusfan3737 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fox13news.com/news/in-one-day-nine-tons-of-dead-fish-removed-from-st-pete-waters-due-to-red-tide-elsa"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi73dn/in_one_day_9_tons_of_dead_fish_removed_from_st/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi73dn</id>
+    <link href="https://www.reddit.com/r/news/comments/oi73dn/in_one_day_9_tons_of_dead_fish_removed_from_st/"></link>
+    <updated>2021-07-11T16:00:41+00:00</updated>
+    <published>2021-07-11T16:00:41+00:00</published>
+    <title>In one day, 9 tons of dead fish removed from St. Pete waters after red tide, Elsa</title>
   </entry>
   <entry>
     <author>
