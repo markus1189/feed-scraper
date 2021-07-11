@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T18:43:17+00:00</updated>
+  <updated>2021-07-11T19:32:47+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -176,6 +176,19 @@
     <updated>2021-07-10T22:23:43+00:00</updated>
     <published>2021-07-10T22:23:43+00:00</published>
     <title>Police Bust Illegal Cryptomining Ring Enslaving Thousands Of PS4 Consoles And GPUs</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/DevilChillin</name>
+      <uri>https://www.reddit.com/user/DevilChillin</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DevilChillin"&gt; /u/DevilChillin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.hawaiinewsnow.com/2021/07/10/ntsb-releases-first-images-cargo-plane-wreckage-deep-waters-off-oahu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi7zq0/ntsb_releases_first_images_of_cargo_plane/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi7zq0</id>
+    <link href="https://www.reddit.com/r/news/comments/oi7zq0/ntsb_releases_first_images_of_cargo_plane/"></link>
+    <updated>2021-07-11T16:50:04+00:00</updated>
+    <published>2021-07-11T16:50:04+00:00</published>
+    <title>NTSB releases first images of cargo plane wreckage in deep waters off Oahu</title>
   </entry>
   <entry>
     <author>
@@ -904,6 +917,19 @@
     <updated>2021-07-10T00:06:22+00:00</updated>
     <published>2021-07-10T00:06:22+00:00</published>
     <title>Alabama has lowest percentage of COVID-19 vaccinated residents in U.S.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Weezy-NJPW_Fan</name>
+      <uri>https://www.reddit.com/user/Weezy-NJPW_Fan</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Weezy-NJPW_Fan"&gt; /u/Weezy-NJPW_Fan &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcsandiego.com/news/local/father-joe-carroll-dies-at-80-legendary-priest-helped-san-diego-homeless/2652919/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi9syf/father_joe_carroll_dies_at_80_san_diego_icon/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi9syf</id>
+    <link href="https://www.reddit.com/r/news/comments/oi9syf/father_joe_carroll_dies_at_80_san_diego_icon/"></link>
+    <updated>2021-07-11T18:27:53+00:00</updated>
+    <published>2021-07-11T18:27:53+00:00</published>
+    <title>Father Joe Carroll Dies at 80; San Diego Icon Helped Homeless for Nearly 40 Years</title>
   </entry>
   <entry>
     <author>

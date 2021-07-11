@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-11T18:43:15+00:00</updated>
+  <updated>2021-07-11T19:32:45+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -230,6 +230,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/TechBasedQuestion</name>
+      <uri>https://www.reddit.com/user/TechBasedQuestion</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I was wondering what code repo (github, bitbucket, gitlab, etc.) would be best to use for individuals in 2021. I&amp;#39;ve seen a lot of posts on this subject, but they almost all seem super outdated (many saying stuff like github not allowing private repos). I personally use github right now mainly because using the github desktop tool is super simple and nice and I never really learned how to properly use git, but I haven&amp;#39;t really been thinking of the other options available or how they work until today since I noticed that all the activity in my private repositories was being cast out on github weather I liked it or not. What are the upsides and downsides of whats available, and what would you recommend for individuals who still aren&amp;#39;t doing anything tech-heavy? &lt;/p&gt; &lt;p&gt;TLDR: What would the best code repo be for an individual making very basic programs that just wants a place to host personal projects with version control in case anything goes wrong?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/TechBasedQuestion"&gt; /u/TechBasedQuestion &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oia371/best_code_repo_in_2021/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oia371/best_code_repo_in_2021/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oia371</id>
+    <link href="https://www.reddit.com/r/git/comments/oia371/best_code_repo_in_2021/"></link>
+    <updated>2021-07-11T18:43:05+00:00</updated>
+    <published>2021-07-11T18:43:05+00:00</published>
+    <title>Best Code Repo in 2021?</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Wallik2</name>
       <uri>https://www.reddit.com/user/Wallik2</uri>
     </author>
@@ -360,6 +373,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/javascript_dev</name>
+      <uri>https://www.reddit.com/user/javascript_dev</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I now have two remotes. One is from my company, and the other is is from my local computer (the &amp;quot;main&amp;quot; repo I refer to here is on an EC2 instance which my local computer may not access the company repo from).&lt;/p&gt; &lt;p&gt;I&amp;#39;m using git bundle to add the 2nd remote and it&amp;#39;s working well on my tests so far. Before I use this I wanted to know if it&amp;#39;s basically the same as having one remote, where when you pull, you need to clear merge conflicts right away each time. I think that situation will just happen a bit more since there are two remotes; is that correct?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/javascript_dev"&gt; /u/javascript_dev &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oiaom8/working_with_two_remotes/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oiaom8/working_with_two_remotes/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiaom8</id>
+    <link href="https://www.reddit.com/r/git/comments/oiaom8/working_with_two_remotes/"></link>
+    <updated>2021-07-11T19:15:57+00:00</updated>
+    <published>2021-07-11T19:15:57+00:00</published>
+    <title>Working with two remotes</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/juristr</name>
       <uri>https://www.reddit.com/user/juristr</uri>
     </author>
@@ -435,6 +461,19 @@
     <updated>2021-07-07T07:04:08+00:00</updated>
     <published>2021-07-07T07:04:08+00:00</published>
     <title>Use Git Bisect to Find the Commit That Introduced a Bug</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nathanieloffer</name>
+      <uri>https://www.reddit.com/user/nathanieloffer</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I created a remote repo today, then initialized the local folder added a file and pushed it to GitHub later I added a README and a LICENSE, created a new branch and made some progress there then committed and pushed that up to remote as well.&lt;/p&gt; &lt;p&gt;It was at this point I realized I had edited the README under main on GitHub directly and not pulled it to my local machine. &lt;/p&gt; &lt;p&gt;Is there a way to sync my local project with the remote under main without affecting the work I&amp;#39;ve done in my new branch?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nathanieloffer"&gt; /u/nathanieloffer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oiaofa/advise_for_stumbling_newbie/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oiaofa/advise_for_stumbling_newbie/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiaofa</id>
+    <link href="https://www.reddit.com/r/git/comments/oiaofa/advise_for_stumbling_newbie/"></link>
+    <updated>2021-07-11T19:15:40+00:00</updated>
+    <published>2021-07-11T19:15:40+00:00</published>
+    <title>Advise for stumbling newbie</title>
   </entry>
   <entry>
     <author>
