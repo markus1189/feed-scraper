@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T11:32:41+00:00</updated>
+  <updated>2021-07-11T12:52:42+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -969,6 +969,19 @@
     <updated>2021-07-10T05:53:04+00:00</updated>
     <published>2021-07-10T05:53:04+00:00</published>
     <title>Repeat sexual offender sentenced to life in prison for 2019 rape, carjacking</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/bustead</name>
+      <uri>https://www.reddit.com/user/bustead</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/bustead"&gt; /u/bustead &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.americanpress.com/news/crime/retired-fort-polk-soldier-charged-in-rape-of-child/article_a71ec506-e1ef-11eb-91bb-0b6d606482da.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi24n5/retired_fort_polk_soldier_charged_in_rape_of_child/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oi24n5</id>
+    <link href="https://www.reddit.com/r/news/comments/oi24n5/retired_fort_polk_soldier_charged_in_rape_of_child/"></link>
+    <updated>2021-07-11T10:32:24+00:00</updated>
+    <published>2021-07-11T10:32:24+00:00</published>
+    <title>Retired Fort Polk soldier charged in rape of child</title>
   </entry>
   <entry>
     <author>
