@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-11T02:44:02+00:00</updated>
+  <updated>2021-07-11T03:39:49+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -465,6 +465,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/IrrationalExpression</name>
+      <uri>https://www.reddit.com/user/IrrationalExpression</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/IrrationalExpression"&gt; /u/IrrationalExpression &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/10/us/lehigh-county-missing-dog-reunited-trnd/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohw9zi/a_woman_was_looking_to_adopt_a_new_pet_then_she/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohw9zi</id>
+    <link href="https://www.reddit.com/r/news/comments/ohw9zi/a_woman_was_looking_to_adopt_a_new_pet_then_she/"></link>
+    <updated>2021-07-11T02:41:53+00:00</updated>
+    <published>2021-07-11T02:41:53+00:00</published>
+    <title>A woman was looking to adopt a new pet. Then she found the dog she lost two years ago</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/JomadoSumabi</name>
       <uri>https://www.reddit.com/user/JomadoSumabi</uri>
     </author>
@@ -826,6 +839,19 @@
     <updated>2021-07-10T15:55:57+00:00</updated>
     <published>2021-07-10T15:55:57+00:00</published>
     <title>Unopened Legend of Zelda game from 1987 sells for $870,000</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcphiladelphia.com/news/local/nj-man-who-made-racist-rant-now-charged-with-stalking-damaging-cars-and-drug-offenses/2873818/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohw4xt/edward_cagney_mathews_nj_man_who_made_racist_rant/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ohw4xt</id>
+    <link href="https://www.reddit.com/r/news/comments/ohw4xt/edward_cagney_mathews_nj_man_who_made_racist_rant/"></link>
+    <updated>2021-07-11T02:32:08+00:00</updated>
+    <published>2021-07-11T02:32:08+00:00</published>
+    <title>Edward Cagney Mathews, NJ Man Who Made Racist Rant, Now Charged With Stalking Neighbor, Damaging Vehicles and Drug Offenses</title>
   </entry>
   <entry>
     <author>
