@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T05:32:41+00:00</updated>
+  <updated>2021-07-12T06:47:28+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1372,6 +1372,19 @@
     <updated>2021-07-08T13:44:42+00:00</updated>
     <published>2021-07-08T13:44:42+00:00</published>
     <title>Authorities: Girl fatally struck after jumping from moving car during argument with mom on highway</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/firethorne</name>
+      <uri>https://www.reddit.com/user/firethorne</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/firethorne"&gt; /u/firethorne &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/technology/amazon-services-down-multiple-users-downdetector-2021-07-12/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oij8yc/amazon_services_down_for_multiple_users/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oij8yc</id>
+    <link href="https://www.reddit.com/r/news/comments/oij8yc/amazon_services_down_for_multiple_users/"></link>
+    <updated>2021-07-12T03:40:13+00:00</updated>
+    <published>2021-07-12T03:40:13+00:00</published>
+    <title>Amazon services down for multiple users</title>
   </entry>
   <entry>
     <author>
