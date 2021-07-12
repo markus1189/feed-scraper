@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-12T22:33:50+00:00</updated>
+  <updated>2021-07-12T23:34:55+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -292,6 +292,19 @@
     <updated>2021-07-09T22:33:08+00:00</updated>
     <published>2021-07-09T22:33:08+00:00</published>
     <title>I made a pull request on GitHub, however I want to remove one of the commits (its the 4th out of 4 commits), how do I do that?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ashkanahmadi</name>
+      <uri>https://www.reddit.com/user/ashkanahmadi</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ashkanahmadi"&gt; /u/ashkanahmadi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oj2sf3/whats_the_best_way_of_using_branches_when_i_work/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oj2sf3/whats_the_best_way_of_using_branches_when_i_work/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj2sf3</id>
+    <link href="https://www.reddit.com/r/git/comments/oj2sf3/whats_the_best_way_of_using_branches_when_i_work/"></link>
+    <updated>2021-07-12T23:04:43+00:00</updated>
+    <published>2021-07-12T23:04:43+00:00</published>
+    <title>What's the best way of using branches? When I work on a new feature, I make a new branch. When the work is done, I merge that branch into the main branch and then upload the main branch to GitHub. What should I do with all the branches I have? Should I delete them or keep them hanging?</title>
   </entry>
   <entry>
     <author>
