@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T15:42:54+00:00</updated>
+  <updated>2021-07-12T17:01:40+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -62,6 +62,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Alkit777</name>
+      <uri>https://www.reddit.com/user/Alkit777</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Alkit777"&gt; /u/Alkit777 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.ndtv.com/world-news/taliban-surround-afghan-city-ghazni-take-over-civilian-houses-officials-2484861"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oissel/taliban_surrounds_the_afghan_city_of_ghazni_take/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oissel</id>
+    <link href="https://www.reddit.com/r/news/comments/oissel/taliban_surrounds_the_afghan_city_of_ghazni_take/"></link>
+    <updated>2021-07-12T14:49:37+00:00</updated>
+    <published>2021-07-12T14:49:37+00:00</published>
+    <title>Taliban surrounds the Afghan city of Ghazni, Take over civilian houses</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Altruistic_Astronaut</name>
       <uri>https://www.reddit.com/user/Altruistic_Astronaut</uri>
     </author>
@@ -72,6 +85,19 @@
     <updated>2021-07-12T03:47:32+00:00</updated>
     <published>2021-07-12T03:47:32+00:00</published>
     <title>English teacher in Japan arrested over alleged filming in girls' bathroom at middle school - The Mainichi</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AudibleNod</name>
+      <uri>https://www.reddit.com/user/AudibleNod</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AudibleNod"&gt; /u/AudibleNod &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/uk-57806800"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiukfs/uk_bans_fifth_neonazi_group_under_terror_laws/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiukfs</id>
+    <link href="https://www.reddit.com/r/news/comments/oiukfs/uk_bans_fifth_neonazi_group_under_terror_laws/"></link>
+    <updated>2021-07-12T16:19:04+00:00</updated>
+    <published>2021-07-12T16:19:04+00:00</published>
+    <title>UK bans fifth neo-Nazi group under terror laws</title>
   </entry>
   <entry>
     <author>
