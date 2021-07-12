@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T03:40:05+00:00</updated>
+  <updated>2021-07-12T04:46:37+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1008,6 +1008,19 @@
     <updated>2021-07-09T18:56:47+00:00</updated>
     <published>2021-07-09T18:56:47+00:00</published>
     <title>President Biden signed an executive order on Friday cracking down on what the White House says are anticompetitive practices among technology companies, labor and several other economic sectors.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/TyRoSwoe</name>
+      <uri>https://www.reddit.com/user/TyRoSwoe</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/TyRoSwoe"&gt; /u/TyRoSwoe &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://wccftech.com/cryptocurrency-miners-caught-with-3800-playstation-4-consoles-after-ukrainian-police-uncover-the-mining-operation/amp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiiyas/cryptocurrency_miners_caught_with_3800/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiiyas</id>
+    <link href="https://www.reddit.com/r/news/comments/oiiyas/cryptocurrency_miners_caught_with_3800/"></link>
+    <updated>2021-07-12T03:21:24+00:00</updated>
+    <published>2021-07-12T03:21:24+00:00</published>
+    <title>Cryptocurrency Miners Caught With 3,800 PlayStation 4 Consoles After Ukrainian Police Uncover The Mining Operation</title>
   </entry>
   <entry>
     <author>

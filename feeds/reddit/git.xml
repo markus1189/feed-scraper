@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-12T03:40:03+00:00</updated>
+  <updated>2021-07-12T04:46:35+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -266,6 +266,19 @@
     <updated>2021-07-04T15:20:23+00:00</updated>
     <published>2021-07-04T15:20:23+00:00</published>
     <title>Git Problem: Cannot do git push</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/__GROUP_BY__</name>
+      <uri>https://www.reddit.com/user/__GROUP_BY__</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/__GROUP_BY__"&gt; /u/__GROUP_BY__ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oijtvo/do_you_ever_use_git_stash_without_the_u_flag_when/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oijtvo/do_you_ever_use_git_stash_without_the_u_flag_when/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oijtvo</id>
+    <link href="https://www.reddit.com/r/git/comments/oijtvo/do_you_ever_use_git_stash_without_the_u_flag_when/"></link>
+    <updated>2021-07-12T04:17:04+00:00</updated>
+    <published>2021-07-12T04:17:04+00:00</published>
+    <title>Do you ever use git stash without the -u flag? When would it make sense not to use -u?</title>
   </entry>
   <entry>
     <author>
