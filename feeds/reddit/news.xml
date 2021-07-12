@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T17:42:03+00:00</updated>
+  <updated>2021-07-12T18:45:16+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1414,6 +1414,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/charminghypocracy</name>
+      <uri>https://www.reddit.com/user/charminghypocracy</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/charminghypocracy"&gt; /u/charminghypocracy &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/africa/jamaica-plans-seek-reparations-britain-over-slavery-2021-07-12/?taid=60ec6a8dbcdfda0001965879&amp;amp;utm_campaign=trueAnthem:+Trending+Content&amp;amp;utm_medium=trueAnthem&amp;amp;utm_source=twitter&amp;amp;utm_source=reddit.com"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiw82q/jamaica_plans_to_seek_reparations_from_britain/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiw82q</id>
+    <link href="https://www.reddit.com/r/news/comments/oiw82q/jamaica_plans_to_seek_reparations_from_britain/"></link>
+    <updated>2021-07-12T17:38:03+00:00</updated>
+    <published>2021-07-12T17:38:03+00:00</published>
+    <title>Jamaica plans to seek reparations from Britain over slavery</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/cigs_and_coffee</name>
       <uri>https://www.reddit.com/user/cigs_and_coffee</uri>
     </author>
@@ -1476,6 +1489,19 @@
     <updated>2021-07-11T17:39:40+00:00</updated>
     <published>2021-07-11T17:39:40+00:00</published>
     <title>Covid passports will be compulsory in UK pubs</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/devhaugh</name>
+      <uri>https://www.reddit.com/user/devhaugh</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/devhaugh"&gt; /u/devhaugh &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.kktv.com/2021/07/12/drake-bell-faces-sentencing-child-endangerment-charge/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oivt5q/actor_drake_bell_gets_probation_on_child/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oivt5q</id>
+    <link href="https://www.reddit.com/r/news/comments/oivt5q/actor_drake_bell_gets_probation_on_child/"></link>
+    <updated>2021-07-12T17:18:09+00:00</updated>
+    <published>2021-07-12T17:18:09+00:00</published>
+    <title>Actor Drake Bell gets probation on child endangerment charge</title>
   </entry>
   <entry>
     <author>
