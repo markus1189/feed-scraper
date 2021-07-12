@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T09:38:40+00:00</updated>
+  <updated>2021-07-12T10:38:55+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1840,6 +1840,19 @@
     <updated>2021-07-10T03:17:12+00:00</updated>
     <published>2021-07-10T03:17:12+00:00</published>
     <title>Heavy rain hits southern Japan, over 120,000 ordered to evacuate</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nellieg68</name>
+      <uri>https://www.reddit.com/user/nellieg68</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nellieg68"&gt; /u/nellieg68 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://edition.cnn.com/travel/article/lhasa-nyingchi-high-speed-railway-china-tibet/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oilp5p/tibets_first_bullet_train_line_enters_service/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oilp5p</id>
+    <link href="https://www.reddit.com/r/news/comments/oilp5p/tibets_first_bullet_train_line_enters_service/"></link>
+    <updated>2021-07-12T06:33:13+00:00</updated>
+    <published>2021-07-12T06:33:13+00:00</published>
+    <title>Tibet's first bullet train line enters service</title>
   </entry>
   <entry>
     <author>
