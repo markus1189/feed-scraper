@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T02:42:56+00:00</updated>
+  <updated>2021-07-12T03:40:05+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -59,6 +59,19 @@
     <updated>2021-07-11T21:56:24+00:00</updated>
     <published>2021-07-11T21:56:24+00:00</published>
     <title>Watch Euro 2020 final: Penalty heartbreak for England as Italy win shootout</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Autolycan</name>
+      <uri>https://www.reddit.com/user/Autolycan</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Autolycan"&gt; /u/Autolycan &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/business-health-caribbean-coronavirus-pandemic-havana-477ff35a2e0a2809ee67c89070a56e41"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oihlfc/demonstrators_in_havana_protest_shortages_rising/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oihlfc</id>
+    <link href="https://www.reddit.com/r/news/comments/oihlfc/demonstrators_in_havana_protest_shortages_rising/"></link>
+    <updated>2021-07-12T01:55:11+00:00</updated>
+    <published>2021-07-12T01:55:11+00:00</published>
+    <title>Demonstrators in Havana protest shortages, rising prices</title>
   </entry>
   <entry>
     <author>
