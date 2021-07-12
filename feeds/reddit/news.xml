@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T18:45:16+00:00</updated>
+  <updated>2021-07-12T19:32:40+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -111,6 +111,19 @@
     <updated>2021-07-12T16:19:04+00:00</updated>
     <published>2021-07-12T16:19:04+00:00</published>
     <title>UK bans fifth neo-Nazi group under terror laws</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AuntTifaNews</name>
+      <uri>https://www.reddit.com/user/AuntTifaNews</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AuntTifaNews"&gt; /u/AuntTifaNews &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/no-more-gangnam-style-skoreas-covid-rules-demand-slower-workout-music-gyms-2021-07-12/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiswe8/no_more_gangnam_style_skoreas_covid_rules_demand/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiswe8</id>
+    <link href="https://www.reddit.com/r/news/comments/oiswe8/no_more_gangnam_style_skoreas_covid_rules_demand/"></link>
+    <updated>2021-07-12T14:55:21+00:00</updated>
+    <published>2021-07-12T14:55:21+00:00</published>
+    <title>No more 'Gangnam Style': S.Korea's COVID rules demand slower workout music in gyms</title>
   </entry>
   <entry>
     <author>
