@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T10:38:55+00:00</updated>
+  <updated>2021-07-12T11:32:41+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -959,6 +959,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/THELUEAPP</name>
+      <uri>https://www.reddit.com/user/THELUEAPP</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/THELUEAPP"&gt; /u/THELUEAPP &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/uk-england-manchester-57803161"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oinw4p/marcus_rashford_mural_defaced_after_england_euro/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oinw4p</id>
+    <link href="https://www.reddit.com/r/news/comments/oinw4p/marcus_rashford_mural_defaced_after_england_euro/"></link>
+    <updated>2021-07-12T09:34:16+00:00</updated>
+    <published>2021-07-12T09:34:16+00:00</published>
+    <title>Marcus Rashford mural defaced after England Euro 2020 defeat</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/TVaddictpanda</name>
       <uri>https://www.reddit.com/user/TVaddictpanda</uri>
     </author>
@@ -1658,6 +1671,19 @@
     <updated>2021-07-11T00:47:29+00:00</updated>
     <published>2021-07-11T00:47:29+00:00</published>
     <title>Russia records around 428,000 excess deaths during pandemic</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marsianer</name>
+      <uri>https://www.reddit.com/user/marsianer</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marsianer"&gt; /u/marsianer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.abc.net.au/news/2021-07-12/handful-of-cities-driving-urban-greenhouse-gas-emissions/100286826"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiogdx/just_25_big_cities_mostly_in_china_driving/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiogdx</id>
+    <link href="https://www.reddit.com/r/news/comments/oiogdx/just_25_big_cities_mostly_in_china_driving/"></link>
+    <updated>2021-07-12T10:20:28+00:00</updated>
+    <published>2021-07-12T10:20:28+00:00</published>
+    <title>Just 25 big cities, mostly in China, driving majority of urban greenhouse gas emissions</title>
   </entry>
   <entry>
     <author>
