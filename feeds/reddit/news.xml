@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T14:33:00+00:00</updated>
+  <updated>2021-07-12T15:42:54+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -397,6 +397,19 @@
     <updated>2021-07-09T11:24:43+00:00</updated>
     <published>2021-07-09T11:24:43+00:00</published>
     <title>Afghan pilots assassinated by Taliban as U.S. withdraws</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Forestfire1406</name>
+      <uri>https://www.reddit.com/user/Forestfire1406</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Forestfire1406"&gt; /u/Forestfire1406 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/teenager-abducted-basement-home-found-badly-injured-suspects/story?id=78797168"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiss8d/teenager_abducted_from_basement_of_his_home_found/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiss8d</id>
+    <link href="https://www.reddit.com/r/news/comments/oiss8d/teenager_abducted_from_basement_of_his_home_found/"></link>
+    <updated>2021-07-12T14:49:22+00:00</updated>
+    <published>2021-07-12T14:49:22+00:00</published>
+    <title>Teenager abducted from basement of his home found badly injured, 3 suspects arrested</title>
   </entry>
   <entry>
     <author>
@@ -1479,6 +1492,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/fbreaker</name>
+      <uri>https://www.reddit.com/user/fbreaker</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/fbreaker"&gt; /u/fbreaker &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://whdh.com/news/authorities-woman-killed-husband-by-dousing-him-in-boiling-sugar-water-as-he-slept/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oisb1h/authorities_woman_killed_husband_by_dousing_him/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oisb1h</id>
+    <link href="https://www.reddit.com/r/news/comments/oisb1h/authorities_woman_killed_husband_by_dousing_him/"></link>
+    <updated>2021-07-12T14:25:10+00:00</updated>
+    <published>2021-07-12T14:25:10+00:00</published>
+    <title>Authorities: Woman killed husband by dousing him in boiling sugar water as he slept</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/firethorne</name>
       <uri>https://www.reddit.com/user/firethorne</uri>
     </author>
@@ -2269,6 +2295,19 @@
     <updated>2021-07-08T23:16:34+00:00</updated>
     <published>2021-07-08T23:16:34+00:00</published>
     <title>Preliminary 5.9-magnitude earthquake strikes near California-Nevada border</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/tippinsights</name>
+      <uri>https://www.reddit.com/user/tippinsights</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tippinsights"&gt; /u/tippinsights &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://english.kyodonews.net/news/2021/07/fda26079cda5-japan-to-issue-vaccine-passports-free-of-charge.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiqlg4/japan_to_issue_vaccine_passports_free_of_charge/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiqlg4</id>
+    <link href="https://www.reddit.com/r/news/comments/oiqlg4/japan_to_issue_vaccine_passports_free_of_charge/"></link>
+    <updated>2021-07-12T12:49:46+00:00</updated>
+    <published>2021-07-12T12:49:46+00:00</published>
+    <title>Japan to issue vaccine passports free of charge</title>
   </entry>
   <entry>
     <author>
