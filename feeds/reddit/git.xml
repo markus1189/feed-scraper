@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-12T01:34:29+00:00</updated>
+  <updated>2021-07-12T02:42:55+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -175,6 +175,19 @@
     <updated>2021-07-07T15:04:24+00:00</updated>
     <published>2021-07-07T15:04:24+00:00</published>
     <title>I have a problem with git, it does not want to upload the files to the repository, it stays like this and does not load anything for the GitHub login does anyone know how to fix that?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Juke_Box_Guitar_Hero</name>
+      <uri>https://www.reddit.com/user/Juke_Box_Guitar_Hero</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi everyone, I am trying to write a bash script that is going to sync a very long list of git repositories. Is there a way to run git checkout &amp;lt;commit&amp;gt; on a repository from outside that repo on the command line?&lt;/p&gt; &lt;p&gt;ex: I want to run git checkout 9aee39... on a repo named reddit/askprogramming/post, and I&amp;#39;m in directory root (with the full path being root/reddit/askprogramming/post) is there any way to run this command on this repo without navigating to root/reddit/askprogramming/post first? The issue I&amp;#39;m having is my script can normally navigate to this repo and then run the command by just&lt;/p&gt; &lt;p&gt;cd reddit/askprogramming/post&lt;/p&gt; &lt;p&gt;git checkout &amp;lt;commit&amp;gt;&lt;/p&gt; &lt;p&gt;but this doesn&amp;#39;t work with all of my repos, as some of them are named something slightly different (e.g. repo name: reddit/ask_programming/post and actual path is reddit/ask/programming/post or other variations)&lt;/p&gt; &lt;p&gt;thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Juke_Box_Guitar_Hero"&gt; /u/Juke_Box_Guitar_Hero &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oii5m1/how_to_git_checkout_commit_on_repo_from_command/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oii5m1/how_to_git_checkout_commit_on_repo_from_command/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oii5m1</id>
+    <link href="https://www.reddit.com/r/git/comments/oii5m1/how_to_git_checkout_commit_on_repo_from_command/"></link>
+    <updated>2021-07-12T02:30:44+00:00</updated>
+    <published>2021-07-12T02:30:44+00:00</published>
+    <title>How to git checkout &lt;commit&gt; on repo from command line while in a directory outside of the repo?</title>
   </entry>
   <entry>
     <author>

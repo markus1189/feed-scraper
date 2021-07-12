@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T01:34:32+00:00</updated>
+  <updated>2021-07-12T02:42:56+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -202,6 +202,19 @@
     <updated>2021-07-10T22:23:43+00:00</updated>
     <published>2021-07-10T22:23:43+00:00</published>
     <title>Police Bust Illegal Cryptomining Ring Enslaving Thousands Of PS4 Consoles And GPUs</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/DevilChillin</name>
+      <uri>https://www.reddit.com/user/DevilChillin</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DevilChillin"&gt; /u/DevilChillin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://taskandpurpose.com/news/army-officer-affairs-women/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oihfk0/the_army_is_investigating_a_married_officer/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oihfk0</id>
+    <link href="https://www.reddit.com/r/news/comments/oihfk0/the_army_is_investigating_a_married_officer/"></link>
+    <updated>2021-07-12T01:45:03+00:00</updated>
+    <published>2021-07-12T01:45:03+00:00</published>
+    <title>The Army is investigating a married officer accused of faking deployments and awards amid affairs with several women</title>
   </entry>
   <entry>
     <author>
@@ -1112,6 +1125,19 @@
     <updated>2021-07-11T13:21:29+00:00</updated>
     <published>2021-07-11T13:21:29+00:00</published>
     <title>Austria: 13 injured after car plows into market crowd</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/injured-man-drives-truck-crowd-ejection-club-police/story?id=78790097"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oigiwq/several_injured_after_man_drives_truck_into_crowd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oigiwq</id>
+    <link href="https://www.reddit.com/r/news/comments/oigiwq/several_injured_after_man_drives_truck_into_crowd/"></link>
+    <updated>2021-07-12T00:48:59+00:00</updated>
+    <published>2021-07-12T00:48:59+00:00</published>
+    <title>Several injured after man drives truck into crowd following ejection from club: Police</title>
   </entry>
   <entry>
     <author>
