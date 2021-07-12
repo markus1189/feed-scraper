@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T07:32:46+00:00</updated>
+  <updated>2021-07-12T08:38:31+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -631,6 +631,19 @@
     <updated>2021-07-11T22:01:03+00:00</updated>
     <published>2021-07-11T22:01:03+00:00</published>
     <title>Woman hits multiple cops in wild police chase, gets arrested while ordering food at McDonald's drive-thru</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/John_W818</name>
+      <uri>https://www.reddit.com/user/John_W818</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/John_W818"&gt; /u/John_W818 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/11/northern-california-wildfire-heatwave"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oilx28/firefighters_struggle_to_contain_exploding/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oilx28</id>
+    <link href="https://www.reddit.com/r/news/comments/oilx28/firefighters_struggle_to_contain_exploding/"></link>
+    <updated>2021-07-12T06:50:31+00:00</updated>
+    <published>2021-07-12T06:50:31+00:00</published>
+    <title>Firefighters struggle to contain exploding northern California wildfire</title>
   </entry>
   <entry>
     <author>
