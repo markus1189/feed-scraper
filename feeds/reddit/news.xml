@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T20:33:20+00:00</updated>
+  <updated>2021-07-12T21:32:49+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -527,6 +527,19 @@
     <updated>2021-07-07T22:28:35+00:00</updated>
     <published>2021-07-07T22:28:35+00:00</published>
     <title>Rudy Giuliani’s DC law license is suspended</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/GenocideOwl</name>
+      <uri>https://www.reddit.com/user/GenocideOwl</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/GenocideOwl"&gt; /u/GenocideOwl &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/lawsuit-kroger-manager-drove-employee-to-suicide"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiz7dz/lawsuit_claims_kroger_manager_drove_employee_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiz7dz</id>
+    <link href="https://www.reddit.com/r/news/comments/oiz7dz/lawsuit_claims_kroger_manager_drove_employee_to/"></link>
+    <updated>2021-07-12T20:05:00+00:00</updated>
+    <published>2021-07-12T20:05:00+00:00</published>
+    <title>Lawsuit claims Kroger manager drove employee to suicide</title>
   </entry>
   <entry>
     <author>
@@ -1973,6 +1986,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/mixtape82</name>
+      <uri>https://www.reddit.com/user/mixtape82</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/mixtape82"&gt; /u/mixtape82 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/12/us/fda-warning-johnson-johnson-vaccine-nerve-syndrome.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oixru5/fda_will_attach_warning_of_rare_nerve_syndrome_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oixru5</id>
+    <link href="https://www.reddit.com/r/news/comments/oixru5/fda_will_attach_warning_of_rare_nerve_syndrome_to/"></link>
+    <updated>2021-07-12T18:52:40+00:00</updated>
+    <published>2021-07-12T18:52:40+00:00</published>
+    <title>F.D.A. Will Attach Warning of Rare Nerve Syndrome to Johnson &amp; Johnson Vaccine</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/mrfresh5812</name>
       <uri>https://www.reddit.com/user/mrfresh5812</uri>
     </author>
@@ -2503,6 +2529,19 @@
     <updated>2021-07-11T08:42:01+00:00</updated>
     <published>2021-07-11T08:42:01+00:00</published>
     <title>Texas Man Who Waited Hours to Vote Is Arrested on Charges of Illegal Voting</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/upyoars</name>
+      <uri>https://www.reddit.com/user/upyoars</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/upyoars"&gt; /u/upyoars &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://news.wttw.com/2021/07/12/officials-1st-mosquitoes-test-positive-west-nile-virus-chicago-year"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oix6ct/1st_mosquitoes_test_positive_for_west_nile_virus/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oix6ct</id>
+    <link href="https://www.reddit.com/r/news/comments/oix6ct/1st_mosquitoes_test_positive_for_west_nile_virus/"></link>
+    <updated>2021-07-12T18:24:04+00:00</updated>
+    <published>2021-07-12T18:24:04+00:00</published>
+    <title>1st Mosquitoes Test Positive for West Nile Virus in Chicago This Year</title>
   </entry>
   <entry>
     <author>
