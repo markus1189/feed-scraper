@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T19:32:40+00:00</updated>
+  <updated>2021-07-12T20:33:20+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -111,6 +111,19 @@
     <updated>2021-07-12T16:19:04+00:00</updated>
     <published>2021-07-12T16:19:04+00:00</published>
     <title>UK bans fifth neo-Nazi group under terror laws</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AudibleNod</name>
+      <uri>https://www.reddit.com/user/AudibleNod</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AudibleNod"&gt; /u/AudibleNod &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.kiro7.com/news/trending/burger-king-workers-write-we-all-quit-sign-walk-out-nebraska-restaurant/RFVDTRRI3ZCDZIFV4URYQZEH3Q/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiyz1i/burger_king_workers_write_we_all_quit_on_sign/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiyz1i</id>
+    <link href="https://www.reddit.com/r/news/comments/oiyz1i/burger_king_workers_write_we_all_quit_on_sign/"></link>
+    <updated>2021-07-12T19:53:25+00:00</updated>
+    <published>2021-07-12T19:53:25+00:00</published>
+    <title>Burger King workers write ‘we all quit’ on sign, walk out of Nebraska restaurant</title>
   </entry>
   <entry>
     <author>
@@ -807,6 +820,19 @@
       <uri>https://www.reddit.com/user/KindOwl2805</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KindOwl2805"&gt; /u/KindOwl2805 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/fires-burning-west-heat-waves-affect-millions-country/story?id=78783559&amp;amp;cid=clicksource_4380645_1_heads_hero_live_hero_hed"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oive8v/fires_burning_across_west_as_heat_waves_continue/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oive8v</id>
+    <link href="https://www.reddit.com/r/news/comments/oive8v/fires_burning_across_west_as_heat_waves_continue/"></link>
+    <updated>2021-07-12T16:58:40+00:00</updated>
+    <published>2021-07-12T16:58:40+00:00</published>
+    <title>Fires burning across West as heat waves continue to blanket region</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/KindOwl2805</name>
+      <uri>https://www.reddit.com/user/KindOwl2805</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KindOwl2805"&gt; /u/KindOwl2805 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/10/us/west-heat-wave-death-valley.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohqyyj/death_valley_hits_130_degrees_as_heat_wave_sweeps/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ohqyyj</id>
     <link href="https://www.reddit.com/r/news/comments/ohqyyj/death_valley_hits_130_degrees_as_heat_wave_sweeps/"></link>
@@ -1353,6 +1379,19 @@
       <uri>https://www.reddit.com/user/anikhch</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnbc.com/2021/07/12/most-fully-vaccinated-people-who-get-covid-delta-infections-are-asymptomatic-who-says-.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiz0v4/most_fully_vaccinated_people_who_get_covid_delta/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiz0v4</id>
+    <link href="https://www.reddit.com/r/news/comments/oiz0v4/most_fully_vaccinated_people_who_get_covid_delta/"></link>
+    <updated>2021-07-12T19:56:02+00:00</updated>
+    <published>2021-07-12T19:56:02+00:00</published>
+    <title>Most fully vaccinated people who get Covid delta infections are asymptomatic, WHO says</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcphiladelphia.com/news/local/nj-man-who-made-racist-rant-now-charged-with-stalking-damaging-cars-and-drug-offenses/2873818/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohw4xt/edward_cagney_mathews_nj_man_who_made_racist_rant/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ohw4xt</id>
     <link href="https://www.reddit.com/r/news/comments/ohw4xt/edward_cagney_mathews_nj_man_who_made_racist_rant/"></link>
@@ -1580,6 +1619,19 @@
     <updated>2021-07-12T14:25:10+00:00</updated>
     <published>2021-07-12T14:25:10+00:00</published>
     <title>Authorities: Woman killed husband by dousing him in boiling sugar water as he slept</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/fbreaker</name>
+      <uri>https://www.reddit.com/user/fbreaker</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/fbreaker"&gt; /u/fbreaker &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://whdh.com/news/they-grow-bigger-than-you-think-officials-ask-people-not-to-dump-pet-goldfish-in-ponds-lakes/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiy79w/they_grow_bigger_than_you_think_officials_ask/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oiy79w</id>
+    <link href="https://www.reddit.com/r/news/comments/oiy79w/they_grow_bigger_than_you_think_officials_ask/"></link>
+    <updated>2021-07-12T19:14:16+00:00</updated>
+    <published>2021-07-12T19:14:16+00:00</published>
+    <title>‘They grow bigger than you think’: Officials ask people not to dump pet goldfish in ponds, lakes</title>
   </entry>
   <entry>
     <author>
@@ -2451,6 +2503,19 @@
     <updated>2021-07-11T08:42:01+00:00</updated>
     <published>2021-07-11T08:42:01+00:00</published>
     <title>Texas Man Who Waited Hours to Vote Is Arrested on Charges of Illegal Voting</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/upyoars</name>
+      <uri>https://www.reddit.com/user/upyoars</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/upyoars"&gt; /u/upyoars &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/suspected-serial-killer-indicted-41-charges-delaware-n1273193"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oixtu8/suspected_serial_killer_indicted_on_41_charges_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oixtu8</id>
+    <link href="https://www.reddit.com/r/news/comments/oixtu8/suspected_serial_killer_indicted_on_41_charges_in/"></link>
+    <updated>2021-07-12T18:55:23+00:00</updated>
+    <published>2021-07-12T18:55:23+00:00</published>
+    <title>Suspected serial killer indicted on 41 charges in Delaware</title>
   </entry>
   <entry>
     <author>
