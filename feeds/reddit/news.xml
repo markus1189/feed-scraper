@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T17:01:40+00:00</updated>
+  <updated>2021-07-12T17:42:03+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -20,6 +20,19 @@
     <updated>2021-07-09T12:10:19+00:00</updated>
     <published>2021-07-09T12:10:19+00:00</published>
     <title>Google's 'hypocritical' remote work policies anger employees</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/3rdOrderEffects</name>
+      <uri>https://www.reddit.com/user/3rdOrderEffects</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/3rdOrderEffects"&gt; /u/3rdOrderEffects &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.aljazeera.com/news/2021/7/12/south-africa-deploys-army-to-quell-protests-in-two-provinces"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oisi6q/the_south_african_military_said_it_was_deploying/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oisi6q</id>
+    <link href="https://www.reddit.com/r/news/comments/oisi6q/the_south_african_military_said_it_was_deploying/"></link>
+    <updated>2021-07-12T14:35:17+00:00</updated>
+    <published>2021-07-12T14:35:17+00:00</published>
+    <title>The South African military said it was deploying soldiers in two provinces, including its economic hub of Johannesburg, to help police cope with looting and arson attacks on businesses</title>
   </entry>
   <entry>
     <author>
