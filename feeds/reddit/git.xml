@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-13T15:43:44+00:00</updated>
+  <updated>2021-07-13T17:00:14+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -695,6 +695,19 @@
     <updated>2021-07-11T03:18:15+00:00</updated>
     <published>2021-07-11T03:18:15+00:00</published>
     <title>Git from Basics to Advanced: Practical Guide for Developers</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/sharpvik</name>
+      <uri>https://www.reddit.com/user/sharpvik</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;A few days ago, a friend of mine introduced me to the concept of semantic commit messages. As I understand, it comes from a few places, but mainly from &lt;a href="https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits"&gt;Angular&amp;#39;s Commit Guide&lt;/a&gt;. Long story short, you just format your commits as follows:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;TYPE(SCOPE): MESSAGE &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Where SCOPE describes the scope of changes introduced by commit, MESSAGE summarises those changes, and TYPE is a short tag from the following:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;code&gt;feat&lt;/code&gt;: new feature for the user&lt;/li&gt; &lt;li&gt;&lt;code&gt;fix&lt;/code&gt;: bug fix for the user&lt;/li&gt; &lt;li&gt;&lt;code&gt;docs&lt;/code&gt;: changes to the documentation&lt;/li&gt; &lt;li&gt;&lt;code&gt;style&lt;/code&gt;: formatting with no production code change&lt;/li&gt; &lt;li&gt;&lt;code&gt;refactor&lt;/code&gt;: refactoring production code&lt;/li&gt; &lt;li&gt;&lt;code&gt;test&lt;/code&gt;: adding missing tests, refactoring tests&lt;/li&gt; &lt;li&gt;&lt;code&gt;chore&lt;/code&gt;: updating grunt tasks&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716"&gt;This gist&lt;/a&gt; summarises it perfectly! I find this system to be incredibly useful and clear upon code review. &lt;/p&gt; &lt;p&gt;So I made a small command-line tool called &lt;code&gt;sema&lt;/code&gt; that helps you follow these guidelines with no effort on your part to memorise labels or double-check things. It&amp;#39;s open-source and you can check it out in &lt;a href="https://github.com/sharpvik/sema"&gt;this GitHub repo&lt;/a&gt; if you&amp;#39;re interested.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/yiuvn9oz90b71.png?width=1163&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=54c35ed947b01b1d02860a65d8969a32834cdc57"&gt;Semantic commit tag dropdown selection menu&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I appreciate that some of you may want to use some custom tags like &lt;code&gt;perf&lt;/code&gt; or &lt;code&gt;ci&lt;/code&gt; so I refactored the code s.t. all tags are stored within the &lt;code&gt;label.go&lt;/code&gt; file. Fork the repo and change them! Any changes to the tags&amp;#39; table will be reflected throughout the rest of the app!&lt;/p&gt; &lt;p&gt;Hope you have a great and productive day!&lt;/p&gt; &lt;p&gt;P. S. All contributions, bug reports, suggestions and issues are welcome!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/sharpvik"&gt; /u/sharpvik &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ojj750/semantic_commits_with_sema/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ojj750/semantic_commits_with_sema/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojj750</id>
+    <link href="https://www.reddit.com/r/git/comments/ojj750/semantic_commits_with_sema/"></link>
+    <updated>2021-07-13T16:28:53+00:00</updated>
+    <published>2021-07-13T16:28:53+00:00</published>
+    <title>Semantic Commits With 'sema'</title>
   </entry>
   <entry>
     <author>
