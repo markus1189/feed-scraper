@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T11:32:52+00:00</updated>
+  <updated>2021-07-13T12:58:04+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -426,6 +426,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/DocPersia</name>
+      <uri>https://www.reddit.com/user/DocPersia</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DocPersia"&gt; /u/DocPersia &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/uk-england-london-57816647"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojcvs5/flash_floods_parts_of_london_receive_a_month_of/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojcvs5</id>
+    <link href="https://www.reddit.com/r/news/comments/ojcvs5/flash_floods_parts_of_london_receive_a_month_of/"></link>
+    <updated>2021-07-13T10:34:45+00:00</updated>
+    <published>2021-07-13T10:34:45+00:00</published>
+    <title>Flash floods: Parts of London receive a month of rain in one day</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/DragonPup</name>
       <uri>https://www.reddit.com/user/DragonPup</uri>
     </author>
@@ -761,6 +774,19 @@
     <updated>2021-07-11T13:16:06+00:00</updated>
     <published>2021-07-11T13:16:06+00:00</published>
     <title>Esther Bejarano, who played in Auschwitz orchestra and later used music to fight antisemitism and racism, dies at 96</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Illustrious_Welder94</name>
+      <uri>https://www.reddit.com/user/Illustrious_Welder94</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Illustrious_Welder94"&gt; /u/Illustrious_Welder94 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnbc.com/2021/07/13/google-fined-500-million-euros-in-france-over-news-copyright-row.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojdhgz/google_hit_with_record_593_million_fine_in_france/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojdhgz</id>
+    <link href="https://www.reddit.com/r/news/comments/ojdhgz/google_hit_with_record_593_million_fine_in_france/"></link>
+    <updated>2021-07-13T11:18:23+00:00</updated>
+    <published>2021-07-13T11:18:23+00:00</published>
+    <title>Google hit with record $593 million fine in France over news copyright row</title>
   </entry>
   <entry>
     <author>
