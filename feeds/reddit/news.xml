@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T03:39:45+00:00</updated>
+  <updated>2021-07-13T04:46:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1008,6 +1008,19 @@
     <updated>2021-07-10T21:54:53+00:00</updated>
     <published>2021-07-10T21:54:53+00:00</published>
     <title>Hawaiian authorities are asking for help after historic cliff carvings were vandalized with paintballs</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/PeliPal</name>
+      <uri>https://www.reddit.com/user/PeliPal</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PeliPal"&gt; /u/PeliPal &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.pbs.org/wgbh/frontline/article/michael-chad-breinholt-west-lake-city-police-shooting-video/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj7soq/video_a_utah_police_officer_killed_a_man_inside/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj7soq</id>
+    <link href="https://www.reddit.com/r/news/comments/oj7soq/video_a_utah_police_officer_killed_a_man_inside/"></link>
+    <updated>2021-07-13T04:02:36+00:00</updated>
+    <published>2021-07-13T04:02:36+00:00</published>
+    <title>VIDEO: A Utah Police Officer Killed a Man Inside the Police Department. It Was His Third Shooting.</title>
   </entry>
   <entry>
     <author>
@@ -2233,6 +2246,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/nosotros_road_sodium</name>
+      <uri>https://www.reddit.com/user/nosotros_road_sodium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nosotros_road_sodium"&gt; /u/nosotros_road_sodium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/oregon-california-wildfires-heat-wave-252e6e70bb037e3e1415510c55aaccea"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj3u86/firefighters_make_progress_against_big_fires_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj3u86</id>
+    <link href="https://www.reddit.com/r/news/comments/oj3u86/firefighters_make_progress_against_big_fires_in/"></link>
+    <updated>2021-07-13T00:03:38+00:00</updated>
+    <published>2021-07-13T00:03:38+00:00</published>
+    <title>Firefighters make progress against big fires in US West</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/pain_in_your_ass</name>
       <uri>https://www.reddit.com/user/pain_in_your_ass</uri>
     </author>
@@ -2347,6 +2373,19 @@
     <updated>2021-07-11T13:26:23+00:00</updated>
     <published>2021-07-11T13:26:23+00:00</published>
     <title>3 shot outside barbershop after argument between 2 men over who won foot race a month ago</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/shahin-13</name>
+      <uri>https://www.reddit.com/user/shahin-13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/shahin-13"&gt; /u/shahin-13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/wireStory/judge-names-special-prosecutor-teens-shooting-deputy-78808837"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj4bie/judge_names_special_prosecutor_for_teens_shooting/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj4bie</id>
+    <link href="https://www.reddit.com/r/news/comments/oj4bie/judge_names_special_prosecutor_for_teens_shooting/"></link>
+    <updated>2021-07-13T00:31:42+00:00</updated>
+    <published>2021-07-13T00:31:42+00:00</published>
+    <title>Judge names special prosecutor for teen's shooting by deputy</title>
   </entry>
   <entry>
     <author>
