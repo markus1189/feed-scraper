@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T09:39:34+00:00</updated>
+  <updated>2021-07-13T10:38:56+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -833,6 +833,19 @@
       <uri>https://www.reddit.com/user/John_W818</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/John_W818"&gt; /u/John_W818 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcn.ws/3hzPXAX"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojaj65/missouri_hospital_opens_6th_virus_ward_as_variant/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojaj65</id>
+    <link href="https://www.reddit.com/r/news/comments/ojaj65/missouri_hospital_opens_6th_virus_ward_as_variant/"></link>
+    <updated>2021-07-13T07:22:27+00:00</updated>
+    <published>2021-07-13T07:22:27+00:00</published>
+    <title>Missouri hospital opens 6th virus ward as variant rages</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/John_W818</name>
+      <uri>https://www.reddit.com/user/John_W818</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/John_W818"&gt; /u/John_W818 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/11/northern-california-wildfire-heatwave"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oilx28/firefighters_struggle_to_contain_exploding/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_oilx28</id>
     <link href="https://www.reddit.com/r/news/comments/oilx28/firefighters_struggle_to_contain_exploding/"></link>
@@ -1424,6 +1437,19 @@
     <updated>2021-07-11T20:13:35+00:00</updated>
     <published>2021-07-11T20:13:35+00:00</published>
     <title>NFL LB Mingo charged with indecency with child in Texas</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/altbekannt</name>
+      <uri>https://www.reddit.com/user/altbekannt</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/altbekannt"&gt; /u/altbekannt &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/12/wildfires-california-oregon-drought-heat-fire-cycle"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojbrh1/american_west_stuck_in_cycle_of_heat_drought_and/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojbrh1</id>
+    <link href="https://www.reddit.com/r/news/comments/ojbrh1/american_west_stuck_in_cycle_of_heat_drought_and/"></link>
+    <updated>2021-07-13T09:05:55+00:00</updated>
+    <published>2021-07-13T09:05:55+00:00</published>
+    <title>American west stuck in cycle of ‘heat, drought and fire’, experts warn</title>
   </entry>
   <entry>
     <author>
@@ -2724,6 +2750,19 @@
     <updated>2021-07-12T18:55:23+00:00</updated>
     <published>2021-07-12T18:55:23+00:00</published>
     <title>Suspected serial killer indicted on 41 charges in Delaware</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/vaish7848</name>
+      <uri>https://www.reddit.com/user/vaish7848</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/vaish7848"&gt; /u/vaish7848 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/13/asia/afghanistan-taliban-commandos-killed-intl-hnk/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojbu79/taliban_fighters_execute_22_afghan_commandos_as/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojbu79</id>
+    <link href="https://www.reddit.com/r/news/comments/ojbu79/taliban_fighters_execute_22_afghan_commandos_as/"></link>
+    <updated>2021-07-13T09:12:09+00:00</updated>
+    <published>2021-07-13T09:12:09+00:00</published>
+    <title>Taliban fighters execute 22 Afghan commandos as they try to surrender</title>
   </entry>
   <entry>
     <author>
