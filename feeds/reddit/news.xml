@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T12:58:04+00:00</updated>
+  <updated>2021-07-13T13:39:28+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1587,6 +1587,19 @@
       <uri>https://www.reddit.com/user/anikhch</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/13/us/canada-kelowna-crane-collapse/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojd330/a_crane_collapse_in_canada_has_killed_multiple/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojd330</id>
+    <link href="https://www.reddit.com/r/news/comments/ojd330/a_crane_collapse_in_canada_has_killed_multiple/"></link>
+    <updated>2021-07-13T10:49:56+00:00</updated>
+    <published>2021-07-13T10:49:56+00:00</published>
+    <title>A crane collapse in Canada has killed multiple people, officials say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcphiladelphia.com/news/local/nj-man-who-made-racist-rant-now-charged-with-stalking-damaging-cars-and-drug-offenses/2873818/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohw4xt/edward_cagney_mathews_nj_man_who_made_racist_rant/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ohw4xt</id>
     <link href="https://www.reddit.com/r/news/comments/ohw4xt/edward_cagney_mathews_nj_man_who_made_racist_rant/"></link>
@@ -1931,6 +1944,19 @@
     <updated>2021-07-12T13:12:43+00:00</updated>
     <published>2021-07-12T13:12:43+00:00</published>
     <title>'Wither away and die:' U.S. Pacific Northwest heat wave bakes wheat, fruit crops</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/hifeyokidshideyowifi</name>
+      <uri>https://www.reddit.com/user/hifeyokidshideyowifi</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/hifeyokidshideyowifi"&gt; /u/hifeyokidshideyowifi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.tennessean.com/story/news/health/2021/07/12/tennessee-fires-top-vaccine-official-covid-19-shows-new-spread/7928699002/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojf327/tennessee_fires_top_vaccine_official_as_covid19/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojf327</id>
+    <link href="https://www.reddit.com/r/news/comments/ojf327/tennessee_fires_top_vaccine_official_as_covid19/"></link>
+    <updated>2021-07-13T13:00:40+00:00</updated>
+    <published>2021-07-13T13:00:40+00:00</published>
+    <title>Tennessee fires top vaccine official as COVID-19 shows signs of new spread</title>
   </entry>
   <entry>
     <author>
