@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-13T08:38:20+00:00</updated>
+  <updated>2021-07-13T09:39:32+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -266,6 +266,19 @@
     <updated>2021-07-10T07:34:45+00:00</updated>
     <published>2021-07-10T07:34:45+00:00</published>
     <title>How does git checkout delete files?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Schroefdop</name>
+      <uri>https://www.reddit.com/user/Schroefdop</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Schroefdop"&gt; /u/Schroefdop &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="/r/zsh/comments/ojblwf/ohmyzsh_git_branching_plugin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ojbnwz/ohmyzsh_git_branching_plugin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojbnwz</id>
+    <link href="https://www.reddit.com/r/git/comments/ojbnwz/ohmyzsh_git_branching_plugin/"></link>
+    <updated>2021-07-13T08:58:09+00:00</updated>
+    <published>2021-07-13T08:58:09+00:00</published>
+    <title>Oh-my-zsh git branching plugin</title>
   </entry>
   <entry>
     <author>
