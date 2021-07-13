@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T07:32:50+00:00</updated>
+  <updated>2021-07-13T08:38:22+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2230,6 +2230,19 @@
     <updated>2021-07-08T15:48:37+00:00</updated>
     <published>2021-07-08T15:48:37+00:00</published>
     <title>To Catch Teenage Gamers After Curfew, Chinese Company Deploys Facial Recognition</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nedryerson48</name>
+      <uri>https://www.reddit.com/user/nedryerson48</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/lifestyle/sports/tokyo-police-arrests-4-olympics-workers-cocaine-usage-2021-07-13/?taid=60ed0b1afdc7d300011ffb6f&amp;amp;utm_campaign=trueAnthem:+Trending+Content&amp;amp;utm_medium=trueAnthem&amp;amp;utm_source=twitter"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj7lfj/tokyo_police_arrests_4_olympics_workers_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj7lfj</id>
+    <link href="https://www.reddit.com/r/news/comments/oj7lfj/tokyo_police_arrests_4_olympics_workers_for/"></link>
+    <updated>2021-07-13T03:50:20+00:00</updated>
+    <published>2021-07-13T03:50:20+00:00</published>
+    <title>Tokyo police arrests 4 Olympics workers for cocaine usage</title>
   </entry>
   <entry>
     <author>
