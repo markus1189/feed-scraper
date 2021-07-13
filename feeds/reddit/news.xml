@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T17:41:08+00:00</updated>
+  <updated>2021-07-13T18:44:12+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -241,6 +241,19 @@
     <updated>2021-07-10T17:28:17+00:00</updated>
     <published>2021-07-10T17:28:17+00:00</published>
     <title>Michigan family loses appeal in lawsuit over priest's funeral remarks</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/BlackMixen</name>
+      <uri>https://www.reddit.com/user/BlackMixen</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/BlackMixen"&gt; /u/BlackMixen &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/global-development/2021/jul/13/canada-unmarked-graves-british-columbia-residential-school?CMP=Share_AndroidApp_Other"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojkat5/canada_at_least_160_more_unmarked_graves_found_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojkat5</id>
+    <link href="https://www.reddit.com/r/news/comments/ojkat5/canada_at_least_160_more_unmarked_graves_found_in/"></link>
+    <updated>2021-07-13T17:22:09+00:00</updated>
+    <published>2021-07-13T17:22:09+00:00</published>
+    <title>Canada: at least 160 more unmarked graves found in British Columbia</title>
   </entry>
   <entry>
     <author>
@@ -1678,6 +1691,19 @@
       <uri>https://www.reddit.com/user/anikhch</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/world-europe-57804656"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojk040/italy_bus_driver_saves_25_children_from_vehicle/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojk040</id>
+    <link href="https://www.reddit.com/r/news/comments/ojk040/italy_bus_driver_saves_25_children_from_vehicle/"></link>
+    <updated>2021-07-13T17:07:43+00:00</updated>
+    <published>2021-07-13T17:07:43+00:00</published>
+    <title>Italy bus driver saves 25 children from vehicle blaze</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnbc.com/2021/07/12/most-fully-vaccinated-people-who-get-covid-delta-infections-are-asymptomatic-who-says-.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiz0v4/most_fully_vaccinated_people_who_get_covid_delta/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_oiz0v4</id>
     <link href="https://www.reddit.com/r/news/comments/oiz0v4/most_fully_vaccinated_people_who_get_covid_delta/"></link>
@@ -1736,6 +1762,19 @@
     <updated>2021-07-08T22:30:52+00:00</updated>
     <published>2021-07-08T22:30:52+00:00</published>
     <title>California charges 6 ex-highway officers with overtime fraud</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/bhodrolok</name>
+      <uri>https://www.reddit.com/user/bhodrolok</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/bhodrolok"&gt; /u/bhodrolok &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/nasa-wobble-moon-orbit-record-flooding-earth-sea-level-rise-climate-change/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojjqa5/nasa_predicts_a_wobble_in_the_moons_orbit_may/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojjqa5</id>
+    <link href="https://www.reddit.com/r/news/comments/ojjqa5/nasa_predicts_a_wobble_in_the_moons_orbit_may/"></link>
+    <updated>2021-07-13T16:54:50+00:00</updated>
+    <published>2021-07-13T16:54:50+00:00</published>
+    <title>NASA predicts a "wobble" in the moon's orbit may lead to record flooding on Earth</title>
   </entry>
   <entry>
     <author>
