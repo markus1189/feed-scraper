@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T21:37:12+00:00</updated>
+  <updated>2021-07-13T22:36:43+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -267,6 +267,19 @@
     <updated>2021-07-13T17:22:09+00:00</updated>
     <published>2021-07-13T17:22:09+00:00</published>
     <title>Canada: at least 160 more unmarked graves found in British Columbia</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/BlackMixen</name>
+      <uri>https://www.reddit.com/user/BlackMixen</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/BlackMixen"&gt; /u/BlackMixen &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/13/us-wildfires-california-oregon-washington?CMP=Share_AndroidApp_Other"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojouco/sixty_wildfires_rage_across_10_us_states/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojouco</id>
+    <link href="https://www.reddit.com/r/news/comments/ojouco/sixty_wildfires_rage_across_10_us_states/"></link>
+    <updated>2021-07-13T20:59:10+00:00</updated>
+    <published>2021-07-13T20:59:10+00:00</published>
+    <title>Sixty wildfires rage across 10 US states – including blaze bigger than Portland</title>
   </entry>
   <entry>
     <author>
@@ -3101,6 +3114,19 @@
     <updated>2021-07-13T09:12:09+00:00</updated>
     <published>2021-07-13T09:12:09+00:00</published>
     <title>Taliban fighters execute 22 Afghan commandos as they try to surrender</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/very_excited</name>
+      <uri>https://www.reddit.com/user/very_excited</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/very_excited"&gt; /u/very_excited &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/Health/wireStory/lawsuit-challenges-texas-law-banning-abortion-weeks-78826185"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojoscn/lawsuit_challenges_texas_law_banning_abortion/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojoscn</id>
+    <link href="https://www.reddit.com/r/news/comments/ojoscn/lawsuit_challenges_texas_law_banning_abortion/"></link>
+    <updated>2021-07-13T20:56:20+00:00</updated>
+    <published>2021-07-13T20:56:20+00:00</published>
+    <title>Lawsuit challenges Texas law banning abortion after 6 weeks</title>
   </entry>
   <entry>
     <author>
