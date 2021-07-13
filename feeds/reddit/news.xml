@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-12T23:34:57+00:00</updated>
+  <updated>2021-07-13T01:37:20+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1073,6 +1073,19 @@
     <updated>2021-07-10T05:23:09+00:00</updated>
     <published>2021-07-10T05:23:09+00:00</published>
     <title>New York City warned ‘climate change is here’ as storm floods streets and subway</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Robertsonfamily</name>
+      <uri>https://www.reddit.com/user/Robertsonfamily</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Robertsonfamily"&gt; /u/Robertsonfamily &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.oklahoman.com/story/news/2021/07/12/oklahoma-ed-board-bans-critical-race-theory-certain-gender-teachings/7917847002/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj21qd/oklahoma_board_of_education_approves_rules_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj21qd</id>
+    <link href="https://www.reddit.com/r/news/comments/oj21qd/oklahoma_board_of_education_approves_rules_to/"></link>
+    <updated>2021-07-12T22:25:41+00:00</updated>
+    <published>2021-07-12T22:25:41+00:00</published>
+    <title>Oklahoma Board of Education approves rules to limit classroom discussions on race, gender</title>
   </entry>
   <entry>
     <author>
@@ -2373,6 +2386,19 @@
     <updated>2021-07-07T21:56:46+00:00</updated>
     <published>2021-07-07T21:56:46+00:00</published>
     <title>Aurora police sergeant arrested in Denver on DUI charges after fleeing scene on foot, police say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/stupidstupidreddit2</name>
+      <uri>https://www.reddit.com/user/stupidstupidreddit2</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/stupidstupidreddit2"&gt; /u/stupidstupidreddit2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/12/americas/haiti-assassination-plot-us-law-informants/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj2yhv/several_tied_to_haiti_assassination_plot_were/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj2yhv</id>
+    <link href="https://www.reddit.com/r/news/comments/oj2yhv/several_tied_to_haiti_assassination_plot_were/"></link>
+    <updated>2021-07-12T23:13:55+00:00</updated>
+    <published>2021-07-12T23:13:55+00:00</published>
+    <title>Several tied to Haiti assassination plot were previously US law enforcement informants</title>
   </entry>
   <entry>
     <author>
