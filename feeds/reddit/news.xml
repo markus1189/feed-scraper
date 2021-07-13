@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T13:39:28+00:00</updated>
+  <updated>2021-07-13T14:33:01+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1561,6 +1561,19 @@
       <uri>https://www.reddit.com/user/anikhch</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/wireStory/dead-wounded-shooting-detroit-banquet-hall-78814418"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojdzip/1_dead_5_wounded_in_shooting_outside_detroit/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojdzip</id>
+    <link href="https://www.reddit.com/r/news/comments/ojdzip/1_dead_5_wounded_in_shooting_outside_detroit/"></link>
+    <updated>2021-07-13T11:53:12+00:00</updated>
+    <published>2021-07-13T11:53:12+00:00</published>
+    <title>1 dead, 5 wounded in shooting outside Detroit banquet hall</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/legend-of-zelda-auction-video-games-0ba3a92a781dc79a1285cd7f748cbfed"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohl96b/unopened_legend_of_zelda_game_from_1987_sells_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ohl96b</id>
     <link href="https://www.reddit.com/r/news/comments/ohl96b/unopened_legend_of_zelda_game_from_1987_sells_for/"></link>
@@ -1632,6 +1645,19 @@
     <updated>2021-07-08T22:30:52+00:00</updated>
     <published>2021-07-08T22:30:52+00:00</published>
     <title>California charges 6 ex-highway officers with overtime fraud</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/bigfanofthebears</name>
+      <uri>https://www.reddit.com/user/bigfanofthebears</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/bigfanofthebears"&gt; /u/bigfanofthebears &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/business-prices-consumer-prices-7c0dceffdbd50a8b1b888af5d3b922ed"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojfs75/us_consumer_prices_surge_in_june_by_the_most/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojfs75</id>
+    <link href="https://www.reddit.com/r/news/comments/ojfs75/us_consumer_prices_surge_in_june_by_the_most/"></link>
+    <updated>2021-07-13T13:39:38+00:00</updated>
+    <published>2021-07-13T13:39:38+00:00</published>
+    <title>US consumer prices surge in June by the most since 2008</title>
   </entry>
   <entry>
     <author>
