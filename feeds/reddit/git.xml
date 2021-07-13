@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-13T20:34:56+00:00</updated>
+  <updated>2021-07-13T21:37:10+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -435,6 +435,19 @@
     <updated>2021-07-05T13:58:40+00:00</updated>
     <published>2021-07-05T13:58:40+00:00</published>
     <title>git update: the odyssey for a sensible git pull</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/felipec</name>
+      <uri>https://www.reddit.com/user/felipec</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/felipec"&gt; /u/felipec &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://felipec.wordpress.com/2021/07/13/why-is-git-pull-broken/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ojpk1o/why_is_git_pull_broken/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojpk1o</id>
+    <link href="https://www.reddit.com/r/git/comments/ojpk1o/why_is_git_pull_broken/"></link>
+    <updated>2021-07-13T21:34:04+00:00</updated>
+    <published>2021-07-13T21:34:04+00:00</published>
+    <title>Why is git pull broken?</title>
   </entry>
   <entry>
     <author>

@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T20:34:58+00:00</updated>
+  <updated>2021-07-13T21:37:12+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2636,6 +2636,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/notkenneth</name>
+      <uri>https://www.reddit.com/user/notkenneth</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/notkenneth"&gt; /u/notkenneth &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.tennessean.com/story/news/health/2021/07/13/tennessee-halts-all-vaccine-outreach-minors-not-just-covid-19/7928701002/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojnl3w/tennessee_abandons_vaccine_outreach_to_minors_not/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojnl3w</id>
+    <link href="https://www.reddit.com/r/news/comments/ojnl3w/tennessee_abandons_vaccine_outreach_to_minors_not/"></link>
+    <updated>2021-07-13T19:58:45+00:00</updated>
+    <published>2021-07-13T19:58:45+00:00</published>
+    <title>Tennessee abandons vaccine outreach to minors — not just for COVID-19</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/pain_in_your_ass</name>
       <uri>https://www.reddit.com/user/pain_in_your_ass</uri>
     </author>
@@ -2685,6 +2698,19 @@
     <updated>2021-07-10T00:20:28+00:00</updated>
     <published>2021-07-10T00:20:28+00:00</published>
     <title>Passengers Ordered To Place Hands On Head, Not Film, During Last Hour Of American Airlines Flight To Miami</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/redditor080917</name>
+      <uri>https://www.reddit.com/user/redditor080917</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/redditor080917"&gt; /u/redditor080917 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://poststar.com/news/local/sheriff-hires-son-after-nepotism-policy-changed/article_807f80e4-d161-5645-8a1a-6a4acf64f636.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojohyc/sheriff_hires_son_after_nepotism_policy_changed/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojohyc</id>
+    <link href="https://www.reddit.com/r/news/comments/ojohyc/sheriff_hires_son_after_nepotism_policy_changed/"></link>
+    <updated>2021-07-13T20:42:49+00:00</updated>
+    <published>2021-07-13T20:42:49+00:00</published>
+    <title>Sheriff hires son after nepotism policy changed</title>
   </entry>
   <entry>
     <author>
