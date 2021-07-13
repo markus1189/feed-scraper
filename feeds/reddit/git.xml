@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-13T01:37:18+00:00</updated>
+  <updated>2021-07-13T02:44:05+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -409,6 +409,19 @@
     <updated>2021-07-08T06:59:29+00:00</updated>
     <published>2021-07-08T06:59:29+00:00</published>
     <title>New user here, confused about git usage</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/geshan</name>
+      <uri>https://www.reddit.com/user/geshan</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/geshan"&gt; /u/geshan &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://flagsmith.com/blog/git-branching-and-feature-flags/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oj5pp4/use_feature_flags_and_smaller_pull_requests_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj5pp4</id>
+    <link href="https://www.reddit.com/r/git/comments/oj5pp4/use_feature_flags_and_smaller_pull_requests_to/"></link>
+    <updated>2021-07-13T01:55:37+00:00</updated>
+    <published>2021-07-13T01:55:37+00:00</published>
+    <title>Use feature flags and smaller pull requests to release code safely in any git branching model</title>
   </entry>
   <entry>
     <author>

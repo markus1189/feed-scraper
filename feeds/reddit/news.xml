@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T01:37:20+00:00</updated>
+  <updated>2021-07-13T02:44:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1541,6 +1541,19 @@
     <updated>2021-07-10T01:26:09+00:00</updated>
     <published>2021-07-10T01:26:09+00:00</published>
     <title>NYPD beekeeper removes 25,000 bees from Times Square</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cloudy878</name>
+      <uri>https://www.reddit.com/user/cloudy878</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cloudy878"&gt; /u/cloudy878 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.independent.co.uk/news/world/americas/crime/hate-crime-asian-las-vegas-b1882807.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj1iy8/woman_charged_with_hate_crime_after_punching/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj1iy8</id>
+    <link href="https://www.reddit.com/r/news/comments/oj1iy8/woman_charged_with_hate_crime_after_punching/"></link>
+    <updated>2021-07-12T21:59:48+00:00</updated>
+    <published>2021-07-12T21:59:48+00:00</published>
+    <title>Woman charged with hate crime after punching 6-year-old Asian American boy</title>
   </entry>
   <entry>
     <author>
