@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T05:32:42+00:00</updated>
+  <updated>2021-07-13T06:46:41+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -59,6 +59,19 @@
     <updated>2021-07-09T05:41:13+00:00</updated>
     <published>2021-07-09T05:41:13+00:00</published>
     <title>5.9 Earthquake Shakes Wide Area of California</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AirbusJisnu2005</name>
+      <uri>https://www.reddit.com/user/AirbusJisnu2005</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AirbusJisnu2005"&gt; /u/AirbusJisnu2005 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.independent.co.uk/asia/india/covid-fake-vaccine-srinagar-cowin-b1882462.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj4iqc/kashmir_man_who_has_been_dead_for_sixty_years/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj4iqc</id>
+    <link href="https://www.reddit.com/r/news/comments/oj4iqc/kashmir_man_who_has_been_dead_for_sixty_years/"></link>
+    <updated>2021-07-13T00:43:31+00:00</updated>
+    <published>2021-07-13T00:43:31+00:00</published>
+    <title>Kashmir man who has been dead for sixty years ‘receives both doses’ of Covid vaccine</title>
   </entry>
   <entry>
     <author>
@@ -1242,6 +1255,19 @@
     <updated>2021-07-11T22:02:30+00:00</updated>
     <published>2021-07-11T22:02:30+00:00</published>
     <title>Fauci says no immediate need for Covid booster for fully vaccinated Americans</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Thegoods030</name>
+      <uri>https://www.reddit.com/user/Thegoods030</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Thegoods030"&gt; /u/Thegoods030 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://wusfnews.wusf.usf.edu/environment/2021-07-12/smell-of-dead-fish-permeates-downtown"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj7szp/smell_of_dead_fish_permeates_downtown_st/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj7szp</id>
+    <link href="https://www.reddit.com/r/news/comments/oj7szp/smell_of_dead_fish_permeates_downtown_st/"></link>
+    <updated>2021-07-13T04:03:09+00:00</updated>
+    <published>2021-07-13T04:03:09+00:00</published>
+    <title>Smell Of Dead Fish Permeates Downtown St. Petersburg Waterfront</title>
   </entry>
   <entry>
     <author>
