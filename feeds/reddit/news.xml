@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T19:32:44+00:00</updated>
+  <updated>2021-07-13T20:34:58+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -111,6 +111,19 @@
     <updated>2021-07-12T14:49:37+00:00</updated>
     <published>2021-07-12T14:49:37+00:00</published>
     <title>Taliban surrounds the Afghan city of Ghazni, Take over civilian houses</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AltAccntNo1</name>
+      <uri>https://www.reddit.com/user/AltAccntNo1</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AltAccntNo1"&gt; /u/AltAccntNo1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/world/2021/jul/13/cuba-protests-activists-journalists-protesters-detained"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojl3q7/at_least_140_cubans_reportedly_detained_or/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojl3q7</id>
+    <link href="https://www.reddit.com/r/news/comments/ojl3q7/at_least_140_cubans_reportedly_detained_or/"></link>
+    <updated>2021-07-13T18:00:28+00:00</updated>
+    <published>2021-07-13T18:00:28+00:00</published>
+    <title>At least 140 Cubans reportedly detained or disappeared after historic protests</title>
   </entry>
   <entry>
     <author>
@@ -1203,6 +1216,19 @@
     <updated>2021-07-08T14:31:15+00:00</updated>
     <published>2021-07-08T14:31:15+00:00</published>
     <title>Still waiting for a tax refund? IRS backlog has grown to 35 million returns</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/PhilDesenex</name>
+      <uri>https://www.reddit.com/user/PhilDesenex</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PhilDesenex"&gt; /u/PhilDesenex &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnbc.com/2021/07/13/fcc-finalizes-program-to-rip-and-replace-huawei-zte-equipment-in-us.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojli76/fcc_finalizes_program_to_rip_and_replace_huawei/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojli76</id>
+    <link href="https://www.reddit.com/r/news/comments/ojli76/fcc_finalizes_program_to_rip_and_replace_huawei/"></link>
+    <updated>2021-07-13T18:19:02+00:00</updated>
+    <published>2021-07-13T18:19:02+00:00</published>
+    <title>FCC finalizes program to rip and replace Huawei, ZTE telecom equipment in the U.S.</title>
   </entry>
   <entry>
     <author>
@@ -2451,6 +2477,19 @@
     <updated>2021-07-11T08:18:43+00:00</updated>
     <published>2021-07-11T08:18:43+00:00</published>
     <title>Elon Musk buys ticket on Sir Richard Branson’s space flight – report</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nategolon</name>
+      <uri>https://www.reddit.com/user/nategolon</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nategolon"&gt; /u/nategolon &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://yovenice.com/2021/07/12/hyperion-spill-discharges-17-million-gallons-of-raw-sewage-into-santa-monica-bay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojm3xa/hyperion_spill_discharges_17_million_gallons_of/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojm3xa</id>
+    <link href="https://www.reddit.com/r/news/comments/ojm3xa/hyperion_spill_discharges_17_million_gallons_of/"></link>
+    <updated>2021-07-13T18:48:03+00:00</updated>
+    <published>2021-07-13T18:48:03+00:00</published>
+    <title>Hyperion Spill Discharges 17 Million Gallons of Raw Sewage Into Santa Monica Bay</title>
   </entry>
   <entry>
     <author>
