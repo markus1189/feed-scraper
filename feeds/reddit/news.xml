@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-13T02:44:07+00:00</updated>
+  <updated>2021-07-13T03:39:45+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1112,6 +1112,32 @@
     <updated>2021-07-09T00:58:54+00:00</updated>
     <published>2021-07-09T00:58:54+00:00</published>
     <title>17-year-old dies after being shot in the head while driving home from Astros game</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Sanlear</name>
+      <uri>https://www.reddit.com/user/Sanlear</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Sanlear"&gt; /u/Sanlear &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/asian-america/illinois-becomes-first-state-require-teaching-asian-american-history-schools-n1273774"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj6bn5/illinois_just_became_first_state_to_require_asian/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj6bn5</id>
+    <link href="https://www.reddit.com/r/news/comments/oj6bn5/illinois_just_became_first_state_to_require_asian/"></link>
+    <updated>2021-07-13T02:32:05+00:00</updated>
+    <published>2021-07-13T02:32:05+00:00</published>
+    <title>Illinois just became first state to require Asian American history to be taught in schools</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Schiffy94</name>
+      <uri>https://www.reddit.com/user/Schiffy94</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Schiffy94"&gt; /u/Schiffy94 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://deadline.com/2021/07/charles-robinson-dead-night-court-buffalo-bill-1234791266/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oj69k1/charlie_robinson_dead_night_court_buffalo_bill/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oj69k1</id>
+    <link href="https://www.reddit.com/r/news/comments/oj69k1/charlie_robinson_dead_night_court_buffalo_bill/"></link>
+    <updated>2021-07-13T02:28:40+00:00</updated>
+    <published>2021-07-13T02:28:40+00:00</published>
+    <title>Charlie Robinson Dead: ‘Night Court’ &amp; ‘Buffalo Bill’ Actor Was 75</title>
   </entry>
   <entry>
     <author>
