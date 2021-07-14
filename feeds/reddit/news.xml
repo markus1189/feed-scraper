@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T13:38:50+00:00</updated>
+  <updated>2021-07-14T14:33:08+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1206,6 +1206,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Mod_Lang</name>
+      <uri>https://www.reddit.com/user/Mod_Lang</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mod_Lang"&gt; /u/Mod_Lang &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/lifestyle/sports/olympics-global-interest-tokyo-games-muted-ipsos-poll-2021-07-14/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok3rcn/covid_cases_found_at_olympic_hotel_in_japan_as/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok3rcn</id>
+    <link href="https://www.reddit.com/r/news/comments/ok3rcn/covid_cases_found_at_olympic_hotel_in_japan_as/"></link>
+    <updated>2021-07-14T12:55:37+00:00</updated>
+    <published>2021-07-14T12:55:37+00:00</published>
+    <title>COVID cases found at Olympic hotel in Japan as IOC hails 'historic' Games</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Murderhands</name>
       <uri>https://www.reddit.com/user/Murderhands</uri>
     </author>
@@ -2321,6 +2334,19 @@
     <updated>2021-07-11T14:28:43+00:00</updated>
     <published>2021-07-11T14:28:43+00:00</published>
     <title>Georgia probes death of journalist beaten during attacks on LGBT+ supporters</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/imsopepsi</name>
+      <uri>https://www.reddit.com/user/imsopepsi</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/imsopepsi"&gt; /u/imsopepsi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/world-latin-america-57799852"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok1bcr/cuba_protests_thousands_rally_against_government/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok1bcr</id>
+    <link href="https://www.reddit.com/r/news/comments/ok1bcr/cuba_protests_thousands_rally_against_government/"></link>
+    <updated>2021-07-14T10:10:40+00:00</updated>
+    <published>2021-07-14T10:10:40+00:00</published>
+    <title>Cuba protests: Thousands rally against government as economy struggles</title>
   </entry>
   <entry>
     <author>
