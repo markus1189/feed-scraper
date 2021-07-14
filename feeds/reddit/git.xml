@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-14T11:32:34+00:00</updated>
+  <updated>2021-07-14T12:57:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -357,6 +357,19 @@
     <updated>2021-07-09T20:46:15+00:00</updated>
     <published>2021-07-09T20:46:15+00:00</published>
     <title>A Git repository with 2^28 commits—one for every 7-character shorthash</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cag8f</name>
+      <uri>https://www.reddit.com/user/cag8f</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi all. When I finish coding a task, I push the finished code to my remote repo. But sometimes, at the end of a day, I have unpushed edits--they are either in my local working directory, or my local stash. To guard against loss of data, what options do I have in terms of backing up these edits? &lt;/p&gt; &lt;p&gt;I guess creating a new branch with my edits, and pushing it to the remote repo, is an option. But what about local stashes--how do I back those up? Do I have to simply make a copy of the entire local repo and store it on another storage device?&lt;/p&gt; &lt;p&gt;Thanks in advance.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cag8f"&gt; /u/cag8f &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ok2w0j/how_to_backup_edits_in_local_repo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ok2w0j/how_to_backup_edits_in_local_repo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok2w0j</id>
+    <link href="https://www.reddit.com/r/git/comments/ok2w0j/how_to_backup_edits_in_local_repo/"></link>
+    <updated>2021-07-14T12:01:19+00:00</updated>
+    <published>2021-07-14T12:01:19+00:00</published>
+    <title>How to backup edits in local repo?</title>
   </entry>
   <entry>
     <author>

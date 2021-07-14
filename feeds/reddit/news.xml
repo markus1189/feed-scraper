@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T11:32:36+00:00</updated>
+  <updated>2021-07-14T12:57:09+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -59,6 +59,19 @@
     <updated>2021-07-10T06:23:39+00:00</updated>
     <published>2021-07-10T06:23:39+00:00</published>
     <title>More Abortion Restrictions Have Been Enacted In The U.S. This Year Than In Any Other</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Aabidahbepari</name>
+      <uri>https://www.reddit.com/user/Aabidahbepari</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Aabidahbepari"&gt; /u/Aabidahbepari &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/uk-england-london-57826331"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok18gq/covid_masks_to_remain_compulsory_on_london/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok18gq</id>
+    <link href="https://www.reddit.com/r/news/comments/ok18gq/covid_masks_to_remain_compulsory_on_london/"></link>
+    <updated>2021-07-14T10:04:48+00:00</updated>
+    <published>2021-07-14T10:04:48+00:00</published>
+    <title>Covid: Masks to remain compulsory on London transport</title>
   </entry>
   <entry>
     <author>
@@ -514,6 +527,19 @@
     <updated>2021-07-09T00:44:01+00:00</updated>
     <published>2021-07-09T00:44:01+00:00</published>
     <title>Marilyn Manson surrenders to police for assault arrest warrant</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/DocPersia</name>
+      <uri>https://www.reddit.com/user/DocPersia</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DocPersia"&gt; /u/DocPersia &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/Health/delta-variant-now-accounts-58-covid-19-cases/story?id=78834579"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok1h3b/delta_variant_now_accounts_for_about_58_of/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok1h3b</id>
+    <link href="https://www.reddit.com/r/news/comments/ok1h3b/delta_variant_now_accounts_for_about_58_of/"></link>
+    <updated>2021-07-14T10:22:49+00:00</updated>
+    <published>2021-07-14T10:22:49+00:00</published>
+    <title>Delta variant now accounts for about 58% of COVID-19 cases in US, CDC says</title>
   </entry>
   <entry>
     <author>
@@ -2178,6 +2204,19 @@
     <updated>2021-07-11T16:39:10+00:00</updated>
     <published>2021-07-11T16:39:10+00:00</published>
     <title>Trouble in Alaska? Massive oil pipeline is threatened by thawing permafrost</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/harrymatics</name>
+      <uri>https://www.reddit.com/user/harrymatics</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/harrymatics"&gt; /u/harrymatics &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/us/california-compensate-people-forcibly-sterilized-under-eugenics-2021-07-13/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojzzov/california_to_compensate_people_forcibly/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojzzov</id>
+    <link href="https://www.reddit.com/r/news/comments/ojzzov/california_to_compensate_people_forcibly/"></link>
+    <updated>2021-07-14T08:25:14+00:00</updated>
+    <published>2021-07-14T08:25:14+00:00</published>
+    <title>California to compensate people forcibly sterilized under eugenics</title>
   </entry>
   <entry>
     <author>
