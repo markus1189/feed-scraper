@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T18:44:34+00:00</updated>
+  <updated>2021-07-14T19:33:02+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -439,6 +439,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Cofevid19</name>
+      <uri>https://www.reddit.com/user/Cofevid19</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Cofevid19"&gt; /u/Cofevid19 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/14/politics/fort-rucker-covid-vax-proof/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok7bx8/alabama_military_base_orders_troops_to_show/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok7bx8</id>
+    <link href="https://www.reddit.com/r/news/comments/ok7bx8/alabama_military_base_orders_troops_to_show/"></link>
+    <updated>2021-07-14T15:59:17+00:00</updated>
+    <published>2021-07-14T15:59:17+00:00</published>
+    <title>Alabama military base orders troops to show vaccination proof as Covid-19 concerns mount</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/CreepyBrother4</name>
       <uri>https://www.reddit.com/user/CreepyBrother4</uri>
     </author>
@@ -735,6 +748,19 @@
     <updated>2021-07-07T22:28:35+00:00</updated>
     <published>2021-07-07T22:28:35+00:00</published>
     <title>Rudy Giuliani’s DC law license is suspended</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Fuzier</name>
+      <uri>https://www.reddit.com/user/Fuzier</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Fuzier"&gt; /u/Fuzier &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/13/nyregion/homeless-hotels-protests.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok8w8n/nycs_plan_to_move_homeless_people_from_hotels_is/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok8w8n</id>
+    <link href="https://www.reddit.com/r/news/comments/ok8w8n/nycs_plan_to_move_homeless_people_from_hotels_is/"></link>
+    <updated>2021-07-14T17:13:31+00:00</updated>
+    <published>2021-07-14T17:13:31+00:00</published>
+    <title>N.Y.C.’s Plan to Move Homeless People From Hotels Is Blocked by a Judge</title>
   </entry>
   <entry>
     <author>
