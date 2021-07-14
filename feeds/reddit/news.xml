@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T14:33:08+00:00</updated>
+  <updated>2021-07-14T15:43:21+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -306,6 +306,19 @@
     <updated>2021-07-11T04:09:22+00:00</updated>
     <published>2021-07-11T04:09:22+00:00</published>
     <title>Woman, 90, infected with Alpha and Beta Covid variants at the same time</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Bluest_waters</name>
+      <uri>https://www.reddit.com/user/Bluest_waters</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Bluest_waters"&gt; /u/Bluest_waters &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.kuer.org/health-science-environment/2021-07-07/declining-water-levels-in-the-great-salt-lake-spell-economic-trouble-for-utah"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok5w29/declining_water_levels_in_the_great_salt_lake/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok5w29</id>
+    <link href="https://www.reddit.com/r/news/comments/ok5w29/declining_water_levels_in_the_great_salt_lake/"></link>
+    <updated>2021-07-14T14:49:15+00:00</updated>
+    <published>2021-07-14T14:49:15+00:00</published>
+    <title>Declining Water Levels In The Great Salt Lake Spell Economic Trouble For Utah. The Great Salt Lake is reaching its lowest level ever.</title>
   </entry>
   <entry>
     <author>
@@ -1401,6 +1414,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/RickFlair_W000</name>
+      <uri>https://www.reddit.com/user/RickFlair_W000</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/RickFlair_W000"&gt; /u/RickFlair_W000 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/14/health/drug-overdose-deaths-2020/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok5594/drug_overdose_deaths_hit_highest_number_ever/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok5594</id>
+    <link href="https://www.reddit.com/r/news/comments/ok5594/drug_overdose_deaths_hit_highest_number_ever/"></link>
+    <updated>2021-07-14T14:10:48+00:00</updated>
+    <published>2021-07-14T14:10:48+00:00</published>
+    <title>Drug overdose deaths hit highest number ever recorded</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Robertsonfamily</name>
       <uri>https://www.reddit.com/user/Robertsonfamily</uri>
     </author>
@@ -1925,6 +1951,19 @@
       <uri>https://www.reddit.com/user/architecture13</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/architecture13"&gt; /u/architecture13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/death-toll-rises-210-february-cold-wave-texas-n1273911"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok4ynv/death_toll_rises_to_210_from_february_cold_wave/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok4ynv</id>
+    <link href="https://www.reddit.com/r/news/comments/ok4ynv/death_toll_rises_to_210_from_february_cold_wave/"></link>
+    <updated>2021-07-14T14:01:20+00:00</updated>
+    <published>2021-07-14T14:01:20+00:00</published>
+    <title>Death toll rises to 210 from February cold wave in Texas</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/architecture13</name>
+      <uri>https://www.reddit.com/user/architecture13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/architecture13"&gt; /u/architecture13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/09/business/student-loans-wiped-out.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohhq8b/the_education_dept_will_wipe_out_55_million_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ohhq8b</id>
     <link href="https://www.reddit.com/r/news/comments/ohhq8b/the_education_dept_will_wipe_out_55_million_in/"></link>
@@ -2139,6 +2178,19 @@
     <updated>2021-07-11T19:28:58+00:00</updated>
     <published>2021-07-11T19:28:58+00:00</published>
     <title>Dragonflies are losing their wing color because of climate change, study shows</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/eric_bousquet</name>
+      <uri>https://www.reddit.com/user/eric_bousquet</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/eric_bousquet"&gt; /u/eric_bousquet &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/13/us-wildfires-california-oregon-washington"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok4inn/more_than_60_wildfires_rage_across_us_west/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok4inn</id>
+    <link href="https://www.reddit.com/r/news/comments/ok4inn/more_than_60_wildfires_rage_across_us_west/"></link>
+    <updated>2021-07-14T13:37:56+00:00</updated>
+    <published>2021-07-14T13:37:56+00:00</published>
+    <title>More than 60 wildfires rage across US west – including blaze bigger than Portland | Climate crisis in the American west</title>
   </entry>
   <entry>
     <author>
@@ -2984,6 +3036,19 @@
     <updated>2021-07-09T08:17:43+00:00</updated>
     <published>2021-07-09T08:17:43+00:00</published>
     <title>UK scientists caution that lifting of Covid rules is like building ‘variant factories’</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/rocketpastsix</name>
+      <uri>https://www.reddit.com/user/rocketpastsix</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/rocketpastsix"&gt; /u/rocketpastsix &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://kuow.org/stories/nearly-700-people-believed-to-have-died-in-northwest-heat-wave"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok50ti/kuow_nearly_700_people_believed_to_have_died_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ok50ti</id>
+    <link href="https://www.reddit.com/r/news/comments/ok50ti/kuow_nearly_700_people_believed_to_have_died_in/"></link>
+    <updated>2021-07-14T14:04:26+00:00</updated>
+    <published>2021-07-14T14:04:26+00:00</published>
+    <title>KUOW - Nearly 700 people believed to have died in Northwest heat wave</title>
   </entry>
   <entry>
     <author>
