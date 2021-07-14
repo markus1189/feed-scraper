@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T22:36:35+00:00</updated>
+  <updated>2021-07-14T23:34:52+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -384,6 +384,19 @@
     <updated>2021-07-09T18:06:41+00:00</updated>
     <published>2021-07-09T18:06:41+00:00</published>
     <title>The U.S. just experienced its hottest June on record</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Broiled_Fish_980</name>
+      <uri>https://www.reddit.com/user/Broiled_Fish_980</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Broiled_Fish_980"&gt; /u/Broiled_Fish_980 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/january-6-capitol-riot-josiah-colt-senate-chamber-guilty-plea/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okedxi/man_who_swung_from_senate_balcony_on_january_6/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okedxi</id>
+    <link href="https://www.reddit.com/r/news/comments/okedxi/man_who_swung_from_senate_balcony_on_january_6/"></link>
+    <updated>2021-07-14T21:41:35+00:00</updated>
+    <published>2021-07-14T21:41:35+00:00</published>
+    <title>Man who swung from Senate balcony on January 6 pleads guilty and agrees to cooperate</title>
   </entry>
   <entry>
     <author>
@@ -1216,6 +1229,19 @@
     <updated>2021-07-11T13:49:00+00:00</updated>
     <published>2021-07-11T13:49:00+00:00</published>
     <title>A mysterious vomiting illness afflicts some users of high potency pot</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/LethalAgenda</name>
+      <uri>https://www.reddit.com/user/LethalAgenda</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/LethalAgenda"&gt; /u/LethalAgenda &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.newschannel5.com/news/tennessee-vaccine-official-says-she-was-sent-muzzle-one-week-before-firing"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oke9wl/tennessee_vaccine_official_says_she_was_sent/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oke9wl</id>
+    <link href="https://www.reddit.com/r/news/comments/oke9wl/tennessee_vaccine_official_says_she_was_sent/"></link>
+    <updated>2021-07-14T21:35:49+00:00</updated>
+    <published>2021-07-14T21:35:49+00:00</published>
+    <title>Tennessee vaccine official says she was sent muzzle week before firing</title>
   </entry>
   <entry>
     <author>
@@ -3465,6 +3491,19 @@
     <updated>2021-07-09T12:35:43+00:00</updated>
     <published>2021-07-09T12:35:43+00:00</published>
     <title>Man accused of stabbing Boston rabbi is charged with hate crimes</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/thewibbler</name>
+      <uri>https://www.reddit.com/user/thewibbler</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/thewibbler"&gt; /u/thewibbler &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://news.sky.com/story/britney-spears-tells-la-court-she-wants-her-father-charged-with-conservatorship-abuse-12356057"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okfpqq/britney_spears_tells_la_court_she_wants_her/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okfpqq</id>
+    <link href="https://www.reddit.com/r/news/comments/okfpqq/britney_spears_tells_la_court_she_wants_her/"></link>
+    <updated>2021-07-14T22:49:18+00:00</updated>
+    <published>2021-07-14T22:49:18+00:00</published>
+    <title>Britney Spears tells LA court she wants her father charged with conservatorship abuse</title>
   </entry>
   <entry>
     <author>
