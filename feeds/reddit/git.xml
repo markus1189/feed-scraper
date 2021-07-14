@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-14T20:34:40+00:00</updated>
+  <updated>2021-07-14T21:37:03+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -347,6 +347,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/berrmal64</name>
+      <uri>https://www.reddit.com/user/berrmal64</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;At this point upstream/main has all the files I have, but with updates and additions and extra files. I want to fetch/merge upstream/main into my origin/main, but when I get on github and click &amp;quot;Fetch Upstream&amp;quot; it says it can&amp;#39;t make a pull request, as the commit histories are entirely different.&lt;/p&gt; &lt;p&gt;What should I do?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/berrmal64"&gt; /u/berrmal64 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okdiwb</id>
+    <link href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"></link>
+    <updated>2021-07-14T20:58:22+00:00</updated>
+    <published>2021-07-14T20:58:22+00:00</published>
+    <title>I forked a repo and have written code on a branch. In the meantime, the upstream repo owner replaced their entire repo with one that has an entirely different commit history. How to fix?</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/breck</name>
       <uri>https://www.reddit.com/user/breck</uri>
     </author>
@@ -396,6 +409,19 @@
     <updated>2021-07-09T15:58:09+00:00</updated>
     <published>2021-07-09T15:58:09+00:00</published>
     <title>A couple basic questions about Git</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/deburin</name>
+      <uri>https://www.reddit.com/user/deburin</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Couple questions about git pull:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;During git fetch, are all refs including to remote branches not shown on local, downloaded?&lt;/li&gt; &lt;li&gt;During pull, is only the checked out branch merged? I believe that has been my experience&lt;/li&gt; &lt;/ol&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/deburin"&gt; /u/deburin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okdo02/pull_fetch_all_refs_merge_checked_out_remote/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okdo02/pull_fetch_all_refs_merge_checked_out_remote/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okdo02</id>
+    <link href="https://www.reddit.com/r/git/comments/okdo02/pull_fetch_all_refs_merge_checked_out_remote/"></link>
+    <updated>2021-07-14T21:05:06+00:00</updated>
+    <published>2021-07-14T21:05:06+00:00</published>
+    <title>Pull: fetch all refs, merge checked out remote?</title>
   </entry>
   <entry>
     <author>
