@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T09:38:56+00:00</updated>
+  <updated>2021-07-14T10:38:27+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2932,6 +2932,19 @@
     <updated>2021-07-09T00:15:15+00:00</updated>
     <published>2021-07-09T00:15:15+00:00</published>
     <title>Suspect arrested in triple murder on Georgia golf course</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/sillychillly</name>
+      <uri>https://www.reddit.com/user/sillychillly</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/sillychillly"&gt; /u/sillychillly &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/12/politics/rioter-six-month-sentence-michael-curzio/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojtmjf/capitol_rioter_with_ties_to_white_supremacist/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojtmjf</id>
+    <link href="https://www.reddit.com/r/news/comments/ojtmjf/capitol_rioter_with_ties_to_white_supremacist/"></link>
+    <updated>2021-07-14T01:15:55+00:00</updated>
+    <published>2021-07-14T01:15:55+00:00</published>
+    <title>Capitol rioter with ties to White supremacist gang pleads guilty and is sentenced to 6 months in jail with credit for time served</title>
   </entry>
   <entry>
     <author>
