@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T21:37:05+00:00</updated>
+  <updated>2021-07-14T22:36:35+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3117,6 +3117,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/qkfb</name>
+      <uri>https://www.reddit.com/user/qkfb</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/qkfb"&gt; /u/qkfb &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/nbc-out/out-news/wyoming-bar-fire-selling-shirt-advocating-anti-gay-violence-rcna1410"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okcnyc/wyoming_bar_under_fire_for_selling_shirt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okcnyc</id>
+    <link href="https://www.reddit.com/r/news/comments/okcnyc/wyoming_bar_under_fire_for_selling_shirt/"></link>
+    <updated>2021-07-14T20:16:34+00:00</updated>
+    <published>2021-07-14T20:16:34+00:00</published>
+    <title>Wyoming bar under fire for selling shirt advocating anti-gay violence</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/raramuri19</name>
       <uri>https://www.reddit.com/user/raramuri19</uri>
     </author>
@@ -3257,6 +3270,19 @@
     <updated>2021-07-09T00:15:15+00:00</updated>
     <published>2021-07-09T00:15:15+00:00</published>
     <title>Suspect arrested in triple murder on Georgia golf course</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/shahin-13</name>
+      <uri>https://www.reddit.com/user/shahin-13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/shahin-13"&gt; /u/shahin-13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/woman-charged-hate-crime-stepping-pro-police-back-blue-sign-n1273997"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okdhm5/woman_charged_with_hate_crime_for_stepping_on/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okdhm5</id>
+    <link href="https://www.reddit.com/r/news/comments/okdhm5/woman_charged_with_hate_crime_for_stepping_on/"></link>
+    <updated>2021-07-14T20:56:32+00:00</updated>
+    <published>2021-07-14T20:56:32+00:00</published>
+    <title>Woman charged with hate crime for stepping on pro-police 'Back the Blue' sign in Utah</title>
   </entry>
   <entry>
     <author>
