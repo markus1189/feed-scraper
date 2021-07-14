@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T04:46:34+00:00</updated>
+  <updated>2021-07-14T05:32:34+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2828,6 +2828,19 @@
     <updated>2021-07-09T18:36:35+00:00</updated>
     <published>2021-07-09T18:36:35+00:00</published>
     <title>F.D.A. Requests Federal Investigation of Alzheimer’s Drug Approval</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/regret629</name>
+      <uri>https://www.reddit.com/user/regret629</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/regret629"&gt; /u/regret629 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/13/business/norwegian-cruise-florida-vaccine-requirement.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojvl91/norwegian_cruise_line_sues_florida_over/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojvl91</id>
+    <link href="https://www.reddit.com/r/news/comments/ojvl91/norwegian_cruise_line_sues_florida_over/"></link>
+    <updated>2021-07-14T03:12:08+00:00</updated>
+    <published>2021-07-14T03:12:08+00:00</published>
+    <title>Norwegian Cruise Line sues Florida over prohibition on vaccine requirements.</title>
   </entry>
   <entry>
     <author>
