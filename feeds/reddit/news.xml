@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T02:43:01+00:00</updated>
+  <updated>2021-07-14T03:40:04+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2958,6 +2958,19 @@
     <updated>2021-07-07T21:56:46+00:00</updated>
     <published>2021-07-07T21:56:46+00:00</published>
     <title>Aurora police sergeant arrested in Denver on DUI charges after fleeing scene on foot, police say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/stf95</name>
+      <uri>https://www.reddit.com/user/stf95</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/stf95"&gt; /u/stf95 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.npr.org/2021/07/13/1015312707/a-summer-red-tide-has-left-hundreds-of-tons-of-dead-fish-along-tampa-bays-shore"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojtx6w/at_least_600_tons_of_dead_fish_have_washed_up/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojtx6w</id>
+    <link href="https://www.reddit.com/r/news/comments/ojtx6w/at_least_600_tons_of_dead_fish_have_washed_up/"></link>
+    <updated>2021-07-14T01:32:44+00:00</updated>
+    <published>2021-07-14T01:32:44+00:00</published>
+    <title>At Least 600 Tons Of Dead Fish Have Washed Up Along Tampa Bay's Shore</title>
   </entry>
   <entry>
     <author>
