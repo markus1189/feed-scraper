@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T01:32:04+00:00</updated>
+  <updated>2021-07-14T02:43:01+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2328,6 +2328,19 @@
       <uri>https://www.reddit.com/user/longhegrindilemna</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/longhegrindilemna"&gt; /u/longhegrindilemna &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/coronavirus-pandemic-us-cases-rising-03150d6404004711b80e9bd6ff0d410d"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojt7k8/us_covid19_cases_rising_again_doubling_over_three/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojt7k8</id>
+    <link href="https://www.reddit.com/r/news/comments/ojt7k8/us_covid19_cases_rising_again_doubling_over_three/"></link>
+    <updated>2021-07-14T00:51:56+00:00</updated>
+    <published>2021-07-14T00:51:56+00:00</published>
+    <title>US COVID-19 cases rising again, doubling over three weeks</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/longhegrindilemna</name>
+      <uri>https://www.reddit.com/user/longhegrindilemna</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/longhegrindilemna"&gt; /u/longhegrindilemna &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/florida-manatees-5edca7735d6f85d9da2506be63365cc2"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oieuvr/florida_breaks_annual_manatee_death_record_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_oieuvr</id>
     <link href="https://www.reddit.com/r/news/comments/oieuvr/florida_breaks_annual_manatee_death_record_in/"></link>
@@ -2438,6 +2451,19 @@
     <updated>2021-07-11T22:16:43+00:00</updated>
     <published>2021-07-11T22:16:43+00:00</published>
     <title>Indigenous Americans call for justice over residential schools</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marsianer</name>
+      <uri>https://www.reddit.com/user/marsianer</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marsianer"&gt; /u/marsianer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnewyork.com/news/local/crime-and-courts/iran-intelligence-agents-plotted-to-kidnap-brooklyn-human-rights-activist-prosecutors/3153073/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojtbkz/iran_intelligence_agents_plotted_to_kidnap/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojtbkz</id>
+    <link href="https://www.reddit.com/r/news/comments/ojtbkz/iran_intelligence_agents_plotted_to_kidnap/"></link>
+    <updated>2021-07-14T00:58:31+00:00</updated>
+    <published>2021-07-14T00:58:31+00:00</published>
+    <title>Iran Intelligence Agents Plotted to Kidnap Brooklyn Human Rights Activist: Prosecutors</title>
   </entry>
   <entry>
     <author>
@@ -2672,6 +2698,19 @@
     <updated>2021-07-09T19:13:49+00:00</updated>
     <published>2021-07-09T19:13:49+00:00</published>
     <title>Man with concealed carry license steps in, shoots gunman who shot 3, Chicago police say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nosotros_road_sodium</name>
+      <uri>https://www.reddit.com/user/nosotros_road_sodium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nosotros_road_sodium"&gt; /u/nosotros_road_sodium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/entertainment-government-and-politics-arts-and-entertainment-lawsuits-senate-elections-978340e827fa255e4e4437d1ea35a88f"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ojtzow/judge_tosses_roy_moores_lawsuit_over_baron_cohen/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ojtzow</id>
+    <link href="https://www.reddit.com/r/news/comments/ojtzow/judge_tosses_roy_moores_lawsuit_over_baron_cohen/"></link>
+    <updated>2021-07-14T01:36:50+00:00</updated>
+    <published>2021-07-14T01:36:50+00:00</published>
+    <title>Judge tosses Roy Moore’s lawsuit over Baron Cohen interview</title>
   </entry>
   <entry>
     <author>
