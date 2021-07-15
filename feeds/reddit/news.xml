@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T20:35:00+00:00</updated>
+  <updated>2021-07-15T21:37:08+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -501,6 +501,19 @@
     <updated>2021-07-14T15:59:17+00:00</updated>
     <published>2021-07-14T15:59:17+00:00</published>
     <title>Alabama military base orders troops to show vaccination proof as Covid-19 concerns mount</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Crafty_honu9777</name>
+      <uri>https://www.reddit.com/user/Crafty_honu9777</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Crafty_honu9777"&gt; /u/Crafty_honu9777 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/technology/2021/jul/15/spyware-company-impersonates-activist-groups-black-lives-matter"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ol0xtk/israeli_spyware_firm_linked_to_fake_black_lives/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol0xtk</id>
+    <link href="https://www.reddit.com/r/news/comments/ol0xtk/israeli_spyware_firm_linked_to_fake_black_lives/"></link>
+    <updated>2021-07-15T20:14:40+00:00</updated>
+    <published>2021-07-15T20:14:40+00:00</published>
+    <title>Israeli spyware firm linked to fake Black Lives Matter and Amnesty websites</title>
   </entry>
   <entry>
     <author>
@@ -2568,6 +2581,19 @@
     <updated>2021-07-15T17:37:19+00:00</updated>
     <published>2021-07-15T17:37:19+00:00</published>
     <title>Man robbed after filming porn at abandoned building</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/dtaromei</name>
+      <uri>https://www.reddit.com/user/dtaromei</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/dtaromei"&gt; /u/dtaromei &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://m.dw.com/en/eu-sues-hungary-and-poland-over-lgbtq-discrimination/a-58272160"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okvnpj/eu_sues_hungary_and_poland_over_lgbtq/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okvnpj</id>
+    <link href="https://www.reddit.com/r/news/comments/okvnpj/eu_sues_hungary_and_poland_over_lgbtq/"></link>
+    <updated>2021-07-15T15:53:28+00:00</updated>
+    <published>2021-07-15T15:53:28+00:00</published>
+    <title>EU sues Hungary and Poland over LGBTQ discrimination</title>
   </entry>
   <entry>
     <author>
