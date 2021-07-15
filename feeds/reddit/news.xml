@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T16:59:27+00:00</updated>
+  <updated>2021-07-15T17:41:09+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -813,6 +813,19 @@
     <updated>2021-07-12T20:05:00+00:00</updated>
     <published>2021-07-12T20:05:00+00:00</published>
     <title>Lawsuit claims Kroger manager drove employee to suicide</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Geodestamp</name>
+      <uri>https://www.reddit.com/user/Geodestamp</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Geodestamp"&gt; /u/Geodestamp &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.winknews.com/2021/07/15/16-members-of-florida-white-supremacist-prison-gang-indicted-on-charges-of-violent-crimes/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okwlqa/16_members_of_florida_white_supremacist_gang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okwlqa</id>
+    <link href="https://www.reddit.com/r/news/comments/okwlqa/16_members_of_florida_white_supremacist_gang/"></link>
+    <updated>2021-07-15T16:40:08+00:00</updated>
+    <published>2021-07-15T16:40:08+00:00</published>
+    <title>16 members of Florida white supremacist gang indicted on charges of violent crimes</title>
   </entry>
   <entry>
     <author>
@@ -3134,6 +3147,19 @@
       <uri>https://www.reddit.com/user/nedryerson48</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/florida-14a6407801bf3052443a3b8a1f21eea0?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okws0w/exflorida_deputy_gets_12_years_for_planting_drugs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okws0w</id>
+    <link href="https://www.reddit.com/r/news/comments/okws0w/exflorida_deputy_gets_12_years_for_planting_drugs/"></link>
+    <updated>2021-07-15T16:48:46+00:00</updated>
+    <published>2021-07-15T16:48:46+00:00</published>
+    <title>Ex-Florida deputy gets 12 years for planting drugs</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nedryerson48</name>
+      <uri>https://www.reddit.com/user/nedryerson48</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/health-nebraska-bats-152d4d54bbfaeba326afb82daec50d5d"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oho7q4/nebraska_zoo_says_200_people_possibly_exposed_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_oho7q4</id>
     <link href="https://www.reddit.com/r/news/comments/oho7q4/nebraska_zoo_says_200_people_possibly_exposed_to/"></link>
@@ -3712,6 +3738,19 @@
     <updated>2021-07-11T02:30:53+00:00</updated>
     <published>2021-07-11T02:30:53+00:00</published>
     <title>Messi's Argentina beats Brazil 1-0, wins Copa America title</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/tequilasky</name>
+      <uri>https://www.reddit.com/user/tequilasky</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tequilasky"&gt; /u/tequilasky &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://edition.cnn.com/2021/07/15/americas/cuba-lifts-food-medicine-customs-restrictions-intl/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okvzwo/cuba_lifts_customs_restrictions_on_food_and/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okvzwo</id>
+    <link href="https://www.reddit.com/r/news/comments/okvzwo/cuba_lifts_customs_restrictions_on_food_and/"></link>
+    <updated>2021-07-15T16:09:58+00:00</updated>
+    <published>2021-07-15T16:09:58+00:00</published>
+    <title>Cuba lifts customs restrictions on food and medicine after biggest protests in decades</title>
   </entry>
   <entry>
     <author>

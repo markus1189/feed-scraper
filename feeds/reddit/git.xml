@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-15T16:59:24+00:00</updated>
+  <updated>2021-07-15T17:41:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -880,6 +880,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/supermap</name>
+      <uri>https://www.reddit.com/user/supermap</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi, im kind of a beginner to this but i&amp;#39;d really appreciate some help.&lt;/p&gt; &lt;p&gt;In my business we are using gitlab for our projects, but we see an application that we also want to use. Unfortunately it does not have gitlab integration, but it does have github integration. I know they both just use git, but I&amp;#39;d like to know if its possible to use the github integration to integrate our gitlab project, or they are just too incompatible.&lt;/p&gt; &lt;p&gt;Maybe there is a way to mirror a gitlab project on github and then integrate it. Honestly I don&amp;#39;t know enough and i&amp;#39;ve been looking online, but i&amp;#39;d like an opinion on how viable do you think this would be.&lt;/p&gt; &lt;p&gt;Btw the application im trying to integrate is Deepnote, a shared python notebook application.&lt;/p&gt; &lt;p&gt;Thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/supermap"&gt; /u/supermap &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okxtmg/gitlab_project_using_gitlab_integration/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okxtmg/gitlab_project_using_gitlab_integration/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okxtmg</id>
+    <link href="https://www.reddit.com/r/git/comments/okxtmg/gitlab_project_using_gitlab_integration/"></link>
+    <updated>2021-07-15T17:40:06+00:00</updated>
+    <published>2021-07-15T17:40:06+00:00</published>
+    <title>Gitlab project using gitlab integration</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/tangara888</name>
       <uri>https://www.reddit.com/user/tangara888</uri>
     </author>
@@ -890,6 +903,19 @@
     <updated>2021-07-09T15:45:07+00:00</updated>
     <published>2021-07-09T15:45:07+00:00</published>
     <title>what is the command to find out the code before the last commit ?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/teegrizzz</name>
+      <uri>https://www.reddit.com/user/teegrizzz</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I am very new to git and I need this question answered because github desktop has a UI and has git functionalities. Also when you use git, do you have to connect to github?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/teegrizzz"&gt; /u/teegrizzz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okx06o/why_do_people_use_git_instead_of_github_desktop/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okx06o/why_do_people_use_git_instead_of_github_desktop/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okx06o</id>
+    <link href="https://www.reddit.com/r/git/comments/okx06o/why_do_people_use_git_instead_of_github_desktop/"></link>
+    <updated>2021-07-15T16:59:57+00:00</updated>
+    <published>2021-07-15T16:59:57+00:00</published>
+    <title>Why do people use git instead of github desktop?</title>
   </entry>
   <entry>
     <author>
