@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-15T21:37:06+00:00</updated>
+  <updated>2021-07-15T22:36:28+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -542,6 +542,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/felipec</name>
+      <uri>https://www.reddit.com/user/felipec</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I explained my proposal to fix &lt;code&gt;git pull&lt;/code&gt; in my blog post &lt;a href="https://felipec.wordpress.com/2021/07/05/git-update/"&gt;git update: the odyssey for a sensible git pull&lt;/a&gt;, which in addition to &lt;code&gt;git update&lt;/code&gt; has fixes for &lt;code&gt;git pull&lt;/code&gt;. The proposal is to cleanly separate the three modes:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;code&gt;git pull&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;git pull --merge&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;git pull --rebase&lt;/code&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;To specify which mode you want by default, you configure &lt;code&gt;pull.mode&lt;/code&gt;, and the three values are obvious: &lt;code&gt;fast-forward&lt;/code&gt;, &lt;code&gt;merge&lt;/code&gt;, and &lt;code&gt;rebase&lt;/code&gt;.&lt;/p&gt; &lt;p&gt;I already attempted to do this without &lt;code&gt;pull.mode&lt;/code&gt; and instead using &lt;code&gt;pull.ff&lt;/code&gt; and &lt;code&gt;pull.rebase&lt;/code&gt;, but every approach ends up being very convoluted, and not as good.&lt;/p&gt; &lt;p&gt;But since other developers don&amp;#39;t want to accept I&amp;#39;m right, they are trying every failed approach I already tried. The last proposal came from Elijah Newren (who has a vendetta against me), and is in my opinion &lt;strong&gt;very&lt;/strong&gt; convoluted:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;conflicting command line flags results in the last one winning.&lt;/li&gt; &lt;li&gt;--no-rebase makes pull.ff determine the action.&lt;/li&gt; &lt;li&gt;--ff makes pull.rebase determine the action.&lt;/li&gt; &lt;li&gt;any other command line flag (-r|--rebase|--no-ff|--ff-only) overrides both pull.ff and pull.rebase&lt;/li&gt; &lt;li&gt;If no command line option is given, and pull.ff and pull.rebase conflict, then error out.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Clear? Check the &lt;a href="https://lore.kernel.org/git/CABPp-BHV4bkyKswbg0gBH8uJG7knH4fBC=fitRJK4_LCP50Tog@mail.gmail.com/"&gt;full explanation&lt;/a&gt; and let me know.&lt;/p&gt; &lt;p&gt;I &lt;a href="https://lore.kernel.org/git/60ec87d03f7c5_a231f20826@natae.notmuch/"&gt;explained to him&lt;/a&gt; why his proposal didn&amp;#39;t make sense: essentially &lt;code&gt;pull.rebase=true&lt;/code&gt; should be the same as &lt;code&gt;git pull --rebase&lt;/code&gt;. But as usual he &lt;strong&gt;ignored&lt;/strong&gt; me, and went ahead with it it:&lt;/p&gt; &lt;p&gt;&lt;a href="https://lore.kernel.org/git/pull.1047.git.git.1626316849.gitgitgadget@gmail.com/"&gt;Handle conflicting pull options&lt;/a&gt;&lt;/p&gt; &lt;p&gt;In his proposal he made &lt;code&gt;pull.ff&lt;/code&gt; incompatible with &lt;code&gt;pull.rebase&lt;/code&gt;, and he was prompted by a mail from Son Luong Ngoc a day ago (which I already responded to correctly), who uses both configurations. &lt;a href="https://lore.kernel.org/git/CABPp-BEqnTuDgC0Bb+feFj=vBB48wdb60thO+Pq3N0jL74jH8Q@mail.gmail.com/"&gt;Elijah&amp;#39;s response&lt;/a&gt; is wrong:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;You probably want to drop one of these.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;No. Ngoc&amp;#39;s configuration is fine, it&amp;#39;s basically saying that he wants this:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;code&gt;git pull&lt;/code&gt; -&amp;gt; &lt;code&gt;git pull --rebase&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;git pull --merge&lt;/code&gt; -&amp;gt; &lt;code&gt;git pull --merge --no-ff&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;In other words &lt;code&gt;pull.ff&lt;/code&gt; should be ignored with &lt;code&gt;pull.rebase=false&lt;/code&gt;, but activated when the user specified &lt;code&gt;--merge&lt;/code&gt; in the command line, which changes the mode.&lt;/p&gt; &lt;p&gt;I &lt;a href="https://lore.kernel.org/git/60ef1f6a83b61_9460a208cc@natae.notmuch/"&gt;did explain that to him&lt;/a&gt;, but he ignored me and sent his patches.&lt;/p&gt; &lt;p&gt;I did explain it again in his patches, and he ignored me again. After both Junio and Elijah discuss among themselves (both ignoring me), Elijah finally came to the conclusion:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Okay, let&amp;#39;s drop this series then. Thanks for pointing out my mix-up on the rebase --no-ff thing in the other email.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;I&amp;#39;ve seen users in &lt;a href="/r/git"&gt;r/git&lt;/a&gt; understand how these configurations should interact better than developers, he should listen to users like Ngoc, not &lt;strong&gt;asume&lt;/strong&gt; his configuration was wrong (Ngoc still hasn&amp;#39;t replied yet). And of course, I&amp;#39;m the person who has worked on this topic the most, for many years. If he had listened to me he would have saved himself and other people in the project some time.&lt;/p&gt; &lt;p&gt;All they have to do is put their ego aside and accept my &lt;code&gt;pull.mode&lt;/code&gt; proposal is right.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/felipec"&gt; /u/felipec &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ol2u8r/an_example_of_a_pointless_discussion_in_the/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ol2u8r/an_example_of_a_pointless_discussion_in_the/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol2u8r</id>
+    <link href="https://www.reddit.com/r/git/comments/ol2u8r/an_example_of_a_pointless_discussion_in_the/"></link>
+    <updated>2021-07-15T21:51:49+00:00</updated>
+    <published>2021-07-15T21:51:49+00:00</published>
+    <title>An example of a pointless discussion in the mailing list</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/gabrielsfarias</name>
       <uri>https://www.reddit.com/user/gabrielsfarias</uri>
     </author>
@@ -656,6 +669,19 @@
     <updated>2021-07-06T17:56:59+00:00</updated>
     <published>2021-07-06T17:56:59+00:00</published>
     <title>Two user creating a PR to commit changes to same file</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/kevnuke</name>
+      <uri>https://www.reddit.com/user/kevnuke</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;So I was talking to this girl at a coffee shop and the subject of relationships came up. She told me she was tired of guys that were afraid to commit. I told her I have no problem with that, I use Git. She stared at me blankly for a few seconds. #NotTheOne&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/kevnuke"&gt; /u/kevnuke &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ol2tsg/girl_doesnt_git_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ol2tsg/girl_doesnt_git_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol2tsg</id>
+    <link href="https://www.reddit.com/r/git/comments/ol2tsg/girl_doesnt_git_it/"></link>
+    <updated>2021-07-15T21:51:04+00:00</updated>
+    <published>2021-07-15T21:51:04+00:00</published>
+    <title>Girl doesn't Git it</title>
   </entry>
   <entry>
     <author>
