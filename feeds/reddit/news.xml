@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T12:55:38+00:00</updated>
+  <updated>2021-07-15T13:36:57+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1112,6 +1112,19 @@
     <updated>2021-07-11T22:01:03+00:00</updated>
     <published>2021-07-11T22:01:03+00:00</published>
     <title>Woman hits multiple cops in wild police chase, gets arrested while ordering food at McDonald's drive-thru</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Jean_Zombi</name>
+      <uri>https://www.reddit.com/user/Jean_Zombi</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Jean_Zombi"&gt; /u/Jean_Zombi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.wjhg.com/2021/07/15/vietnam-veteran-dies-heart-attack-after-attempted-carjacking-chicago/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okqe6z/vietnam_veteran_dies_of_heart_attack_after/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okqe6z</id>
+    <link href="https://www.reddit.com/r/news/comments/okqe6z/vietnam_veteran_dies_of_heart_attack_after/"></link>
+    <updated>2021-07-15T10:51:32+00:00</updated>
+    <published>2021-07-15T10:51:32+00:00</published>
+    <title>Vietnam veteran dies of heart attack after attempted carjacking in Chicago</title>
   </entry>
   <entry>
     <author>
@@ -3218,6 +3231,19 @@
     <updated>2021-07-10T14:58:50+00:00</updated>
     <published>2021-07-10T14:58:50+00:00</published>
     <title>Florida airport evacuated over ‘security investigation’</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/pcaversaccio</name>
+      <uri>https://www.reddit.com/user/pcaversaccio</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/pcaversaccio"&gt; /u/pcaversaccio &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://timesofmalta.com/articles/view/dutch-journalist-peter-de-vries-dies-one-week-after-being-shot-in-the.886867"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okrtgw/dutch_journalist_peter_de_vries_dies_one_week/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okrtgw</id>
+    <link href="https://www.reddit.com/r/news/comments/okrtgw/dutch_journalist_peter_de_vries_dies_one_week/"></link>
+    <updated>2021-07-15T12:28:03+00:00</updated>
+    <published>2021-07-15T12:28:03+00:00</published>
+    <title>Dutch journalist Peter de Vries, dies, one week after being shot in the head</title>
   </entry>
   <entry>
     <author>
