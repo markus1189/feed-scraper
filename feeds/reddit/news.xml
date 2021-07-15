@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T11:32:55+00:00</updated>
+  <updated>2021-07-15T12:55:38+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2259,6 +2259,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/chokehodl</name>
+      <uri>https://www.reddit.com/user/chokehodl</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/chokehodl"&gt; /u/chokehodl &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/joe-exotic-prison-sentence-vacated/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okrg58/tiger_king_star_joe_exotic_to_be_resentenced_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okrg58</id>
+    <link href="https://www.reddit.com/r/news/comments/okrg58/tiger_king_star_joe_exotic_to_be_resentenced_for/"></link>
+    <updated>2021-07-15T12:04:29+00:00</updated>
+    <published>2021-07-15T12:04:29+00:00</published>
+    <title>"Tiger King" star Joe Exotic to be re-sentenced for Carole Baskin murder plot</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/cigs_and_coffee</name>
       <uri>https://www.reddit.com/user/cigs_and_coffee</uri>
     </author>
@@ -2360,6 +2373,19 @@
     <updated>2021-07-12T17:18:09+00:00</updated>
     <published>2021-07-12T17:18:09+00:00</published>
     <title>Actor Drake Bell gets probation on child endangerment charge</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/djh860</name>
+      <uri>https://www.reddit.com/user/djh860</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/djh860"&gt; /u/djh860 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://foxbaltimore.com/news/project-baltimore/baltimore-city-schools-41-of-high-school-students-earn-below-10-gpa"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okqto8/baltimore_city_schools_41_of_high_school_students/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okqto8</id>
+    <link href="https://www.reddit.com/r/news/comments/okqto8/baltimore_city_schools_41_of_high_school_students/"></link>
+    <updated>2021-07-15T11:21:57+00:00</updated>
+    <published>2021-07-15T11:21:57+00:00</published>
+    <title>Baltimore City Schools: 41% of high school students earn below 1.0 GPA</title>
   </entry>
   <entry>
     <author>
