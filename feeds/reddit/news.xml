@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T05:32:47+00:00</updated>
+  <updated>2021-07-15T06:44:59+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2672,6 +2672,19 @@
     <updated>2021-07-09T10:20:47+00:00</updated>
     <published>2021-07-09T10:20:47+00:00</published>
     <title>Taliban says it controls most of Afghanistan, reassures Russia</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/limache</name>
+      <uri>https://www.reddit.com/user/limache</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/limache"&gt; /u/limache &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/14/los-angeles-beaches-sewage-playa-del-rey"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okj46g/la_beaches_close_after_17m_gallons_of_untreated/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okj46g</id>
+    <link href="https://www.reddit.com/r/news/comments/okj46g/la_beaches_close_after_17m_gallons_of_untreated/"></link>
+    <updated>2021-07-15T02:07:20+00:00</updated>
+    <published>2021-07-15T02:07:20+00:00</published>
+    <title>LA beaches close after 17m gallons of untreated sewage discharged into bay</title>
   </entry>
   <entry>
     <author>
