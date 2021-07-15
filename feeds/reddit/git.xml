@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-15T15:43:00+00:00</updated>
+  <updated>2021-07-15T16:59:24+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -370,6 +370,19 @@
     <updated>2021-07-12T23:04:43+00:00</updated>
     <published>2021-07-12T23:04:43+00:00</published>
     <title>What's the best way of using branches? When I work on a new feature, I make a new branch. When the work is done, I merge that branch into the main branch and then upload the main branch to GitHub. What should I do with all the branches I have? Should I delete them or keep them hanging?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/beleeee_dat</name>
+      <uri>https://www.reddit.com/user/beleeee_dat</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/beleeee_dat"&gt; /u/beleeee_dat &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://github.com/esrlabs/josh"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okvkib/josh_get_the_advantages_of_a_monorepo_with/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okvkib</id>
+    <link href="https://www.reddit.com/r/git/comments/okvkib/josh_get_the_advantages_of_a_monorepo_with/"></link>
+    <updated>2021-07-15T15:49:01+00:00</updated>
+    <published>2021-07-15T15:49:01+00:00</published>
+    <title>Josh: Get the advantages of a monorepo with multirepo setups</title>
   </entry>
   <entry>
     <author>

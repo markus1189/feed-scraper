@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T15:43:02+00:00</updated>
+  <updated>2021-07-15T16:59:27+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1570,6 +1570,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Puns_are_Lazy</name>
+      <uri>https://www.reddit.com/user/Puns_are_Lazy</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Puns_are_Lazy"&gt; /u/Puns_are_Lazy &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://mynorthwest.com/3035138/gov-inslee-drought-emergency-washington-2021/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oku6wa/gov_inslee_declares_drought_emergency_for_nearly/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oku6wa</id>
+    <link href="https://www.reddit.com/r/news/comments/oku6wa/gov_inslee_declares_drought_emergency_for_nearly/"></link>
+    <updated>2021-07-15T14:40:42+00:00</updated>
+    <published>2021-07-15T14:40:42+00:00</published>
+    <title>Gov. Inslee declares drought emergency for nearly all of Washington</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Pyroavenger</name>
       <uri>https://www.reddit.com/user/Pyroavenger</uri>
     </author>
@@ -2581,6 +2594,19 @@
     <updated>2021-07-12T19:14:16+00:00</updated>
     <published>2021-07-12T19:14:16+00:00</published>
     <title>‘They grow bigger than you think’: Officials ask people not to dump pet goldfish in ponds, lakes</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/fbreaker</name>
+      <uri>https://www.reddit.com/user/fbreaker</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/fbreaker"&gt; /u/fbreaker &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/science/2021/jul/15/paralyzed-man-brain-waves-sentences-computer-research?utm_term=Autofeed&amp;amp;CMP=twt_b-gdnnews&amp;amp;utm_medium=Social&amp;amp;utm_source=Twitter#Echobox=1626355757"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okuvgk/paralyzed_mans_brain_waves_turned_into_sentences/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okuvgk</id>
+    <link href="https://www.reddit.com/r/news/comments/okuvgk/paralyzed_mans_brain_waves_turned_into_sentences/"></link>
+    <updated>2021-07-15T15:14:26+00:00</updated>
+    <published>2021-07-15T15:14:26+00:00</published>
+    <title>Paralyzed man’s brain waves turned into sentences on computer in medical first</title>
   </entry>
   <entry>
     <author>
