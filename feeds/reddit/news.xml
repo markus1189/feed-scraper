@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T01:37:12+00:00</updated>
+  <updated>2021-07-15T02:44:10+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3296,6 +3296,19 @@
     <updated>2021-07-13T00:31:42+00:00</updated>
     <published>2021-07-13T00:31:42+00:00</published>
     <title>Judge names special prosecutor for teen's shooting by deputy</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/shahin-13</name>
+      <uri>https://www.reddit.com/user/shahin-13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/shahin-13"&gt; /u/shahin-13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/14/us/florida-murder-for-hire-guilty-plea/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okgqz3/man_who_pleaded_guilty_in_murderforhire_case/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okgqz3</id>
+    <link href="https://www.reddit.com/r/news/comments/okgqz3/man_who_pleaded_guilty_in_murderforhire_case/"></link>
+    <updated>2021-07-14T23:46:26+00:00</updated>
+    <published>2021-07-14T23:46:26+00:00</published>
+    <title>Man who pleaded guilty in murder-for-hire case planned to pin killings on Black Lives Matter, prosecutors say</title>
   </entry>
   <entry>
     <author>
