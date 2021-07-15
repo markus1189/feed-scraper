@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T02:44:10+00:00</updated>
+  <updated>2021-07-15T03:40:04+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3101,6 +3101,19 @@
     <updated>2021-07-13T00:03:38+00:00</updated>
     <published>2021-07-13T00:03:38+00:00</published>
     <title>Firefighters make progress against big fires in US West</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nosotros_road_sodium</name>
+      <uri>https://www.reddit.com/user/nosotros_road_sodium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nosotros_road_sodium"&gt; /u/nosotros_road_sodium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://napavalleyregister.com/news/local/napa-naturopathic-doctor-charged-with-faking-covid-vaccines-and-vaccination-cards/article_4b438774-fd7e-5e37-9d8e-11ed52dc56ca.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okiuo6/napa_naturopathic_doctor_charged_with_faking/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okiuo6</id>
+    <link href="https://www.reddit.com/r/news/comments/okiuo6/napa_naturopathic_doctor_charged_with_faking/"></link>
+    <updated>2021-07-15T01:51:43+00:00</updated>
+    <published>2021-07-15T01:51:43+00:00</published>
+    <title>Napa naturopathic doctor charged with faking COVID vaccines and vaccination cards</title>
   </entry>
   <entry>
     <author>
