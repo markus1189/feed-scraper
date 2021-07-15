@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T19:32:52+00:00</updated>
+  <updated>2021-07-15T20:35:00+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2198,6 +2198,19 @@
       <uri>https://www.reddit.com/user/anikhch</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/wireStory/jury-reaches-verdict-maryland-newspaper-shooting-case-78869998"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okzst3/gunman_found_criminally_responsible_for_killing_5/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okzst3</id>
+    <link href="https://www.reddit.com/r/news/comments/okzst3/gunman_found_criminally_responsible_for_killing_5/"></link>
+    <updated>2021-07-15T19:17:15+00:00</updated>
+    <published>2021-07-15T19:17:15+00:00</published>
+    <title>Gunman found criminally responsible for killing 5 at paper</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/legend-of-zelda-auction-video-games-0ba3a92a781dc79a1285cd7f748cbfed"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohl96b/unopened_legend_of_zelda_game_from_1987_sells_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ohl96b</id>
     <link href="https://www.reddit.com/r/news/comments/ohl96b/unopened_legend_of_zelda_game_from_1987_sells_for/"></link>
@@ -2545,6 +2558,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/dsanchez1989</name>
+      <uri>https://www.reddit.com/user/dsanchez1989</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/dsanchez1989"&gt; /u/dsanchez1989 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.wdam.com/2021/07/15/man-robbed-after-filming-porn-abandoned-building/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okxrji/man_robbed_after_filming_porn_at_abandoned/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okxrji</id>
+    <link href="https://www.reddit.com/r/news/comments/okxrji/man_robbed_after_filming_porn_at_abandoned/"></link>
+    <updated>2021-07-15T17:37:19+00:00</updated>
+    <published>2021-07-15T17:37:19+00:00</published>
+    <title>Man robbed after filming porn at abandoned building</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/eci-inc</name>
       <uri>https://www.reddit.com/user/eci-inc</uri>
     </author>
@@ -2685,6 +2711,19 @@
     <updated>2021-07-12T03:40:13+00:00</updated>
     <published>2021-07-12T03:40:13+00:00</published>
     <title>Amazon services down for multiple users</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/flashlight2</name>
+      <uri>https://www.reddit.com/user/flashlight2</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/flashlight2"&gt; /u/flashlight2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abc7.com/california-guaranteed-income-legislature-governor-gavin-newsom/10889155/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ol0fky/california_approves_35_million_plan_for_nations/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol0fky</id>
+    <link href="https://www.reddit.com/r/news/comments/ol0fky/california_approves_35_million_plan_for_nations/"></link>
+    <updated>2021-07-15T19:49:00+00:00</updated>
+    <published>2021-07-15T19:49:00+00:00</published>
+    <title>California approves $35 million plan for nation's first state-funded guaranteed income program</title>
   </entry>
   <entry>
     <author>
