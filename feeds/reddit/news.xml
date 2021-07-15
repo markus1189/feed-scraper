@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T14:33:24+00:00</updated>
+  <updated>2021-07-15T15:43:02+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1151,6 +1151,19 @@
     <updated>2021-07-11T22:01:03+00:00</updated>
     <published>2021-07-11T22:01:03+00:00</published>
     <title>Woman hits multiple cops in wild police chase, gets arrested while ordering food at McDonald's drive-thru</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Jaklcide</name>
+      <uri>https://www.reddit.com/user/Jaklcide</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Jaklcide"&gt; /u/Jaklcide &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.wlox.com/2021/07/15/falsely-accused-man-spends-months-jail-despite-video-showing-he-wasnt-crime-scene/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oktxt9/falsely_accused_man_spends_months_in_jail_despite/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oktxt9</id>
+    <link href="https://www.reddit.com/r/news/comments/oktxt9/falsely_accused_man_spends_months_in_jail_despite/"></link>
+    <updated>2021-07-15T14:27:06+00:00</updated>
+    <published>2021-07-15T14:27:06+00:00</published>
+    <title>Falsely Accused: Man spends months in jail despite video showing he wasn’t at crime scene</title>
   </entry>
   <entry>
     <author>
@@ -2360,6 +2373,19 @@
     <updated>2021-07-13T10:21:06+00:00</updated>
     <published>2021-07-13T10:21:06+00:00</published>
     <title>Mystery grows with key suspect in Haiti president killing</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cleevethagreat</name>
+      <uri>https://www.reddit.com/user/cleevethagreat</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cleevethagreat"&gt; /u/cleevethagreat &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/15/europe/ireland-cocaine-charcoal-seizure-scli-intl/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okt8iv/cocaine_disguised_as_charcoal_worth_up_to_41/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okt8iv</id>
+    <link href="https://www.reddit.com/r/news/comments/okt8iv/cocaine_disguised_as_charcoal_worth_up_to_41/"></link>
+    <updated>2021-07-15T13:49:59+00:00</updated>
+    <published>2021-07-15T13:49:59+00:00</published>
+    <title>Cocaine disguised as charcoal worth up to $41 million seized by police</title>
   </entry>
   <entry>
     <author>
@@ -3582,6 +3608,19 @@
     <updated>2021-07-14T01:32:44+00:00</updated>
     <published>2021-07-14T01:32:44+00:00</published>
     <title>At Least 600 Tons Of Dead Fish Have Washed Up Along Tampa Bay's Shore</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/stoolsample2</name>
+      <uri>https://www.reddit.com/user/stoolsample2</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/stoolsample2"&gt; /u/stoolsample2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/man-convicted-mollie-tibbetts-murder-trial-claims-real/story?id=78816230"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oks7xx/man_convicted_of_mollie_tibbetts_murder_wants_new/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oks7xx</id>
+    <link href="https://www.reddit.com/r/news/comments/oks7xx/man_convicted_of_mollie_tibbetts_murder_wants_new/"></link>
+    <updated>2021-07-15T12:52:43+00:00</updated>
+    <published>2021-07-15T12:52:43+00:00</published>
+    <title>Man convicted of Mollie Tibbetts' murder wants new trial, claims real killer confessed</title>
   </entry>
   <entry>
     <author>
