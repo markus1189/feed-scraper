@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T10:39:13+00:00</updated>
+  <updated>2021-07-15T11:32:55+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3673,6 +3673,19 @@
     <updated>2021-07-08T12:31:42+00:00</updated>
     <published>2021-07-08T12:31:42+00:00</published>
     <title>Massive X-class solar flare erupted from sun</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/toshiro-mifune</name>
+      <uri>https://www.reddit.com/user/toshiro-mifune</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/toshiro-mifune"&gt; /u/toshiro-mifune &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.wbrz.com/news/baton-rouge-man-builds-levees-to-protect-property-from-flooding-city-sues-him"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oko3te/baton_rouge_man_builds_levees_to_protect_property/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oko3te</id>
+    <link href="https://www.reddit.com/r/news/comments/oko3te/baton_rouge_man_builds_levees_to_protect_property/"></link>
+    <updated>2021-07-15T07:48:45+00:00</updated>
+    <published>2021-07-15T07:48:45+00:00</published>
+    <title>Baton Rouge man builds levees to protect property from flooding, city sues him</title>
   </entry>
   <entry>
     <author>
