@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-15T07:32:44+00:00</updated>
+  <updated>2021-07-15T08:38:48+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -45,6 +45,19 @@
     <updated>2021-07-05T11:05:05+00:00</updated>
     <published>2021-07-05T11:05:05+00:00</published>
     <title>Really clear explanation for git cherry picking!!!</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/CommonJoe-0101</name>
+      <uri>https://www.reddit.com/user/CommonJoe-0101</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;What are the official areas of Git documentation? Or is there anything official?&lt;/p&gt; &lt;p&gt;From what I&amp;#39;ve read, the official documentation seems to be the &lt;a href="https://git-scm.com/book/en/v2"&gt;Git Pro book&lt;/a&gt;, the &lt;a href="https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitglossary.html"&gt;Git Glossary&lt;/a&gt;, and the man pages, although there seems to be some debate about what is considered official (especially with the Git Pro book).&lt;/p&gt; &lt;p&gt;Have I missed anything or am I incorrect in anything I&amp;#39;ve stated?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/CommonJoe-0101"&gt; /u/CommonJoe-0101 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oko5ru/what_is_the_official_documentation_for_git_users/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oko5ru/what_is_the_official_documentation_for_git_users/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oko5ru</id>
+    <link href="https://www.reddit.com/r/git/comments/oko5ru/what_is_the_official_documentation_for_git_users/"></link>
+    <updated>2021-07-15T07:53:13+00:00</updated>
+    <published>2021-07-15T07:53:13+00:00</published>
+    <title>What Is the Official Documentation for Git Users?</title>
   </entry>
   <entry>
     <author>
