@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T18:42:36+00:00</updated>
+  <updated>2021-07-15T19:32:52+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -189,6 +189,19 @@
     <updated>2021-07-13T14:31:07+00:00</updated>
     <published>2021-07-13T14:31:07+00:00</published>
     <title>England soccer players confront racist abuse head-on, say U.K. leaders helped "stoke the fire"</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AudibleNod</name>
+      <uri>https://www.reddit.com/user/AudibleNod</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AudibleNod"&gt; /u/AudibleNod &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abc13.com/houston-cashless-restaurant-robbed-mico-hot-chicken-crooks-try-to-rob-business-businesses/10885753/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okte4z/crooks_target_cashless_hot_chicken_restaurant_end/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okte4z</id>
+    <link href="https://www.reddit.com/r/news/comments/okte4z/crooks_target_cashless_hot_chicken_restaurant_end/"></link>
+    <updated>2021-07-15T13:58:19+00:00</updated>
+    <published>2021-07-15T13:58:19+00:00</published>
+    <title>Crooks target cashless hot chicken restaurant, end up stealing electronics and lemonade</title>
   </entry>
   <entry>
     <author>
@@ -1281,6 +1294,19 @@
     <updated>2021-07-10T21:09:23+00:00</updated>
     <published>2021-07-10T21:09:23+00:00</published>
     <title>Death Valley Hits 130 Degrees as Heat Wave Sweeps the West</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/KymeStar</name>
+      <uri>https://www.reddit.com/user/KymeStar</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KymeStar"&gt; /u/KymeStar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/Business/tennessee-hospital-latest-employer-announce-covid-19-vaccine/story?id=78860709"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oky8j3/tennessee_hospital_latest_employer_to_announce/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oky8j3</id>
+    <link href="https://www.reddit.com/r/news/comments/oky8j3/tennessee_hospital_latest_employer_to_announce/"></link>
+    <updated>2021-07-15T18:00:18+00:00</updated>
+    <published>2021-07-15T18:00:18+00:00</published>
+    <title>Tennessee hospital latest employer to announce COVID-19 vaccine requirements</title>
   </entry>
   <entry>
     <author>
