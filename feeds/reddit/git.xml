@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-14T23:34:50+00:00</updated>
+  <updated>2021-07-15T01:37:09+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -352,6 +352,19 @@
     </author>
     <category term="git" label="r/git"></category>
     <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;At this point upstream/main has all the files I have, but with updates and additions and extra files. I want to fetch/merge upstream/main into my origin/main, but when I get on github and click &amp;quot;Fetch Upstream&amp;quot; it says it can&amp;#39;t make a pull request, as the commit histories are entirely different.&lt;/p&gt; &lt;p&gt;What should I do?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/berrmal64"&gt; /u/berrmal64 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okdiwb</id>
+    <link href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"></link>
+    <updated>2021-07-14T20:58:22+00:00</updated>
+    <published>2021-07-14T20:58:22+00:00</published>
+    <title>I forked a repo and have written code on a branch. In the meantime, the upstream repo owner replaced their entire repo with one that has an entirely different commit history. How to fix?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/berrmal64</name>
+      <uri>https://www.reddit.com/user/berrmal64</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;At this point upstream/main has all the files I have, but with updates and additions and extra files. I want to fetch/merge upstream/main into my origin/main, but when I get on github and click &amp;quot;Fetch Upstream&amp;quot; it says it can&amp;#39;t make a pull request, as the commit histories are entirely different.&lt;/p&gt; &lt;p&gt;What should I do?&lt;/p&gt; &lt;p&gt;EDIT: thanks for the help everybody, I did eventually get everything in sync by fetching upstream, rebasing my code into that, and then pushing into origin. There were a handful of -f flags involved, and I don&amp;#39;t want to do it that way again, but for now, the problem is solved and enough of the history is preserved to be useful.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/berrmal64"&gt; /u/berrmal64 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_okdiwb</id>
     <link href="https://www.reddit.com/r/git/comments/okdiwb/i_forked_a_repo_and_have_written_code_on_a_branch/"></link>
     <updated>2021-07-14T20:58:22+00:00</updated>

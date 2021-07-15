@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-14T23:34:52+00:00</updated>
+  <updated>2021-07-15T01:37:12+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1762,6 +1762,19 @@
     <updated>2021-07-08T18:54:23+00:00</updated>
     <published>2021-07-08T18:54:23+00:00</published>
     <title>Man Arrested After Throwing Improvised Explosive Device Near Boulder (CO) Fire Station</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Timely_Signal1377</name>
+      <uri>https://www.reddit.com/user/Timely_Signal1377</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Timely_Signal1377"&gt; /u/Timely_Signal1377 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/ad3e664fac2b97a3d2b0aabe6014467a"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okg3yq/britney_spears_allowed_new_lawyer_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okg3yq</id>
+    <link href="https://www.reddit.com/r/news/comments/okg3yq/britney_spears_allowed_new_lawyer_in/"></link>
+    <updated>2021-07-14T23:10:14+00:00</updated>
+    <published>2021-07-14T23:10:14+00:00</published>
+    <title>Britney Spears allowed new lawyer in conservatorship case</title>
   </entry>
   <entry>
     <author>
@@ -3699,6 +3712,19 @@
     <updated>2021-07-14T05:56:57+00:00</updated>
     <published>2021-07-14T05:56:57+00:00</published>
     <title>Britney Spears conservatorship case heads back to court amid turmoil</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/vineCorrupt</name>
+      <uri>https://www.reddit.com/user/vineCorrupt</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/vineCorrupt"&gt; /u/vineCorrupt &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/14/health/los-angeles-county-covid-cases/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okh45h/every_single_covid_patient_in_a_la_county_dhs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okh45h</id>
+    <link href="https://www.reddit.com/r/news/comments/okh45h/every_single_covid_patient_in_a_la_county_dhs/"></link>
+    <updated>2021-07-15T00:07:27+00:00</updated>
+    <published>2021-07-15T00:07:27+00:00</published>
+    <title>Every single Covid patient in a L.A. County DHS hospital is not fully vaccinated</title>
   </entry>
   <entry>
     <author>
