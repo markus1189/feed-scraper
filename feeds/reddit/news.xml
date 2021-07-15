@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T09:39:17+00:00</updated>
+  <updated>2021-07-15T10:39:13+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2217,6 +2217,19 @@
     <updated>2021-07-11T10:32:24+00:00</updated>
     <published>2021-07-11T10:32:24+00:00</published>
     <title>Retired Fort Polk soldier charged in rape of child</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cal_oe</name>
+      <uri>https://www.reddit.com/user/cal_oe</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cal_oe"&gt; /u/cal_oe &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/14/americas/cuban-youtuber-dina-fernandez-protests-intl/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okh9qe/cuban_youtuber_says_she_is_being_taken_away_by/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okh9qe</id>
+    <link href="https://www.reddit.com/r/news/comments/okh9qe/cuban_youtuber_says_she_is_being_taken_away_by/"></link>
+    <updated>2021-07-15T00:16:56+00:00</updated>
+    <published>2021-07-15T00:16:56+00:00</published>
+    <title>Cuban YouTuber says she is being taken away by state security during live interview</title>
   </entry>
   <entry>
     <author>
