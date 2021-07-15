@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T03:40:04+00:00</updated>
+  <updated>2021-07-15T04:46:33+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1294,6 +1294,19 @@
     <updated>2021-07-09T10:40:29+00:00</updated>
     <published>2021-07-09T10:40:29+00:00</published>
     <title>Police bodycam video shows kidnapped girl, 6, being rescued by officer in Kentucky | US News</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/MiddleKid-N</name>
+      <uri>https://www.reddit.com/user/MiddleKid-N</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/MiddleKid-N"&gt; /u/MiddleKid-N &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.local10.com/news/local/2021/07/14/forensic-engineer-hired-by-surfside-sidelined-and-pissed-off/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okjd6v/forensic_engineer_is_denied_access_to_the/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_okjd6v</id>
+    <link href="https://www.reddit.com/r/news/comments/okjd6v/forensic_engineer_is_denied_access_to_the/"></link>
+    <updated>2021-07-15T02:22:23+00:00</updated>
+    <published>2021-07-15T02:22:23+00:00</published>
+    <title>Forensic engineer is denied access to the Surfside condo collapse site.</title>
   </entry>
   <entry>
     <author>
