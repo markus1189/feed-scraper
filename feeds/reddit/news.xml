@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-16T05:32:38+00:00</updated>
+  <updated>2021-07-16T06:46:36+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2373,6 +2373,19 @@
     <updated>2021-07-11T02:32:08+00:00</updated>
     <published>2021-07-11T02:32:08+00:00</published>
     <title>Edward Cagney Mathews, NJ Man Who Made Racist Rant, Now Charged With Stalking Neighbor, Damaging Vehicles and Drug Offenses</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/applesthyme</name>
+      <uri>https://www.reddit.com/user/applesthyme</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/applesthyme"&gt; /u/applesthyme &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fox2detroit.com/news/detroit-woman-tracks-down-stolen-mercedes-suspect-dragged-from-barbershop-by-dreds"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ol8f6r/detroit_woman_tracks_down_stolen_mercedes_suspect/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol8f6r</id>
+    <link href="https://www.reddit.com/r/news/comments/ol8f6r/detroit_woman_tracks_down_stolen_mercedes_suspect/"></link>
+    <updated>2021-07-16T03:17:24+00:00</updated>
+    <published>2021-07-16T03:17:24+00:00</published>
+    <title>Detroit woman tracks down stolen Mercedes, suspect dragged from barbershop by dreds</title>
   </entry>
   <entry>
     <author>
