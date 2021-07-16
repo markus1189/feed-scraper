@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-16T17:01:20+00:00</updated>
+  <updated>2021-07-16T17:41:51+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -786,6 +786,19 @@
     <updated>2021-07-04T04:31:59+00:00</updated>
     <published>2021-07-04T04:31:59+00:00</published>
     <title>How to configure in order to avoid entering github credentials</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/pink_aura2</name>
+      <uri>https://www.reddit.com/user/pink_aura2</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello everyone!, I&amp;#39;m new to Git and Github and I was just reading the official Git and Github documentation, googled some stuff as well but I still have some questions, so I wanted to know your recommendations: &lt;/p&gt; &lt;p&gt;-Do you recommend me to use the noreply email that Github gives me instead of using my personal email that I configured in Git Bash?. Is it true that if I use my personal email in Github to post, i&amp;#39;ll receive spam all the time?&lt;/p&gt; &lt;p&gt;-If I use the noreply email from Github and use it as my global user.email in Git Bash then it could be a problem if I want to create a GitLab account to publish projects there as well?. &lt;/p&gt; &lt;p&gt;I do apologize for the stupid questions and for my broken English (English isn&amp;#39;t my native language) but I really wanted to know your opinions and recommendations. Thanks in advance!.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/pink_aura2"&gt; /u/pink_aura2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ollb8s/hello_everyone_i_need_your_advice_regarding/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ollb8s/hello_everyone_i_need_your_advice_regarding/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ollb8s</id>
+    <link href="https://www.reddit.com/r/git/comments/ollb8s/hello_everyone_i_need_your_advice_regarding/"></link>
+    <updated>2021-07-16T17:13:36+00:00</updated>
+    <published>2021-07-16T17:13:36+00:00</published>
+    <title>Hello everyone!, I need your advice regarding user.email , Git, Github, GitLab and noreply email.</title>
   </entry>
   <entry>
     <author>
