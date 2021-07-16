@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-16T13:35:39+00:00</updated>
+  <updated>2021-07-16T14:33:19+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -566,6 +566,19 @@
     <updated>2021-07-12T09:05:48+00:00</updated>
     <published>2021-07-12T09:05:48+00:00</published>
     <title>State of emergency begins in host city Tokyo as Games near</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Defluvium</name>
+      <uri>https://www.reddit.com/user/Defluvium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Defluvium"&gt; /u/Defluvium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/europe/further-flooding-feared-western-europe-with-death-toll-over-100-2021-07-16/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olftym/floodwaters_still_rising_in_western_europe_with/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olftym</id>
+    <link href="https://www.reddit.com/r/news/comments/olftym/floodwaters_still_rising_in_western_europe_with/"></link>
+    <updated>2021-07-16T12:24:54+00:00</updated>
+    <published>2021-07-16T12:24:54+00:00</published>
+    <title>Floodwaters still rising in western Europe with death toll over 110</title>
   </entry>
   <entry>
     <author>
@@ -1908,6 +1921,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Star-spangled-Banner</name>
+      <uri>https://www.reddit.com/user/Star-spangled-Banner</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Star-spangled-Banner"&gt; /u/Star-spangled-Banner &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/15/business/Europe-court-head-scarves.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olevws/wearing_a_head_scarf_can_be_grounds_for_job/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olevws</id>
+    <link href="https://www.reddit.com/r/news/comments/olevws/wearing_a_head_scarf_can_be_grounds_for_job/"></link>
+    <updated>2021-07-16T11:21:31+00:00</updated>
+    <published>2021-07-16T11:21:31+00:00</published>
+    <title>Wearing a Head Scarf Can Be Grounds for Job Suspension, E.U.’s Top Court Rules</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Stormageadon</name>
       <uri>https://www.reddit.com/user/Stormageadon</uri>
     </author>
@@ -2906,6 +2932,19 @@
     <updated>2021-07-12T14:25:10+00:00</updated>
     <published>2021-07-12T14:25:10+00:00</published>
     <title>Authorities: Woman killed husband by dousing him in boiling sugar water as he slept</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/fbreaker</name>
+      <uri>https://www.reddit.com/user/fbreaker</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/fbreaker"&gt; /u/fbreaker &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://whdh.com/news/police-florida-man-tried-throwing-live-gator-onto-buildings-roof-to-teach-it-a-lesson/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olgvtg/police_florida_man_tried_throwing_live_gator_onto/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olgvtg</id>
+    <link href="https://www.reddit.com/r/news/comments/olgvtg/police_florida_man_tried_throwing_live_gator_onto/"></link>
+    <updated>2021-07-16T13:29:15+00:00</updated>
+    <published>2021-07-16T13:29:15+00:00</published>
+    <title>Police: Florida man tried throwing live gator onto building’s roof to ‘teach it a lesson’</title>
   </entry>
   <entry>
     <author>
