@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-16T18:44:38+00:00</updated>
+  <updated>2021-07-16T19:32:38+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -774,6 +774,19 @@
     <updated>2021-07-16T08:20:30+00:00</updated>
     <published>2021-07-16T08:20:30+00:00</published>
     <title>Prosecutors said a Capitol rioter left a probation officer an obscene voicemail. Now, his bail has been revoked.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/DorgeFarlin</name>
+      <uri>https://www.reddit.com/user/DorgeFarlin</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DorgeFarlin"&gt; /u/DorgeFarlin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcmiami.com/news/local/south-florida-man-brutally-attacks-strangles-couple-vacationing-at-hotel-in-nw-miami-dade-report/2496930/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olm489/south_florida_man_brutally_attacks_strangles/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olm489</id>
+    <link href="https://www.reddit.com/r/news/comments/olm489/south_florida_man_brutally_attacks_strangles/"></link>
+    <updated>2021-07-16T17:52:15+00:00</updated>
+    <published>2021-07-16T17:52:15+00:00</published>
+    <title>South Florida Man Brutally Attacks, Strangles Couple Vacationing at Hotel in NW Miami-Dade: Report</title>
   </entry>
   <entry>
     <author>
@@ -3325,6 +3338,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/kiddenz</name>
+      <uri>https://www.reddit.com/user/kiddenz</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/kiddenz"&gt; /u/kiddenz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.local10.com/news/local/2021/07/16/officials-hacker-stole-identities-of-multiple-victims-killed-in-surfside-condo-collapse/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olmhau/officials_hacker_stole_identities_of_multiple/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olmhau</id>
+    <link href="https://www.reddit.com/r/news/comments/olmhau/officials_hacker_stole_identities_of_multiple/"></link>
+    <updated>2021-07-16T18:09:19+00:00</updated>
+    <published>2021-07-16T18:09:19+00:00</published>
+    <title>Officials: Hacker stole identities of multiple victims killed in Surfside condo collapse</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/limache</name>
       <uri>https://www.reddit.com/user/limache</uri>
     </author>
@@ -4245,6 +4271,19 @@
     <updated>2021-07-08T16:21:37+00:00</updated>
     <published>2021-07-08T16:21:37+00:00</published>
     <title>Mask requirement returns at California state Capitol following COVID-19 outbreak</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/stanxv</name>
+      <uri>https://www.reddit.com/user/stanxv</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/stanxv"&gt; /u/stanxv &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbc.ca/news/world/us-covid19-trends-cdc-delta-1.6105503"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olmkyi/pandemic_of_the_unvaccinated_covid19_deaths_up_26/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olmkyi</id>
+    <link href="https://www.reddit.com/r/news/comments/olmkyi/pandemic_of_the_unvaccinated_covid19_deaths_up_26/"></link>
+    <updated>2021-07-16T18:14:19+00:00</updated>
+    <published>2021-07-16T18:14:19+00:00</published>
+    <title>'Pandemic of the unvaccinated': COVID-19 deaths up 26% over previous week in U.S.</title>
   </entry>
   <entry>
     <author>
