@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-16T08:39:49+00:00</updated>
+  <updated>2021-07-16T09:38:46+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -696,6 +696,19 @@
     <updated>2021-07-16T07:27:15+00:00</updated>
     <published>2021-07-16T07:27:15+00:00</published>
     <title>Hundreds offer to donate cars to South Carolina mechanic who fixes them for those in need</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/DocWaterfalls</name>
+      <uri>https://www.reddit.com/user/DocWaterfalls</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DocWaterfalls"&gt; /u/DocWaterfalls &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/january-6-capitol-rioter-brandon-fellows-bail-revoked-obscene-voicemail/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olcl0m/prosecutors_said_a_capitol_rioter_left_a/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olcl0m</id>
+    <link href="https://www.reddit.com/r/news/comments/olcl0m/prosecutors_said_a_capitol_rioter_left_a/"></link>
+    <updated>2021-07-16T08:20:30+00:00</updated>
+    <published>2021-07-16T08:20:30+00:00</published>
+    <title>Prosecutors said a Capitol rioter left a probation officer an obscene voicemail. Now, his bail has been revoked.</title>
   </entry>
   <entry>
     <author>

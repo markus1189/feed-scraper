@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-16T08:39:47+00:00</updated>
+  <updated>2021-07-16T09:38:44+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -929,6 +929,19 @@
     <updated>2021-07-08T01:25:14+00:00</updated>
     <published>2021-07-08T01:25:14+00:00</published>
     <title>Understanding Main vs Master branches</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/starboyram</name>
+      <uri>https://www.reddit.com/user/starboyram</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hey I cloned a GitHub repo using !git clone URL , In Colab and even in CMD I tried. After downloading also(I can see files downloading in CMD) it doesn&amp;#39;t show the contents from that git repo, they&amp;#39;re kinda missing but they&amp;#39;re present in the repo I can see them in repo it&amp;#39;s present there. Why is that happening ??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/starboyram"&gt; /u/starboyram &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/old13e/cloning_git_repo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/old13e/cloning_git_repo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_old13e</id>
+    <link href="https://www.reddit.com/r/git/comments/old13e/cloning_git_repo/"></link>
+    <updated>2021-07-16T08:57:27+00:00</updated>
+    <published>2021-07-16T08:57:27+00:00</published>
+    <title>Cloning git repo</title>
   </entry>
   <entry>
     <author>
