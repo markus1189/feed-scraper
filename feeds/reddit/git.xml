@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-16T21:37:06+00:00</updated>
+  <updated>2021-07-16T22:36:37+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -331,6 +331,19 @@
     <updated>2021-07-16T17:45:29+00:00</updated>
     <published>2021-07-16T17:45:29+00:00</published>
     <title>Basic Git Commands – Must Know –Part 1</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/RPBiohazard</name>
+      <uri>https://www.reddit.com/user/RPBiohazard</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi there, I have a git repo containing a large image dataset on its main. I have a remote branch that does not have this large dataset. I would like to clone this branch specifically onto my raspberry pi, so I don&amp;#39;t have to download the entire dataset and then check out the branch I want. I have run git clone --single-branch --branch &amp;lt;branch&amp;gt; &amp;lt;url&amp;gt; but this clones main &lt;em&gt;first&lt;/em&gt; and then checks out the branch. This is a huge download that I don&amp;#39;t want on my tiny raspberry pi.&lt;/p&gt; &lt;p&gt;Is there a way to only clone the small branch without cloning main first?&lt;/p&gt; &lt;p&gt;I would rather not make a new repo since this is part of a team project. Thanks for your help!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/RPBiohazard"&gt; /u/RPBiohazard &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/olqufv/cloning_only_a_branch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/olqufv/cloning_only_a_branch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olqufv</id>
+    <link href="https://www.reddit.com/r/git/comments/olqufv/cloning_only_a_branch/"></link>
+    <updated>2021-07-16T21:48:27+00:00</updated>
+    <published>2021-07-16T21:48:27+00:00</published>
+    <title>Cloning ONLY a branch</title>
   </entry>
   <entry>
     <author>
