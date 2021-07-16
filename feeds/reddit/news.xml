@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-16T10:38:51+00:00</updated>
+  <updated>2021-07-16T11:32:35+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3598,6 +3598,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/nfym</name>
+      <uri>https://www.reddit.com/user/nfym</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nfym"&gt; /u/nfym &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.independent.co.uk/news/world/americas/crime/nevada-dentist-extracts-13-teeth-b1885206.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olduyx/woman_breaks_into_dentist_and_pulls_13_teeth_from/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olduyx</id>
+    <link href="https://www.reddit.com/r/news/comments/olduyx/woman_breaks_into_dentist_and_pulls_13_teeth_from/"></link>
+    <updated>2021-07-16T10:03:32+00:00</updated>
+    <published>2021-07-16T10:03:32+00:00</published>
+    <title>Woman breaks into dentist and pulls 13 teeth from clueless patient</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/nosotros_road_sodium</name>
       <uri>https://www.reddit.com/user/nosotros_road_sodium</uri>
     </author>
@@ -4349,6 +4362,19 @@
     <updated>2021-07-12T18:55:23+00:00</updated>
     <published>2021-07-12T18:55:23+00:00</published>
     <title>Suspected serial killer indicted on 41 charges in Delaware</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/vagabond_</name>
+      <uri>https://www.reddit.com/user/vagabond_</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/vagabond_"&gt; /u/vagabond_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/sacramento-democratic-headquarters-attack-plot-charges/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/old4kc/2_men_charged_with_plotting_to_attack_democratic/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_old4kc</id>
+    <link href="https://www.reddit.com/r/news/comments/old4kc/2_men_charged_with_plotting_to_attack_democratic/"></link>
+    <updated>2021-07-16T09:04:53+00:00</updated>
+    <published>2021-07-16T09:04:53+00:00</published>
+    <title>2 men charged with plotting to attack Democratic HQ in Sacramento</title>
   </entry>
   <entry>
     <author>
