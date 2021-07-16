@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-16T17:41:53+00:00</updated>
+  <updated>2021-07-16T18:44:38+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -592,6 +592,19 @@
     <updated>2021-07-12T09:05:48+00:00</updated>
     <published>2021-07-12T09:05:48+00:00</published>
     <title>State of emergency begins in host city Tokyo as Games near</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Defluvium</name>
+      <uri>https://www.reddit.com/user/Defluvium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Defluvium"&gt; /u/Defluvium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/business/healthcare-pharmaceuticals/delta-covid-variant-now-dominant-worldwide-drives-surge-us-deaths-officials-2021-07-16/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oll69h/delta_covid_variant_now_dominant_strain_worldwide/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oll69h</id>
+    <link href="https://www.reddit.com/r/news/comments/oll69h/delta_covid_variant_now_dominant_strain_worldwide/"></link>
+    <updated>2021-07-16T17:07:03+00:00</updated>
+    <published>2021-07-16T17:07:03+00:00</published>
+    <title>Delta COVID variant now dominant strain worldwide; U.S. deaths surge -officials</title>
   </entry>
   <entry>
     <author>
