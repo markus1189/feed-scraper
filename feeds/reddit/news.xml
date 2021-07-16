@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-15T23:34:54+00:00</updated>
+  <updated>2021-07-16T01:38:14+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -475,6 +475,19 @@
     <updated>2021-07-08T02:00:46+00:00</updated>
     <published>2021-07-08T02:00:46+00:00</published>
     <title>In Maryland, every person who died of Covid-19 in June was unvaccinated. That's not an aberration, experts say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Checkmynewsong</name>
+      <uri>https://www.reddit.com/user/Checkmynewsong</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Checkmynewsong"&gt; /u/Checkmynewsong &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/Health/wireStory/los-angeles-county-restores-indoor-mask-mandate-78873486"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ol37ss/los_angeles_county_to_restores_indoor_mask/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol37ss</id>
+    <link href="https://www.reddit.com/r/news/comments/ol37ss/los_angeles_county_to_restores_indoor_mask/"></link>
+    <updated>2021-07-15T22:11:41+00:00</updated>
+    <published>2021-07-15T22:11:41+00:00</published>
+    <title>Los Angeles County to restores indoor mask mandate for all</title>
   </entry>
   <entry>
     <author>
@@ -3572,6 +3585,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/personAAA</name>
+      <uri>https://www.reddit.com/user/personAAA</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/personAAA"&gt; /u/personAAA &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://news.stlpublicradio.org/law-order/2021-07-14/new-missouri-law-will-ban-police-chokeholds-let-prosecutors-challenge-wrongful-convictions"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ol57vr/new_missouri_law_will_ban_police_chokeholds_let/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol57vr</id>
+    <link href="https://www.reddit.com/r/news/comments/ol57vr/new_missouri_law_will_ban_police_chokeholds_let/"></link>
+    <updated>2021-07-16T00:04:31+00:00</updated>
+    <published>2021-07-16T00:04:31+00:00</published>
+    <title>New Missouri Law Will Ban Police Chokeholds, Let Prosecutors Challenge Wrongful Convictions</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/poclee</name>
       <uri>https://www.reddit.com/user/poclee</uri>
     </author>
@@ -3738,6 +3764,32 @@
     <updated>2021-07-14T23:46:26+00:00</updated>
     <published>2021-07-14T23:46:26+00:00</published>
     <title>Man who pleaded guilty in murder-for-hire case planned to pin killings on Black Lives Matter, prosecutors say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/shahin-13</name>
+      <uri>https://www.reddit.com/user/shahin-13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/shahin-13"&gt; /u/shahin-13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fox32chicago.com/news/boy-9-fatally-struck-by-vehicle-while-biking-on-sidewalk-in-west-rogers-park"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ol35vd/offduty_chicago_police_officer_strikes_kills/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol35vd</id>
+    <link href="https://www.reddit.com/r/news/comments/ol35vd/offduty_chicago_police_officer_strikes_kills/"></link>
+    <updated>2021-07-15T22:08:48+00:00</updated>
+    <published>2021-07-15T22:08:48+00:00</published>
+    <title>Off-duty Chicago police officer strikes, kills 9-year-old boy riding bike in West Rogers Park</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/shahin-13</name>
+      <uri>https://www.reddit.com/user/shahin-13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/shahin-13"&gt; /u/shahin-13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/health/health-news/vaccines-kids-under-age-12-expected-mid-winter-fda-official-n1274057"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ol23ex/vaccines_for_kids_under_age_12_expected_midwinter/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol23ex</id>
+    <link href="https://www.reddit.com/r/news/comments/ol23ex/vaccines_for_kids_under_age_12_expected_midwinter/"></link>
+    <updated>2021-07-15T21:12:57+00:00</updated>
+    <published>2021-07-15T21:12:57+00:00</published>
+    <title>Vaccines for kids under age 12 expected 'mid-winter,' FDA official says</title>
   </entry>
   <entry>
     <author>
