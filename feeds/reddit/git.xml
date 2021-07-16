@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-16T04:46:59+00:00</updated>
+  <updated>2021-07-16T05:32:36+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -955,6 +955,19 @@
     <updated>2021-07-15T16:59:57+00:00</updated>
     <published>2021-07-15T16:59:57+00:00</published>
     <title>Why do people use git instead of github desktop?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/thumbsdrivesmecrazy</name>
+      <uri>https://www.reddit.com/user/thumbsdrivesmecrazy</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;bipp is lightweight and agile from day one - to achieve this, it balanced the benefits of a simple monolithic architecture on one hand with a modern microservice-based approach: &lt;a href="https://bipp.io/blog/modern-software-architecture/"&gt;How bipp Used Modern Software Architecture to Build a Better BI Platform&lt;/a&gt;&lt;/p&gt; &lt;p&gt;As a modern addition the tool incorporated the Git distributed version control system for SQL code. The platform used Git to manage changes offline and get complete control over the codebase. This turns a customer’s data models and SQL queries into living entities to always access the latest version. You can also record changes to a file or set of files over time so that you can recall specific versions later.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/thumbsdrivesmecrazy"&gt; /u/thumbsdrivesmecrazy &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ol9ye8/how_bipp_used_modern_software_architecture_for_bi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ol9ye8/how_bipp_used_modern_software_architecture_for_bi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ol9ye8</id>
+    <link href="https://www.reddit.com/r/git/comments/ol9ye8/how_bipp_used_modern_software_architecture_for_bi/"></link>
+    <updated>2021-07-16T04:57:59+00:00</updated>
+    <published>2021-07-16T04:57:59+00:00</published>
+    <title>How bipp Used Modern Software Architecture For BI Platform - Git Back to Where We Once Belonged</title>
   </entry>
   <entry>
     <author>
