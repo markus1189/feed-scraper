@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T12:53:42+00:00</updated>
+  <updated>2021-07-17T13:34:42+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -709,6 +709,19 @@
     <updated>2021-07-16T12:24:54+00:00</updated>
     <published>2021-07-16T12:24:54+00:00</published>
     <title>Floodwaters still rising in western Europe with death toll over 110</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Defluvium</name>
+      <uri>https://www.reddit.com/user/Defluvium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Defluvium"&gt; /u/Defluvium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/europe/german-belgian-flood-deaths-rise-157-search-continues-2021-07-17/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om33gf/german_belgian_flood_deaths_rise_to_157_as_search/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om33gf</id>
+    <link href="https://www.reddit.com/r/news/comments/om33gf/german_belgian_flood_deaths_rise_to_157_as_search/"></link>
+    <updated>2021-07-17T12:14:29+00:00</updated>
+    <published>2021-07-17T12:14:29+00:00</published>
+    <title>German, Belgian flood deaths rise to 157 as search continues</title>
   </entry>
   <entry>
     <author>
@@ -1856,6 +1869,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Par_12</name>
+      <uri>https://www.reddit.com/user/Par_12</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Par_12"&gt; /u/Par_12 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://edition.cnn.com/2021/07/17/us/washington-dc-shooting-friday/index.html?utm_medium=social&amp;amp;utm_source=twCNN&amp;amp;utm_content=2021-07-17T12%3A22%3A43&amp;amp;utm_term=link"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om3a4y/6yearold_girl_killed_and_5_adults_injured_in_a/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om3a4y</id>
+    <link href="https://www.reddit.com/r/news/comments/om3a4y/6yearold_girl_killed_and_5_adults_injured_in_a/"></link>
+    <updated>2021-07-17T12:26:36+00:00</updated>
+    <published>2021-07-17T12:26:36+00:00</published>
+    <title>6-year-old girl killed and 5 adults injured in a shooting in Washington, DC</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Partiallysensitive</name>
       <uri>https://www.reddit.com/user/Partiallysensitive</uri>
     </author>
@@ -2763,6 +2789,19 @@
     <updated>2021-07-13T13:39:38+00:00</updated>
     <published>2021-07-13T13:39:38+00:00</published>
     <title>US consumer prices surge in June by the most since 2008</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/blaspheminCapn</name>
+      <uri>https://www.reddit.com/user/blaspheminCapn</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/blaspheminCapn"&gt; /u/blaspheminCapn &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/robocalls-ftc-crack-down-telemarketing/?ftag=CNM-00-10aag7e"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om3efi/feds_crack_down_on_brothers_behind_45_million/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om3efi</id>
+    <link href="https://www.reddit.com/r/news/comments/om3efi/feds_crack_down_on_brothers_behind_45_million/"></link>
+    <updated>2021-07-17T12:35:23+00:00</updated>
+    <published>2021-07-17T12:35:23+00:00</published>
+    <title>Feds crack down on brothers behind 45 million illegal robocalls</title>
   </entry>
   <entry>
     <author>
