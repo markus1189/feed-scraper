@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T03:39:40+00:00</updated>
+  <updated>2021-07-17T04:46:28+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2139,6 +2139,19 @@
     <updated>2021-07-12T00:02:11+00:00</updated>
     <published>2021-07-12T00:02:11+00:00</published>
     <title>Long Covid: Early findings bring hope for diagnostic tests - Scientists say they have detected irregularities in the blood of long Covid patients that could one day pave the way for a test for the condition.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/The_Jizzbot</name>
+      <uri>https://www.reddit.com/user/The_Jizzbot</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/The_Jizzbot"&gt; /u/The_Jizzbot &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.news.com.au/entertainment/celebrity-life/celebrity-deaths/serial-killer-who-murdered-ashton-kutchers-girlfriend-sentenced-to-death/news-story/c642bdcfd5a3eba69586624151edb7cd"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olwcve/hollywood_serial_killer_michael_gargiulo_who/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olwcve</id>
+    <link href="https://www.reddit.com/r/news/comments/olwcve/hollywood_serial_killer_michael_gargiulo_who/"></link>
+    <updated>2021-07-17T03:17:54+00:00</updated>
+    <published>2021-07-17T03:17:54+00:00</published>
+    <title>Hollywood serial killer Michael Gargiulo who murdered Ashton Kutcher’s girlfriend sentenced to death</title>
   </entry>
   <entry>
     <author>
@@ -4921,5 +4934,18 @@
     <updated>2021-07-09T10:13:09+00:00</updated>
     <published>2021-07-09T10:13:09+00:00</published>
     <title>US set to add more Chinese companies to blacklist over Xinjiang</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/zavakir</name>
+      <uri>https://www.reddit.com/user/zavakir</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/zavakir"&gt; /u/zavakir &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.thejournal.ie/man-gets-one-year-after-dousing-wife-and-her-children-in-petrol-the-journal-courts-5497726-Jul2021/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olrgsm/man_who_doused_wife_and_children_in_petrol_set/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olrgsm</id>
+    <link href="https://www.reddit.com/r/news/comments/olrgsm/man_who_doused_wife_and_children_in_petrol_set/"></link>
+    <updated>2021-07-16T22:20:49+00:00</updated>
+    <published>2021-07-16T22:20:49+00:00</published>
+    <title>Man who doused wife and children in petrol, set fire to home, given one year.</title>
   </entry>
 </feed>
