@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T20:34:16+00:00</updated>
+  <updated>2021-07-17T21:36:46+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -553,6 +553,19 @@
     <updated>2021-07-17T17:07:43+00:00</updated>
     <published>2021-07-17T17:07:43+00:00</published>
     <title>262,000 doses of COVID-19 vaccine set to expire in Michigan in the coming months</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Buck-Nasty</name>
+      <uri>https://www.reddit.com/user/Buck-Nasty</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Buck-Nasty"&gt; /u/Buck-Nasty &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/17/us/arkansas-covid-19-vaccine.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ombjwo/in_undervaccinated_arkansas_covid_upends_life_all/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ombjwo</id>
+    <link href="https://www.reddit.com/r/news/comments/ombjwo/in_undervaccinated_arkansas_covid_upends_life_all/"></link>
+    <updated>2021-07-17T20:00:32+00:00</updated>
+    <published>2021-07-17T20:00:32+00:00</published>
+    <title>In Undervaccinated Arkansas, Covid Upends Life All Over Again</title>
   </entry>
   <entry>
     <author>
@@ -4505,6 +4518,19 @@
     <updated>2021-07-14T14:04:26+00:00</updated>
     <published>2021-07-14T14:04:26+00:00</published>
     <title>KUOW - Nearly 700 people believed to have died in Northwest heat wave</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ryanrd79</name>
+      <uri>https://www.reddit.com/user/ryanrd79</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ryanrd79"&gt; /u/ryanrd79 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/arkansas-governor-hutchinson-covid-vaccine-hesitancy-09cadd2e75ddd5a4c0758b2cb1b6cbfd"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ombero/arkansas_governors_vaccination_tour_reveals/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ombero</id>
+    <link href="https://www.reddit.com/r/news/comments/ombero/arkansas_governors_vaccination_tour_reveals/"></link>
+    <updated>2021-07-17T19:53:00+00:00</updated>
+    <published>2021-07-17T19:53:00+00:00</published>
+    <title>Arkansas governor's vaccination tour reveals depths of distrust</title>
   </entry>
   <entry>
     <author>
