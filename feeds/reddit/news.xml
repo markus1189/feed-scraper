@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T07:32:49+00:00</updated>
+  <updated>2021-07-17T08:37:54+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4843,6 +4843,19 @@
     <updated>2021-07-13T09:12:09+00:00</updated>
     <published>2021-07-13T09:12:09+00:00</published>
     <title>Taliban fighters execute 22 Afghan commandos as they try to surrender</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/vaish7848</name>
+      <uri>https://www.reddit.com/user/vaish7848</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/vaish7848"&gt; /u/vaish7848 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/17/sport/olympics-tokyo-covid-19-case-intl-hnk/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olyhm6/first_case_of_covid19_reported_at_tokyo_olympic/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olyhm6</id>
+    <link href="https://www.reddit.com/r/news/comments/olyhm6/first_case_of_covid19_reported_at_tokyo_olympic/"></link>
+    <updated>2021-07-17T05:50:39+00:00</updated>
+    <published>2021-07-17T05:50:39+00:00</published>
+    <title>First case of Covid-19 reported at Tokyo Olympic village</title>
   </entry>
   <entry>
     <author>
