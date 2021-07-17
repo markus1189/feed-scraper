@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T16:58:25+00:00</updated>
+  <updated>2021-07-17T17:39:28+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4271,6 +4271,19 @@
     <updated>2021-07-15T12:28:03+00:00</updated>
     <published>2021-07-15T12:28:03+00:00</published>
     <title>Dutch journalist Peter de Vries, dies, one week after being shot in the head</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/personAAA</name>
+      <uri>https://www.reddit.com/user/personAAA</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/personAAA"&gt; /u/personAAA &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/joe-biden-europe-health-government-and-politics-vienna-3c68ba74c927493e863c9f71ab482807"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om0v5b/us_probes_rash_of_health_incidents_among/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om0v5b</id>
+    <link href="https://www.reddit.com/r/news/comments/om0v5b/us_probes_rash_of_health_incidents_among/"></link>
+    <updated>2021-07-17T09:10:35+00:00</updated>
+    <published>2021-07-17T09:10:35+00:00</published>
+    <title>US probes rash of health incidents among diplomats in Vienna</title>
   </entry>
   <entry>
     <author>
