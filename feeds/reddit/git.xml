@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-17T15:42:03+00:00</updated>
+  <updated>2021-07-17T16:58:22+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -45,6 +45,19 @@
     <updated>2021-07-10T00:47:46+00:00</updated>
     <published>2021-07-10T00:47:46+00:00</published>
     <title>How to list all files in the git current worktree?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/BluebirdGold</name>
+      <uri>https://www.reddit.com/user/BluebirdGold</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello Team!&lt;/p&gt; &lt;p&gt;I am working on creating a Git Hook that will lint the code in our java project before pushing the code to the remote repository. As I understand this is on the Local repository, hence a Local Hook. I created a Pre-commit hook script that will run a maven plugin that formats the code on pre-commit. However, my issue is that this script is not pushed to Bitbucket and stays under my .git. Also, I read on the Atlassian documentation I could link the .git/hook/myScript.sh to a directory available outside of .git folder. This, however, will require each contributor to create the link. The issue escalates as not every contributor uses the same OS.&lt;/p&gt; &lt;p&gt;For our JavaScript project, we use Husky to run the pre-push hook. Hence, it is shared by developers. &lt;/p&gt; &lt;p&gt;So my issue is to do the same with Java projects. maven-git-code-format is not that helpful.&lt;/p&gt; &lt;p&gt;We are using Bitbucket, Java 8, maven 3.8, JavaScript.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/BluebirdGold"&gt; /u/BluebirdGold &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/om75kr/create_a_git_hook_that_can_be_push_to_remote_and/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/om75kr/create_a_git_hook_that_can_be_push_to_remote_and/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om75kr</id>
+    <link href="https://www.reddit.com/r/git/comments/om75kr/create_a_git_hook_that_can_be_push_to_remote_and/"></link>
+    <updated>2021-07-17T16:09:46+00:00</updated>
+    <published>2021-07-17T16:09:46+00:00</published>
+    <title>Create a git hook that can be push to remote and use by all contributors</title>
   </entry>
   <entry>
     <author>
@@ -916,6 +929,19 @@
     <updated>2021-07-12T09:34:07+00:00</updated>
     <published>2021-07-12T09:34:07+00:00</published>
     <title>Pushing unfinished feauters on master</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/prosperousdoggo</name>
+      <uri>https://www.reddit.com/user/prosperousdoggo</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I have a main branch from which we take out branches (feature branches). So in my first feature branch (feature A) I added some code. I took another feature branch( this time from feature A) and removed that code I added as part of (feature A)&lt;/p&gt; &lt;p&gt;So it looks something like this now. &lt;/p&gt; &lt;p&gt;main&lt;br/&gt; |--------feature A&lt;br/&gt; |-----------feature B&lt;/p&gt; &lt;p&gt;Now feature A is merged with main and I merge the code from main to my feature branch B to get others code as well. What happened was the code that I removed from feature branch B got added automatically(since this code is now in main from feature A) during reverse merge without showing a merge conflict. And this caused a bug since it went unnoticed. &lt;/p&gt; &lt;p&gt;I was under the impression that whatever change in my feature branch when it tries to change during a merge you get a conflict and you can resolve it. I did not expect this silent addition to happen. I&amp;#39;m not really able to replicate this case either. &lt;/p&gt; &lt;p&gt;Can someone pls help me throw some light on this. And also how I can avoid this in future?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/prosperousdoggo"&gt; /u/prosperousdoggo &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/om6vow/help_me_understand_how_this_happened/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/om6vow/help_me_understand_how_this_happened/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om6vow</id>
+    <link href="https://www.reddit.com/r/git/comments/om6vow/help_me_understand_how_this_happened/"></link>
+    <updated>2021-07-17T15:55:12+00:00</updated>
+    <published>2021-07-17T15:55:12+00:00</published>
+    <title>Help me understand how this happened.</title>
   </entry>
   <entry>
     <author>
