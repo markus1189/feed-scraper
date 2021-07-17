@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-16T23:34:29+00:00</updated>
+  <updated>2021-07-17T01:32:59+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -579,6 +579,19 @@
     <updated>2021-07-14T15:59:17+00:00</updated>
     <published>2021-07-14T15:59:17+00:00</published>
     <title>Alabama military base orders troops to show vaccination proof as Covid-19 concerns mount</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/CornCobMcGee</name>
+      <uri>https://www.reddit.com/user/CornCobMcGee</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/CornCobMcGee"&gt; /u/CornCobMcGee &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.billboard.com/articles/news/obituary/9602530/biz-markie-dead-just-a-friend"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oltxx0/biz_markie_bombastic_rapper_behind_just_a_friend/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oltxx0</id>
+    <link href="https://www.reddit.com/r/news/comments/oltxx0/biz_markie_bombastic_rapper_behind_just_a_friend/"></link>
+    <updated>2021-07-17T00:42:09+00:00</updated>
+    <published>2021-07-17T00:42:09+00:00</published>
+    <title>Biz Markie, Bombastic Rapper Behind 'Just a Friend,' Dies at 57</title>
   </entry>
   <entry>
     <author>
