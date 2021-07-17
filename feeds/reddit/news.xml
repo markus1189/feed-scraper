@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T19:32:51+00:00</updated>
+  <updated>2021-07-17T20:34:16+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2061,6 +2061,19 @@
     <updated>2021-07-10T05:23:09+00:00</updated>
     <published>2021-07-10T05:23:09+00:00</published>
     <title>New York City warned ‘climate change is here’ as storm floods streets and subway</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/RichKatz</name>
+      <uri>https://www.reddit.com/user/RichKatz</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/RichKatz"&gt; /u/RichKatz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/interactive/2021/07/17/us/delta-variant-us-growth.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omaje7/unvaccinated_states_feel_brunt_of_deltaled_covid/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omaje7</id>
+    <link href="https://www.reddit.com/r/news/comments/omaje7/unvaccinated_states_feel_brunt_of_deltaled_covid/"></link>
+    <updated>2021-07-17T19:06:58+00:00</updated>
+    <published>2021-07-17T19:06:58+00:00</published>
+    <title>Unvaccinated States Feel Brunt of Delta-Led Covid Uptick</title>
   </entry>
   <entry>
     <author>
