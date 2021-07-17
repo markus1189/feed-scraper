@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-17T05:32:39+00:00</updated>
+  <updated>2021-07-17T06:45:23+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -396,6 +396,19 @@
     <updated>2021-07-12T04:17:04+00:00</updated>
     <published>2021-07-12T04:17:04+00:00</published>
     <title>Do you ever use git stash without the -u flag? When would it make sense not to use -u?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/__GROUP_BY__</name>
+      <uri>https://www.reddit.com/user/__GROUP_BY__</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;It is very common to get lost while reviewing large pull requests. For example:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;The list of files that are presented to the reviewer do not have a meaningful order. &lt;/li&gt; &lt;li&gt;At times, dozens of files may only have side-effect-free formatting changes (e.g. blank lines). &lt;/li&gt; &lt;li&gt;In general as diffs are not syntax-aware, reviewers see line/token level changes highlited instead of higher level semantic changes. &lt;/li&gt; &lt;li&gt;etc.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Is there a code review tool that can be integrated with github that allows the author of a PR to order and group changes?&lt;/p&gt; &lt;p&gt;For example, instead of a PR that looks like this:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;+-----------------------------------------------------------------------------+ | settings.gradle | | src/main/java/com/Bye.java | | src/main/java/com/foo/bar/X.java | | build.gradle | | src/main/java/com/Hello.java | | src/main/java/com/HelloTest.java | | src/test/java/com/ByeTest.java | +-----------------------------------------------------------------------------+ &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;I want to be able to group the files before creating the PR, maybe with a title per group:&lt;/p&gt; &lt;h3&gt;Added i18n dependencies&lt;/h3&gt; &lt;pre&gt;&lt;code&gt;+-----------------------------------------------------------------------------+ | settings.gradle | | build.gradle | +-----------------------------------------------------------------------------+ &lt;/code&gt;&lt;/pre&gt; &lt;h3&gt;Made Hello i18n-aware:&lt;/h3&gt; &lt;pre&gt;&lt;code&gt;+-----------------------------------------------------------------------------+ | src/main/java/com/Hello.java | | src/main/java/com/HelloTest.java | +-----------------------------------------------------------------------------+ &lt;/code&gt;&lt;/pre&gt; &lt;h3&gt;Made Bye i18n-aware:&lt;/h3&gt; &lt;pre&gt;&lt;code&gt;+-----------------------------------------------------------------------------+ | src/main/java/com/Bye.java | | src/test/java/com/ByeTest.java | +-----------------------------------------------------------------------------+ &lt;/code&gt;&lt;/pre&gt; &lt;h3&gt;Removed unused imports&lt;/h3&gt; &lt;pre&gt;&lt;code&gt;+-----------------------------------------------------------------------------+ | src/main/java/com/foo/bar/X.java | +-----------------------------------------------------------------------------+ &lt;/code&gt;&lt;/pre&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/__GROUP_BY__"&gt; /u/__GROUP_BY__ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/olz3s5/looking_for_a_tool_to_improve_pull_request/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/olz3s5/looking_for_a_tool_to_improve_pull_request/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olz3s5</id>
+    <link href="https://www.reddit.com/r/git/comments/olz3s5/looking_for_a_tool_to_improve_pull_request/"></link>
+    <updated>2021-07-17T06:39:41+00:00</updated>
+    <published>2021-07-17T06:39:41+00:00</published>
+    <title>Looking for a tool to improve pull request experience</title>
   </entry>
   <entry>
     <author>
