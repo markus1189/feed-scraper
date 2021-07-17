@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T01:32:59+00:00</updated>
+  <updated>2021-07-17T02:44:42+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -631,6 +631,19 @@
     <updated>2021-07-12T09:05:48+00:00</updated>
     <published>2021-07-12T09:05:48+00:00</published>
     <title>State of emergency begins in host city Tokyo as Games near</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/DWinkieMT</name>
+      <uri>https://www.reddit.com/user/DWinkieMT</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/DWinkieMT"&gt; /u/DWinkieMT &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.armytimes.com/news/your-army/2021/07/16/one-hundred-lost-nvgs-at-fort-hood-triggers-investigation/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olu8ek/one_hundred_lost_nightvision_goggles_at_fort_hood/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olu8ek</id>
+    <link href="https://www.reddit.com/r/news/comments/olu8ek/one_hundred_lost_nightvision_goggles_at_fort_hood/"></link>
+    <updated>2021-07-17T01:00:34+00:00</updated>
+    <published>2021-07-17T01:00:34+00:00</published>
+    <title>One hundred lost night-vision goggles at Fort Hood triggers investigation</title>
   </entry>
   <entry>
     <author>
@@ -2064,6 +2077,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/StarshipSentinel</name>
+      <uri>https://www.reddit.com/user/StarshipSentinel</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/StarshipSentinel"&gt; /u/StarshipSentinel &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/16/tech/uber-cpuc-sexual-assault-data-fine/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olt6ze/uber_was_fined_59_million_over_sexual_assault/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olt6ze</id>
+    <link href="https://www.reddit.com/r/news/comments/olt6ze/uber_was_fined_59_million_over_sexual_assault/"></link>
+    <updated>2021-07-16T23:56:03+00:00</updated>
+    <published>2021-07-16T23:56:03+00:00</published>
+    <title>Uber was fined $59 million over sexual assault data. Now it may pay just $150,000</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Stormageadon</name>
       <uri>https://www.reddit.com/user/Stormageadon</uri>
     </author>
@@ -3335,6 +3361,19 @@
     <updated>2021-07-09T21:59:50+00:00</updated>
     <published>2021-07-09T21:59:50+00:00</published>
     <title>Friday Morning L.A. ‘Earthquake’ Was Actually A Sonic Boom</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/invisiblefaction2</name>
+      <uri>https://www.reddit.com/user/invisiblefaction2</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/invisiblefaction2"&gt; /u/invisiblefaction2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/standoff-in-levelland-texas-shooting-swat-leader-sgt-josh-bartlett-dead/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olsxyo/standoff_in_texas_swat_command_leader_dead_4/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_olsxyo</id>
+    <link href="https://www.reddit.com/r/news/comments/olsxyo/standoff_in_texas_swat_command_leader_dead_4/"></link>
+    <updated>2021-07-16T23:40:37+00:00</updated>
+    <published>2021-07-16T23:40:37+00:00</published>
+    <title>Standoff in Texas: SWAT command leader dead, 4 wounded after standoff with gunman</title>
   </entry>
   <entry>
     <author>
