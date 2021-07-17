@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T18:43:21+00:00</updated>
+  <updated>2021-07-17T19:32:51+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3429,6 +3429,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/goingfullham</name>
+      <uri>https://www.reddit.com/user/goingfullham</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/goingfullham"&gt; /u/goingfullham &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.reuters.com/world/europe/french-police-quell-protest-against-covid-health-passport-rules-2021-07-14/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om8ugf/protests_in_france_against_covid19_health_pass/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om8ugf</id>
+    <link href="https://www.reddit.com/r/news/comments/om8ugf/protests_in_france_against_covid19_health_pass/"></link>
+    <updated>2021-07-17T17:37:46+00:00</updated>
+    <published>2021-07-17T17:37:46+00:00</published>
+    <title>Protests in France against COVID-19 'health pass' rules</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/golgaltha</name>
       <uri>https://www.reddit.com/user/golgaltha</uri>
     </author>
@@ -4362,6 +4375,19 @@
     <updated>2021-07-10T12:43:14+00:00</updated>
     <published>2021-07-10T12:43:14+00:00</published>
     <title>Huawei exec Meng Wanzhou loses bid for key evidence in U.S. extradition battle</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/pomonamike</name>
+      <uri>https://www.reddit.com/user/pomonamike</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/pomonamike"&gt; /u/pomonamike &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.pe.com/2021/07/17/third-strike-anaheim-venue-latest-to-cancel-reps-gaetz-and-greenes-america-first-rally/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omafzf/third_strike_anaheim_venue_latest_to_cancel_reps/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omafzf</id>
+    <link href="https://www.reddit.com/r/news/comments/omafzf/third_strike_anaheim_venue_latest_to_cancel_reps/"></link>
+    <updated>2021-07-17T19:01:28+00:00</updated>
+    <published>2021-07-17T19:01:28+00:00</published>
+    <title>Third strike: Anaheim venue latest to cancel Reps. Gaetz and Greene’s America First rally</title>
   </entry>
   <entry>
     <author>
