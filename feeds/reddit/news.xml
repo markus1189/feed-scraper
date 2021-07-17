@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T14:32:40+00:00</updated>
+  <updated>2021-07-17T15:42:05+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -989,6 +989,19 @@
       <uri>https://www.reddit.com/user/Forestfire1406</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Forestfire1406"&gt; /u/Forestfire1406 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcn.ws/3ifaMAC"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om1r6s/6yearold_girl_killed_5_others_injured_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om1r6s</id>
+    <link href="https://www.reddit.com/r/news/comments/om1r6s/6yearold_girl_killed_5_others_injured_in/"></link>
+    <updated>2021-07-17T10:29:49+00:00</updated>
+    <published>2021-07-17T10:29:49+00:00</published>
+    <title>6-year-old girl killed, 5 others injured in Washington, DC, shooting</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Forestfire1406</name>
+      <uri>https://www.reddit.com/user/Forestfire1406</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Forestfire1406"&gt; /u/Forestfire1406 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/teenager-abducted-basement-home-found-badly-injured-suspects/story?id=78797168"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiss8d/teenager_abducted_from_basement_of_his_home_found/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_oiss8d</id>
     <link href="https://www.reddit.com/r/news/comments/oiss8d/teenager_abducted_from_basement_of_his_home_found/"></link>
@@ -1216,6 +1229,19 @@
     <updated>2021-07-11T10:03:15+00:00</updated>
     <published>2021-07-11T10:03:15+00:00</published>
     <title>Maryland looks to restore oyster population</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/HotDamnGeoff</name>
+      <uri>https://www.reddit.com/user/HotDamnGeoff</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/HotDamnGeoff"&gt; /u/HotDamnGeoff &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.hawaiitribune-herald.com/2021/07/17/hawaii-news/felicia-strengthens-to-category-4-hurricane-expected-to-weaken-in-coming-days/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om3cip/felicia_strengthens_to_category_4_hurricane/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om3cip</id>
+    <link href="https://www.reddit.com/r/news/comments/om3cip/felicia_strengthens_to_category_4_hurricane/"></link>
+    <updated>2021-07-17T12:31:27+00:00</updated>
+    <published>2021-07-17T12:31:27+00:00</published>
+    <title>Felicia strengthens to Category 4 hurricane, expected to weaken in coming days</title>
   </entry>
   <entry>
     <author>
@@ -4284,6 +4310,19 @@
     <updated>2021-07-14T20:16:34+00:00</updated>
     <published>2021-07-14T20:16:34+00:00</published>
     <title>Wyoming bar under fire for selling shirt advocating anti-gay violence</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/raistlin65</name>
+      <uri>https://www.reddit.com/user/raistlin65</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/raistlin65"&gt; /u/raistlin65 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/17/us/great-salt-lake-drought-dying/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om5ju3/great_salt_lake_is_shrinking_fast_scientists/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om5ju3</id>
+    <link href="https://www.reddit.com/r/news/comments/om5ju3/great_salt_lake_is_shrinking_fast_scientists/"></link>
+    <updated>2021-07-17T14:42:33+00:00</updated>
+    <published>2021-07-17T14:42:33+00:00</published>
+    <title>Great Salt Lake is shrinking fast. Scientists demand action before it becomes a toxic dustbin</title>
   </entry>
   <entry>
     <author>
