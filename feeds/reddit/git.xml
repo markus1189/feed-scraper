@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-17T13:34:40+00:00</updated>
+  <updated>2021-07-17T14:32:38+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -279,6 +279,19 @@
     <updated>2021-07-04T23:27:57+00:00</updated>
     <published>2021-07-04T23:27:57+00:00</published>
     <title>Noob question: I created a branch and committed code to it, but I can't git pull it</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/MotorBoats</name>
+      <uri>https://www.reddit.com/user/MotorBoats</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I&amp;#39;ve only recently taken advantage of version control and gotten a really good workflow with my work, branching and commits. So far I&amp;#39;ve only done single project repos, but now I am working on 2 projects: one is a front end CRUD dashboard and the other is the graphql API it depends on. I built each one separately, each in it&amp;#39;s own repo at the beginning, but am at the point where the frontend depend heavily on the backend, and I&amp;#39;m working on dockerizing them together (a whole different story).&lt;/p&gt; &lt;p&gt;Right now the projects are siblings in the same folder, but again, each project has it&amp;#39;s own repo and was initialized separately from each other. Like this:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;Fullstack | └- API-Backend-Project | └ .git | └ package.json | └- Frontend-Project └ .git └ package.json &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;I guess what I&amp;#39;m asking is, how do you guys manage projects this way? Do you have a single repo in the sibling&amp;#39;s parent folder, and if you use vscode, is it a single workspace? Or do you git init each project separately in their own folder, and have a single vscode workspace starting in the parent folder that contains each projects folder? I want to wrap my head around this and make sure I&amp;#39;m doing it correctly, and the most efficiently. Any repo examples would be appreciated.&lt;/p&gt; &lt;p&gt;I know I could make it a single project and repo, with one folder for the &lt;code&gt;api&lt;/code&gt; and one for the &lt;code&gt;frontend&lt;/code&gt;, but I have future projects that may depend on that API as well. I want to make sure I don&amp;#39;t paint myself into a corner.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/MotorBoats"&gt; /u/MotorBoats &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/om53pc/sibling_projects_in_same_root_but_separate_repos/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/om53pc/sibling_projects_in_same_root_but_separate_repos/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om53pc</id>
+    <link href="https://www.reddit.com/r/git/comments/om53pc/sibling_projects_in_same_root_but_separate_repos/"></link>
+    <updated>2021-07-17T14:17:41+00:00</updated>
+    <published>2021-07-17T14:17:41+00:00</published>
+    <title>Sibling projects in same root, but separate repos</title>
   </entry>
   <entry>
     <author>

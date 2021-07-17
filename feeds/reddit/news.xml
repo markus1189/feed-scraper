@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T13:34:42+00:00</updated>
+  <updated>2021-07-17T14:32:40+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2337,6 +2337,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Toy_Soulja</name>
+      <uri>https://www.reddit.com/user/Toy_Soulja</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Toy_Soulja"&gt; /u/Toy_Soulja &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnbc.com/2021/07/16/apple-removes-fakespot-from-app-store-after-amazon-complains.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om4jxh/amazon_asked_apple_to_remove_an_app_that_spots/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om4jxh</id>
+    <link href="https://www.reddit.com/r/news/comments/om4jxh/amazon_asked_apple_to_remove_an_app_that_spots/"></link>
+    <updated>2021-07-17T13:46:04+00:00</updated>
+    <published>2021-07-17T13:46:04+00:00</published>
+    <title>Amazon asked Apple to remove an app that spots fake reviews, and Apple agreed</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/TradingAllIn</name>
       <uri>https://www.reddit.com/user/TradingAllIn</uri>
     </author>
@@ -2386,6 +2399,19 @@
     <updated>2021-07-14T11:32:54+00:00</updated>
     <published>2021-07-14T11:32:54+00:00</published>
     <title>Masih Alinejad: Iranians "plotted to kidnap US, Canada and UK targets"</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/VictorDev</name>
+      <uri>https://www.reddit.com/user/VictorDev</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/VictorDev"&gt; /u/VictorDev &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.theweek.in/news/world/2021/07/17/daughter-of-aghan-envoy-kidnapped-tortured-in-pakistan.amp.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om2lko/daughter_of_aghan_envoy_kidnapped_tortured_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om2lko</id>
+    <link href="https://www.reddit.com/r/news/comments/om2lko/daughter_of_aghan_envoy_kidnapped_tortured_in/"></link>
+    <updated>2021-07-17T11:39:00+00:00</updated>
+    <published>2021-07-17T11:39:00+00:00</published>
+    <title>Daughter of Aghan envoy kidnapped, tortured in Pakistan</title>
   </entry>
   <entry>
     <author>
@@ -3387,6 +3413,19 @@
     <updated>2021-07-13T13:00:40+00:00</updated>
     <published>2021-07-13T13:00:40+00:00</published>
     <title>Tennessee fires top vaccine official as COVID-19 shows signs of new spread</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/hippiedawg</name>
+      <uri>https://www.reddit.com/user/hippiedawg</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/hippiedawg"&gt; /u/hippiedawg &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/16/health/hospital-trauma-center-fees/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om475v/hospitals_charge_huge_trauma_fees_to_treat_people/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om475v</id>
+    <link href="https://www.reddit.com/r/news/comments/om475v/hospitals_charge_huge_trauma_fees_to_treat_people/"></link>
+    <updated>2021-07-17T13:24:44+00:00</updated>
+    <published>2021-07-17T13:24:44+00:00</published>
+    <title>Hospitals charge huge 'trauma' fees to treat people with minor injuries</title>
   </entry>
   <entry>
     <author>
