@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T11:33:03+00:00</updated>
+  <updated>2021-07-17T12:53:42+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -202,6 +202,32 @@
     <updated>2021-07-15T13:17:39+00:00</updated>
     <published>2021-07-15T13:17:39+00:00</published>
     <title>Surgeon general warns misinformation an 'urgent threat' to public health</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Atikaabedin</name>
+      <uri>https://www.reddit.com/user/Atikaabedin</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Atikaabedin"&gt; /u/Atikaabedin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/Sports/wireStory/resident-olympic-village-tests-positive-covid-78898124"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om35rd/first_resident_of_olympic_village_tests_positive/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om35rd</id>
+    <link href="https://www.reddit.com/r/news/comments/om35rd/first_resident_of_olympic_village_tests_positive/"></link>
+    <updated>2021-07-17T12:18:34+00:00</updated>
+    <published>2021-07-17T12:18:34+00:00</published>
+    <title>First resident of Olympic Village tests positive for COVID</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Atikaabedin</name>
+      <uri>https://www.reddit.com/user/Atikaabedin</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Atikaabedin"&gt; /u/Atikaabedin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/world-us-canada-57871320"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om16sf/hollywood_ripper_michael_gargiulo_sentenced_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om16sf</id>
+    <link href="https://www.reddit.com/r/news/comments/om16sf/hollywood_ripper_michael_gargiulo_sentenced_to/"></link>
+    <updated>2021-07-17T09:40:06+00:00</updated>
+    <published>2021-07-17T09:40:06+00:00</published>
+    <title>'Hollywood Ripper' Michael Gargiulo sentenced to death for murders</title>
   </entry>
   <entry>
     <author>
@@ -2516,6 +2542,19 @@
     <updated>2021-07-14T16:26:07+00:00</updated>
     <published>2021-07-14T16:26:07+00:00</published>
     <title>Memphis (Shelby County) will not follow Tennessee state ban on promoting childhood vaccinations</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/amy_sport</name>
+      <uri>https://www.reddit.com/user/amy_sport</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/amy_sport"&gt; /u/amy_sport &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.npr.org/sections/goatsandsoda/2021/07/16/1016586837/new-study-says-nearly-3-4-million-cancers-a-year-linked-to-alcohol-use"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/om1klk/alcohol_use_linked_to_over_740000_cancer_cases/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_om1klk</id>
+    <link href="https://www.reddit.com/r/news/comments/om1klk/alcohol_use_linked_to_over_740000_cancer_cases/"></link>
+    <updated>2021-07-17T10:13:59+00:00</updated>
+    <published>2021-07-17T10:13:59+00:00</published>
+    <title>Alcohol Use Linked To Over 740,000 Cancer Cases Last Year, New Study Says</title>
   </entry>
   <entry>
     <author>
