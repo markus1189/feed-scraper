@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-17T23:34:40+00:00</updated>
+  <updated>2021-07-18T01:36:28+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1834,6 +1834,19 @@
       <uri>https://www.reddit.com/user/Mighty_L_LORT</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mighty_L_LORT"&gt; /u/Mighty_L_LORT &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.pbs.org/newshour/world/france-thousands-protest-against-vaccination-covid-passes"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omg2ek/france_thousands_protest_against_vaccination/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omg2ek</id>
+    <link href="https://www.reddit.com/r/news/comments/omg2ek/france_thousands_protest_against_vaccination/"></link>
+    <updated>2021-07-18T00:28:12+00:00</updated>
+    <published>2021-07-18T00:28:12+00:00</published>
+    <title>France: Thousands protest against vaccination, COVID passes</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Mighty_L_LORT</name>
+      <uri>https://www.reddit.com/user/Mighty_L_LORT</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mighty_L_LORT"&gt; /u/Mighty_L_LORT &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/lifestyle/sports/us-olympic-swimmer-michael-andrew-wont-get-vaccinated-2021-07-09/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ohltwy/us_olympic_swimmer_michael_andrew_wont_get/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ohltwy</id>
     <link href="https://www.reddit.com/r/news/comments/ohltwy/us_olympic_swimmer_michael_andrew_wont_get/"></link>
@@ -1931,6 +1944,19 @@
     <updated>2021-07-13T14:01:07+00:00</updated>
     <published>2021-07-13T14:01:07+00:00</published>
     <title>Marine Raider gunny busted to private but no discharge in Green Beret hazing death</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Papintukas</name>
+      <uri>https://www.reddit.com/user/Papintukas</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Papintukas"&gt; /u/Papintukas &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/17/us-west-wildfires-bootleg-fire-oregon"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omf6es/at_least_70_large_wildfires_burning_in_us_west_as/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omf6es</id>
+    <link href="https://www.reddit.com/r/news/comments/omf6es/at_least_70_large_wildfires_burning_in_us_west_as/"></link>
+    <updated>2021-07-17T23:31:28+00:00</updated>
+    <published>2021-07-17T23:31:28+00:00</published>
+    <title>At least 70 large wildfires burning in US west as fears mount over conditions</title>
   </entry>
   <entry>
     <author>
@@ -2289,12 +2315,38 @@
       <uri>https://www.reddit.com/user/TVaddictpanda</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/TVaddictpanda"&gt; /u/TVaddictpanda &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/av/world-africa-57854071"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omfygu/freedom_for_joshi_the_gorilla_joshi_is_swapping/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omfygu</id>
+    <link href="https://www.reddit.com/r/news/comments/omfygu/freedom_for_joshi_the_gorilla_joshi_is_swapping/"></link>
+    <updated>2021-07-18T00:20:39+00:00</updated>
+    <published>2021-07-18T00:20:39+00:00</published>
+    <title>Freedom for Joshi the gorilla - Joshi is swapping life in captivity for a new start in the jungle</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/TVaddictpanda</name>
+      <uri>https://www.reddit.com/user/TVaddictpanda</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/TVaddictpanda"&gt; /u/TVaddictpanda &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/health-57776010"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oifrj7/long_covid_early_findings_bring_hope_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_oifrj7</id>
     <link href="https://www.reddit.com/r/news/comments/oifrj7/long_covid_early_findings_bring_hope_for/"></link>
     <updated>2021-07-12T00:02:11+00:00</updated>
     <published>2021-07-12T00:02:11+00:00</published>
     <title>Long Covid: Early findings bring hope for diagnostic tests - Scientists say they have detected irregularities in the blood of long Covid patients that could one day pave the way for a test for the condition.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/TVaddictpanda</name>
+      <uri>https://www.reddit.com/user/TVaddictpanda</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/TVaddictpanda"&gt; /u/TVaddictpanda &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/uk-politics-57867935"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omftm6/uk_looks_to_extend_ivory_ban_to_hippos_and_other/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omftm6</id>
+    <link href="https://www.reddit.com/r/news/comments/omftm6/uk_looks_to_extend_ivory_ban_to_hippos_and_other/"></link>
+    <updated>2021-07-18T00:11:45+00:00</updated>
+    <published>2021-07-18T00:11:45+00:00</published>
+    <title>UK looks to extend ivory ban to hippos and other animals</title>
   </entry>
   <entry>
     <author>
@@ -3127,6 +3179,19 @@
     <updated>2021-07-16T11:18:36+00:00</updated>
     <published>2021-07-16T11:18:36+00:00</published>
     <title>California man was arrested with an arsenal of weapons and a racist manifesto, officials say</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cryptomate13</name>
+      <uri>https://www.reddit.com/user/cryptomate13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cryptomate13"&gt; /u/cryptomate13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/17/world/europe/siberia-fires.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omfx88/as_frozen_land_burns_siberia_fears_if_we_dont/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omfx88</id>
+    <link href="https://www.reddit.com/r/news/comments/omfx88/as_frozen_land_burns_siberia_fears_if_we_dont/"></link>
+    <updated>2021-07-18T00:18:23+00:00</updated>
+    <published>2021-07-18T00:18:23+00:00</published>
+    <title>As Frozen Land Burns, Siberia Fears: ‘If We Don’t Have the Forest, We Don’t Have Life’</title>
   </entry>
   <entry>
     <author>
