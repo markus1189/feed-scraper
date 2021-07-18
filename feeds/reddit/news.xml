@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T10:38:07+00:00</updated>
+  <updated>2021-07-18T11:32:56+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3634,6 +3634,19 @@
     <updated>2021-07-11T05:51:39+00:00</updated>
     <published>2021-07-11T05:51:39+00:00</published>
     <title>4 arrested at Maven Hotel, police feared a "Las Vegas style shooting" during All-Star Game in Denver</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ghettomerman</name>
+      <uri>https://www.reddit.com/user/ghettomerman</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ghettomerman"&gt; /u/ghettomerman &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/17/us/hot-air-balloon-accident-vermont-new-hampshire/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omo2rb/pilot_dies_in_fall_from_hot_air_balloon/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omo2rb</id>
+    <link href="https://www.reddit.com/r/news/comments/omo2rb/pilot_dies_in_fall_from_hot_air_balloon/"></link>
+    <updated>2021-07-18T10:31:00+00:00</updated>
+    <published>2021-07-18T10:31:00+00:00</published>
+    <title>Pilot dies in fall from hot air balloon, passengers carried across state line</title>
   </entry>
   <entry>
     <author>
