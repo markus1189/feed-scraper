@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T11:32:56+00:00</updated>
+  <updated>2021-07-18T12:53:09+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2402,6 +2402,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/The_Albin_Guy</name>
+      <uri>https://www.reddit.com/user/The_Albin_Guy</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/The_Albin_Guy"&gt; /u/The_Albin_Guy &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/shootings-portland-203cdd7808457cbdc30fb9b3c0900cd7"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omo44l/2_dead_7_injured_in_separate_shootings_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omo44l</id>
+    <link href="https://www.reddit.com/r/news/comments/omo44l/2_dead_7_injured_in_separate_shootings_in/"></link>
+    <updated>2021-07-18T10:34:15+00:00</updated>
+    <published>2021-07-18T10:34:15+00:00</published>
+    <title>2 dead, 7 injured in separate shootings in Portland, Oregon</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/The_Jizzbot</name>
       <uri>https://www.reddit.com/user/The_Jizzbot</uri>
     </author>
@@ -3205,6 +3218,19 @@
     <updated>2021-07-12T21:59:48+00:00</updated>
     <published>2021-07-12T21:59:48+00:00</published>
     <title>Woman charged with hate crime after punching 6-year-old Asian American boy</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/crispy_attic</name>
+      <uri>https://www.reddit.com/user/crispy_attic</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/crispy_attic"&gt; /u/crispy_attic &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://katv.com/news/local/arkansas-national-guardsmen-speak-out-about-unsafe-living-conditions-due-to-covid"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omowo7/arkansas_national_guardsmen_speak_out_about/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omowo7</id>
+    <link href="https://www.reddit.com/r/news/comments/omowo7/arkansas_national_guardsmen_speak_out_about/"></link>
+    <updated>2021-07-18T11:37:10+00:00</updated>
+    <published>2021-07-18T11:37:10+00:00</published>
+    <title>Arkansas National Guardsmen speak out about unsafe living conditions due to COVID</title>
   </entry>
   <entry>
     <author>
@@ -5428,6 +5454,19 @@
     <updated>2021-07-16T04:10:14+00:00</updated>
     <published>2021-07-16T04:10:14+00:00</published>
     <title>ACLU of Illinois Suing Police Department for Records on Social Media Monitoring Program</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/very_excited</name>
+      <uri>https://www.reddit.com/user/very_excited</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/very_excited"&gt; /u/very_excited &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/entertainment-arts-57873410"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omplqb/britney_spears_says_she_will_not_perform_while/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omplqb</id>
+    <link href="https://www.reddit.com/r/news/comments/omplqb/britney_spears_says_she_will_not_perform_while/"></link>
+    <updated>2021-07-18T12:27:56+00:00</updated>
+    <published>2021-07-18T12:27:56+00:00</published>
+    <title>Britney Spears says she will not perform while father controls career</title>
   </entry>
   <entry>
     <author>
