@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T17:39:18+00:00</updated>
+  <updated>2021-07-18T18:43:50+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -5350,6 +5350,19 @@
     <updated>2021-07-14T22:49:18+00:00</updated>
     <published>2021-07-14T22:49:18+00:00</published>
     <title>Britney Spears tells LA court she wants her father charged with conservatorship abuse</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/thewyldfire</name>
+      <uri>https://www.reddit.com/user/thewyldfire</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/thewyldfire"&gt; /u/thewyldfire &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/race-and-ethnicity-racial-injustice-3e54a1140b0392f003b387e3a663575a"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omujeu/gloria_richardson_civil_rights_pioneer_dies_at_99/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omujeu</id>
+    <link href="https://www.reddit.com/r/news/comments/omujeu/gloria_richardson_civil_rights_pioneer_dies_at_99/"></link>
+    <updated>2021-07-18T17:01:04+00:00</updated>
+    <published>2021-07-18T17:01:04+00:00</published>
+    <title>Gloria Richardson, civil rights pioneer, dies at 99</title>
   </entry>
   <entry>
     <author>
