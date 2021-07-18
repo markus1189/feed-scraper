@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T13:34:34+00:00</updated>
+  <updated>2021-07-18T14:33:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2958,6 +2958,19 @@
     <updated>2021-07-11T02:32:08+00:00</updated>
     <published>2021-07-11T02:32:08+00:00</published>
     <title>Edward Cagney Mathews, NJ Man Who Made Racist Rant, Now Charged With Stalking Neighbor, Damaging Vehicles and Drug Offenses</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/16/obituaries/william-h-regnery-ii-dead.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omqbsk/william_h_regnery_ii_80_dies_bankrolled_the_rise/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omqbsk</id>
+    <link href="https://www.reddit.com/r/news/comments/omqbsk/william_h_regnery_ii_80_dies_bankrolled_the_rise/"></link>
+    <updated>2021-07-18T13:16:06+00:00</updated>
+    <published>2021-07-18T13:16:06+00:00</published>
+    <title>William H. Regnery II, 80, Dies; Bankrolled the Rise of the Alt-Right</title>
   </entry>
   <entry>
     <author>
