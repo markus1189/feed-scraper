@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T14:33:07+00:00</updated>
+  <updated>2021-07-18T15:42:24+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2064,6 +2064,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/PhilDesenex</name>
+      <uri>https://www.reddit.com/user/PhilDesenex</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PhilDesenex"&gt; /u/PhilDesenex &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/17/florida-red-tide-fertilizer-plant-spill"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omqw5w/florida_swamped_by_red_tide_but_is_fertilizer/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omqw5w</id>
+    <link href="https://www.reddit.com/r/news/comments/omqw5w/florida_swamped_by_red_tide_but_is_fertilizer/"></link>
+    <updated>2021-07-18T13:51:27+00:00</updated>
+    <published>2021-07-18T13:51:27+00:00</published>
+    <title>Florida swamped by red tide – but is fertilizer plant spill making it worse? | Florida</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/PhilipLiptonSchrute</name>
       <uri>https://www.reddit.com/user/PhilipLiptonSchrute</uri>
     </author>
@@ -2974,6 +2987,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/18/confederate-statue-removed-city-hall-louisiana"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oms6m3/confederate_statue_removed_from_city_hall_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oms6m3</id>
+    <link href="https://www.reddit.com/r/news/comments/oms6m3/confederate_statue_removed_from_city_hall_in/"></link>
+    <updated>2021-07-18T15:03:44+00:00</updated>
+    <published>2021-07-18T15:03:44+00:00</published>
+    <title>Confederate statue removed from city hall in Louisiana after 99 years</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/applesthyme</name>
       <uri>https://www.reddit.com/user/applesthyme</uri>
     </author>
@@ -3166,6 +3192,19 @@
     <updated>2021-07-15T12:04:29+00:00</updated>
     <published>2021-07-15T12:04:29+00:00</published>
     <title>"Tiger King" star Joe Exotic to be re-sentenced for Carole Baskin murder plot</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cigs_and_coffee</name>
+      <uri>https://www.reddit.com/user/cigs_and_coffee</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cigs_and_coffee"&gt; /u/cigs_and_coffee &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/year-girl-killed-injured-washington-dc-shooting/story?id=78898868"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omqrdt/police_offering_60k_reward_after_6yearold_girl/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omqrdt</id>
+    <link href="https://www.reddit.com/r/news/comments/omqrdt/police_offering_60k_reward_after_6yearold_girl/"></link>
+    <updated>2021-07-18T13:43:12+00:00</updated>
+    <published>2021-07-18T13:43:12+00:00</published>
+    <title>Police offering $60K reward after 6-year-old girl killed in Washington, DC, shooting</title>
   </entry>
   <entry>
     <author>
