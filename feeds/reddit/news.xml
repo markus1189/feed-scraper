@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T06:45:46+00:00</updated>
+  <updated>2021-07-18T07:32:34+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2087,6 +2087,19 @@
     <updated>2021-07-15T14:40:42+00:00</updated>
     <published>2021-07-15T14:40:42+00:00</published>
     <title>Gov. Inslee declares drought emergency for nearly all of Washington</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Purrgis</name>
+      <uri>https://www.reddit.com/user/Purrgis</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Purrgis"&gt; /u/Purrgis &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/vaccine-disinformation-social-media-center-for-countering-digital-hate-report/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oml6cd/only_12_antivaccine_accounts_are_responsible_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oml6cd</id>
+    <link href="https://www.reddit.com/r/news/comments/oml6cd/only_12_antivaccine_accounts_are_responsible_for/"></link>
+    <updated>2021-07-18T06:28:17+00:00</updated>
+    <published>2021-07-18T06:28:17+00:00</published>
+    <title>Only 12 anti-vaccine accounts are responsible for 65% of disinformation shared online, new report finds</title>
   </entry>
   <entry>
     <author>
