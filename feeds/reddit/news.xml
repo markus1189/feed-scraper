@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T01:36:28+00:00</updated>
+  <updated>2021-07-18T02:43:52+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -72,6 +72,19 @@
     <updated>2021-07-14T10:04:48+00:00</updated>
     <published>2021-07-14T10:04:48+00:00</published>
     <title>Covid: Masks to remain compulsory on London transport</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AcceptableGovernment</name>
+      <uri>https://www.reddit.com/user/AcceptableGovernment</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AcceptableGovernment"&gt; /u/AcceptableGovernment &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcwashington.com/news/local/shots-fired-outside-nats-park-during-game-against-padres/2733337/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omhexi/shots_fired_outside_nationals_park_during_game/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omhexi</id>
+    <link href="https://www.reddit.com/r/news/comments/omhexi/shots_fired_outside_nationals_park_during_game/"></link>
+    <updated>2021-07-18T01:58:47+00:00</updated>
+    <published>2021-07-18T01:58:47+00:00</published>
+    <title>Shots Fired Outside Nationals Park During Game Against Padres</title>
   </entry>
   <entry>
     <author>
@@ -2204,6 +2217,19 @@
     <updated>2021-07-13T02:32:05+00:00</updated>
     <published>2021-07-13T02:32:05+00:00</published>
     <title>Illinois just became first state to require Asian American history to be taught in schools</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/SapientChaos</name>
+      <uri>https://www.reddit.com/user/SapientChaos</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/SapientChaos"&gt; /u/SapientChaos &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.cnn.com/2021/07/17/us/texas-houston-water-park-chemical-incident/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omhk99/60_people_sickened_in_chemical_incident_at_texas/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omhk99</id>
+    <link href="https://www.reddit.com/r/news/comments/omhk99/60_people_sickened_in_chemical_incident_at_texas/"></link>
+    <updated>2021-07-18T02:08:47+00:00</updated>
+    <published>2021-07-18T02:08:47+00:00</published>
+    <title>60 people sickened in 'chemical incident' at Texas water park</title>
   </entry>
   <entry>
     <author>
@@ -4778,6 +4804,19 @@
     <updated>2021-07-14T20:56:32+00:00</updated>
     <published>2021-07-14T20:56:32+00:00</published>
     <title>Woman charged with hate crime for stepping on pro-police 'Back the Blue' sign in Utah</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/shahin-13</name>
+      <uri>https://www.reddit.com/user/shahin-13</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/shahin-13"&gt; /u/shahin-13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/us/alaska-supreme-court-says-recall-campaign-oust-governor-can-proceed-2021-07-17/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omgu18/alaska_supreme_court_says_recall_campaign_to_oust/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omgu18</id>
+    <link href="https://www.reddit.com/r/news/comments/omgu18/alaska_supreme_court_says_recall_campaign_to_oust/"></link>
+    <updated>2021-07-18T01:18:31+00:00</updated>
+    <published>2021-07-18T01:18:31+00:00</published>
+    <title>Alaska Supreme Court says recall campaign to oust governor can proceed</title>
   </entry>
   <entry>
     <author>
