@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T05:32:47+00:00</updated>
+  <updated>2021-07-18T06:45:46+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1125,6 +1125,19 @@
     <updated>2021-07-14T17:13:31+00:00</updated>
     <published>2021-07-14T17:13:31+00:00</published>
     <title>N.Y.C.’s Plan to Move Homeless People From Hotels Is Blocked by a Judge</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/General_Lychee6569</name>
+      <uri>https://www.reddit.com/user/General_Lychee6569</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/General_Lychee6569"&gt; /u/General_Lychee6569 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcchicago.com/news/local/no-bail-for-teen-charged-in-marine-veterans-killing-during-attempted-carjacking/2556658/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omjvne/no_bail_for_teen_charged_in_marine_veterans/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omjvne</id>
+    <link href="https://www.reddit.com/r/news/comments/omjvne/no_bail_for_teen_charged_in_marine_veterans/"></link>
+    <updated>2021-07-18T04:48:18+00:00</updated>
+    <published>2021-07-18T04:48:18+00:00</published>
+    <title>No Bail for Teen Charged in Marine Veteran's Killing During Attempted Carjacking</title>
   </entry>
   <entry>
     <author>
@@ -4466,6 +4479,19 @@
     <updated>2021-07-13T19:58:45+00:00</updated>
     <published>2021-07-13T19:58:45+00:00</published>
     <title>Tennessee abandons vaccine outreach to minors — not just for COVID-19</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/o3mta3o</name>
+      <uri>https://www.reddit.com/user/o3mta3o</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/o3mta3o"&gt; /u/o3mta3o &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.tbnewswatch.com/local-news/former-kenora-opp-officer-facing-extradition-to-us-on-charges-of-sexual-abuse-involving-minors-3949408"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ominsu/opp_officer_facing_extradition_to_us_on_charges/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ominsu</id>
+    <link href="https://www.reddit.com/r/news/comments/ominsu/opp_officer_facing_extradition_to_us_on_charges/"></link>
+    <updated>2021-07-18T03:22:07+00:00</updated>
+    <published>2021-07-18T03:22:07+00:00</published>
+    <title>OPP officer facing extradition to U.S. on charges of sexual abuse involving minors</title>
   </entry>
   <entry>
     <author>
