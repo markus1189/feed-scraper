@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T18:43:50+00:00</updated>
+  <updated>2021-07-18T19:33:02+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -475,6 +475,19 @@
     <updated>2021-07-14T14:49:15+00:00</updated>
     <published>2021-07-14T14:49:15+00:00</published>
     <title>Declining Water Levels In The Great Salt Lake Spell Economic Trouble For Utah. The Great Salt Lake is reaching its lowest level ever.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/BohemianBella</name>
+      <uri>https://www.reddit.com/user/BohemianBella</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/BohemianBella"&gt; /u/BohemianBella &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbclosangeles.com/news/coronavirus/two-athletes-test-positive-for-covid-in-olympic-village/2641125/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omth7r/first_positive_covid_tests_for_athletes_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omth7r</id>
+    <link href="https://www.reddit.com/r/news/comments/omth7r/first_positive_covid_tests_for_athletes_in/"></link>
+    <updated>2021-07-18T16:08:57+00:00</updated>
+    <published>2021-07-18T16:08:57+00:00</published>
+    <title>First Positive COVID Tests for Athletes in Olympic Village</title>
   </entry>
   <entry>
     <author>
@@ -1684,6 +1697,19 @@
     <updated>2021-07-10T17:55:10+00:00</updated>
     <published>2021-07-10T17:55:10+00:00</published>
     <title>G20 ministers endorse 'historic' global deal to tax multinationals</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Jordy_Algou</name>
+      <uri>https://www.reddit.com/user/Jordy_Algou</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Jordy_Algou"&gt; /u/Jordy_Algou &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.rfi.fr/en/business-and-tech/20210718-france-pledges-to-end-chick-culling-in-2022"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omt7ji/france_pledges_to_end_chick_culling_in_2022/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omt7ji</id>
+    <link href="https://www.reddit.com/r/news/comments/omt7ji/france_pledges_to_end_chick_culling_in_2022/"></link>
+    <updated>2021-07-18T15:55:50+00:00</updated>
+    <published>2021-07-18T15:55:50+00:00</published>
+    <title>France pledges to end chick culling in 2022</title>
   </entry>
   <entry>
     <author>
@@ -4323,6 +4349,19 @@
     <updated>2021-07-16T22:04:26+00:00</updated>
     <published>2021-07-16T22:04:26+00:00</published>
     <title>Iowa stops for caravan conveying coffins of Native American students who died a century ago</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marybowes</name>
+      <uri>https://www.reddit.com/user/marybowes</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marybowes"&gt; /u/marybowes &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://wgme.com/news/local/grocery-store-operator-fined-27k-for-child-labor-violations"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omvrxh/grocery_store_operator_fined_27k_for_child_labor/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omvrxh</id>
+    <link href="https://www.reddit.com/r/news/comments/omvrxh/grocery_store_operator_fined_27k_for_child_labor/"></link>
+    <updated>2021-07-18T18:02:38+00:00</updated>
+    <published>2021-07-18T18:02:38+00:00</published>
+    <title>Grocery store operator fined $27K for child labor violations</title>
   </entry>
   <entry>
     <author>
