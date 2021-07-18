@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T02:43:52+00:00</updated>
+  <updated>2021-07-18T03:39:44+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2893,6 +2893,19 @@
     <updated>2021-07-16T15:49:03+00:00</updated>
     <published>2021-07-16T15:49:03+00:00</published>
     <title>Covid cases, deaths rising in U.S., as CDC warns of 'pandemic of the unvaccinated'</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/more-30-injured-repellent-attack-inside-miami-area-store-n1274294"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omhbcl/more_than_30_sprayed_with_repellant_inside/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omhbcl</id>
+    <link href="https://www.reddit.com/r/news/comments/omhbcl/more_than_30_sprayed_with_repellant_inside/"></link>
+    <updated>2021-07-18T01:51:43+00:00</updated>
+    <published>2021-07-18T01:51:43+00:00</published>
+    <title>More than 30 sprayed with repellant inside Miami-area mall store</title>
   </entry>
   <entry>
     <author>
