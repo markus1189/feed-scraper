@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T12:53:09+00:00</updated>
+  <updated>2021-07-18T13:34:34+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4521,6 +4521,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/nostalgic_notions</name>
+      <uri>https://www.reddit.com/user/nostalgic_notions</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nostalgic_notions"&gt; /u/nostalgic_notions &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/world-africa-57879278.amp"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ompbui/kenyan_fuel_tanker_explodes_killing_at_least_13/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ompbui</id>
+    <link href="https://www.reddit.com/r/news/comments/ompbui/kenyan_fuel_tanker_explodes_killing_at_least_13/"></link>
+    <updated>2021-07-18T12:08:03+00:00</updated>
+    <published>2021-07-18T12:08:03+00:00</published>
+    <title>Kenyan fuel tanker explodes killing at least 13 - BBC News</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/notkenneth</name>
       <uri>https://www.reddit.com/user/notkenneth</uri>
     </author>
@@ -5298,6 +5311,19 @@
     <updated>2021-07-15T07:48:45+00:00</updated>
     <published>2021-07-15T07:48:45+00:00</published>
     <title>Baton Rouge man builds levees to protect property from flooding, city sues him</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/trevstan1</name>
+      <uri>https://www.reddit.com/user/trevstan1</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/trevstan1"&gt; /u/trevstan1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/sport/olympics/57844406"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ompuoq/first_athletes_have_covid_at_olympic_village/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ompuoq</id>
+    <link href="https://www.reddit.com/r/news/comments/ompuoq/first_athletes_have_covid_at_olympic_village/"></link>
+    <updated>2021-07-18T12:45:29+00:00</updated>
+    <published>2021-07-18T12:45:29+00:00</published>
+    <title>First athletes have Covid at Olympic village</title>
   </entry>
   <entry>
     <author>
