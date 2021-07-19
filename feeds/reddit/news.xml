@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T03:40:15+00:00</updated>
+  <updated>2021-07-19T04:47:46+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2737,6 +2737,19 @@
     <updated>2021-07-17T11:39:00+00:00</updated>
     <published>2021-07-17T11:39:00+00:00</published>
     <title>Daughter of Aghan envoy kidnapped, tortured in Pakistan</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/WSB_stonks_up</name>
+      <uri>https://www.reddit.com/user/WSB_stonks_up</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/WSB_stonks_up"&gt; /u/WSB_stonks_up &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnbc.com/2021/07/18/jj-exploring-putting-talc-liabilities-into-bankruptcy-sources-say.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/on694s/jj_is_reportedly_exploring_putting_talc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_on694s</id>
+    <link href="https://www.reddit.com/r/news/comments/on694s/jj_is_reportedly_exploring_putting_talc/"></link>
+    <updated>2021-07-19T03:51:18+00:00</updated>
+    <published>2021-07-19T03:51:18+00:00</published>
+    <title>J&amp;J is reportedly exploring putting talc liabilities into new business that would file for bankruptcy</title>
   </entry>
   <entry>
     <author>
