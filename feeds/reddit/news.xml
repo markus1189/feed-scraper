@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T05:32:34+00:00</updated>
+  <updated>2021-07-19T06:46:58+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4726,6 +4726,19 @@
     <updated>2021-07-13T03:50:20+00:00</updated>
     <published>2021-07-13T03:50:20+00:00</published>
     <title>Tokyo police arrests 4 Olympics workers for cocaine usage</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nedryerson48</name>
+      <uri>https://www.reddit.com/user/nedryerson48</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/americas/costa-rica-seizes-43-tons-colombian-cocaine-2nd-biggest-bust-its-history-2021-07-19/?taid=60f4f9f94f7e8d0001f2af4c&amp;amp;utm_campaign=trueAnthem:+Trending+Content&amp;amp;utm_medium=trueAnthem&amp;amp;utm_source=twitter"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/on6jlp/costa_rica_seizes_43_tons_of_colombian_cocaine/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_on6jlp</id>
+    <link href="https://www.reddit.com/r/news/comments/on6jlp/costa_rica_seizes_43_tons_of_colombian_cocaine/"></link>
+    <updated>2021-07-19T04:10:27+00:00</updated>
+    <published>2021-07-19T04:10:27+00:00</published>
+    <title>Costa Rica seizes 4.3 tons of Colombian cocaine, 2nd-biggest bust in its history</title>
   </entry>
   <entry>
     <author>
