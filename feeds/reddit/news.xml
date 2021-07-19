@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T01:35:54+00:00</updated>
+  <updated>2021-07-19T02:44:23+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -969,6 +969,19 @@
     <updated>2021-07-16T08:20:30+00:00</updated>
     <published>2021-07-16T08:20:30+00:00</published>
     <title>Prosecutors said a Capitol rioter left a probation officer an obscene voicemail. Now, his bail has been revoked.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Dont-Do-Stupid-Shit</name>
+      <uri>https://www.reddit.com/user/Dont-Do-Stupid-Shit</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Dont-Do-Stupid-Shit"&gt; /u/Dont-Do-Stupid-Shit &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fox4news.com/news/man-arrested-for-shooting-at-police-code-compliance-crew-over-unkept-lawn"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omw4di/man_arrested_for_shooting_at_police_code/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omw4di</id>
+    <link href="https://www.reddit.com/r/news/comments/omw4di/man_arrested_for_shooting_at_police_code/"></link>
+    <updated>2021-07-18T18:19:49+00:00</updated>
+    <published>2021-07-18T18:19:49+00:00</published>
+    <title>Man arrested for shooting at police, code compliance crew over unkept lawn</title>
   </entry>
   <entry>
     <author>
@@ -2692,6 +2705,19 @@
       <uri>https://www.reddit.com/user/Veldron</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Veldron"&gt; /u/Veldron &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/world-europe-57883392"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/on3r64/kurt_westergaard_danish_cartoonist_behind/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_on3r64</id>
+    <link href="https://www.reddit.com/r/news/comments/on3r64/kurt_westergaard_danish_cartoonist_behind/"></link>
+    <updated>2021-07-19T01:13:15+00:00</updated>
+    <published>2021-07-19T01:13:15+00:00</published>
+    <title>Kurt Westergaard, Danish cartoonist behind Muhammad cartoon, dies at 86</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Veldron</name>
+      <uri>https://www.reddit.com/user/Veldron</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Veldron"&gt; /u/Veldron &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/world-us-canada-57830677"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ok2gsx/masih_alinejad_iranians_plotted_to_kidnap_us/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ok2gsx</id>
     <link href="https://www.reddit.com/r/news/comments/ok2gsx/masih_alinejad_iranians_plotted_to_kidnap_us/"></link>
@@ -4297,6 +4323,19 @@
     <updated>2021-07-08T04:14:26+00:00</updated>
     <published>2021-07-08T04:14:26+00:00</published>
     <title>After 15 years and $500m, the US Navy decides it doesn't need shipboard railguns after all</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marsianer</name>
+      <uri>https://www.reddit.com/user/marsianer</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marsianer"&gt; /u/marsianer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/International/russias-mysterious-campaign-jehovahs-witnesses/story?id=78629389"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omzytl/russias_mysterious_campaign_against_jehovahs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omzytl</id>
+    <link href="https://www.reddit.com/r/news/comments/omzytl/russias_mysterious_campaign_against_jehovahs/"></link>
+    <updated>2021-07-18T21:36:27+00:00</updated>
+    <published>2021-07-18T21:36:27+00:00</published>
+    <title>Russia's mysterious campaign against Jehovah's Witnesses</title>
   </entry>
   <entry>
     <author>
