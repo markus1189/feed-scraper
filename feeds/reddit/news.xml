@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T08:38:53+00:00</updated>
+  <updated>2021-07-19T09:39:11+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -98,6 +98,19 @@
     <updated>2021-07-16T04:25:41+00:00</updated>
     <published>2021-07-16T04:25:41+00:00</published>
     <title>Western US and Canada brace for another heatwave amid more than 70 wildfires</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Adorable-Employer-74</name>
+      <uri>https://www.reddit.com/user/Adorable-Employer-74</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Adorable-Employer-74"&gt; /u/Adorable-Employer-74 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.thehindu.com/news/national/pegasus-spyware-used-to-snoop-on-indian-journalists-activists/article35399573.ece"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/on6z6x/pegasus_spyware_used_to_snoop_on_indian/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_on6z6x</id>
+    <link href="https://www.reddit.com/r/news/comments/on6z6x/pegasus_spyware_used_to_snoop_on_indian/"></link>
+    <updated>2021-07-19T04:40:19+00:00</updated>
+    <published>2021-07-19T04:40:19+00:00</published>
+    <title>Pegasus spyware used to ‘snoop’ on Indian journalists, activists</title>
   </entry>
   <entry>
     <author>
@@ -5922,6 +5935,19 @@
     <updated>2021-07-18T23:26:21+00:00</updated>
     <published>2021-07-18T23:26:21+00:00</published>
     <title>Australia to deport Britain's Katie Hopkins after quarantine breach</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/very_excited</name>
+      <uri>https://www.reddit.com/user/very_excited</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/very_excited"&gt; /u/very_excited &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.stripes.com/theaters/us/2021-07-19/florida-man-faces-felony-sentencing-Jan.-6-Capitol-riot-2190102.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ona6vq/florida_man_faces_first_sentencing_for_felony_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ona6vq</id>
+    <link href="https://www.reddit.com/r/news/comments/ona6vq/florida_man_faces_first_sentencing_for_felony_in/"></link>
+    <updated>2021-07-19T08:53:53+00:00</updated>
+    <published>2021-07-19T08:53:53+00:00</published>
+    <title>Florida man faces first sentencing for felony in riot at US Capitol</title>
   </entry>
   <entry>
     <author>
