@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T04:47:46+00:00</updated>
+  <updated>2021-07-19T05:32:34+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -657,6 +657,19 @@
     <updated>2021-07-15T22:11:41+00:00</updated>
     <published>2021-07-15T22:11:41+00:00</published>
     <title>Los Angeles County to restores indoor mask mandate for all</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ChintanP04</name>
+      <uri>https://www.reddit.com/user/ChintanP04</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ChintanP04"&gt; /u/ChintanP04 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.hindustantimes.com/world-news/pakistani-fighters-taliban-told-to-target-india-built-assets-in-afghanistan-report-101626609876295.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/on3lxc/pakistani_fighters_taliban_told_to_target/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_on3lxc</id>
+    <link href="https://www.reddit.com/r/news/comments/on3lxc/pakistani_fighters_taliban_told_to_target/"></link>
+    <updated>2021-07-19T01:04:25+00:00</updated>
+    <published>2021-07-19T01:04:25+00:00</published>
+    <title>Pakistani fighters, Taliban told to target India-built assets in Afghanistan</title>
   </entry>
   <entry>
     <author>
@@ -5077,6 +5090,19 @@
     <updated>2021-07-14T03:12:08+00:00</updated>
     <published>2021-07-14T03:12:08+00:00</published>
     <title>Norwegian Cruise Line sues Florida over prohibition on vaccine requirements.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/rickiii3</name>
+      <uri>https://www.reddit.com/user/rickiii3</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/rickiii3"&gt; /u/rickiii3 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/business/personal-finance/investment-firm-tiaa-pay-97-million-settlement-pushing-customers-higher-n1273853"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/on60v5/tiaa_to_pay_97_million_for_pushing_investors_into/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_on60v5</id>
+    <link href="https://www.reddit.com/r/news/comments/on60v5/tiaa_to_pay_97_million_for_pushing_investors_into/"></link>
+    <updated>2021-07-19T03:36:13+00:00</updated>
+    <published>2021-07-19T03:36:13+00:00</published>
+    <title>TIAA to pay $97 million for pushing investors into higher-fee accounts</title>
   </entry>
   <entry>
     <author>
