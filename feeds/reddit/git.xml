@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-19T15:43:06+00:00</updated>
+  <updated>2021-07-19T16:59:54+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -942,6 +942,19 @@
     <updated>2021-07-15T21:51:04+00:00</updated>
     <published>2021-07-15T21:51:04+00:00</published>
     <title>Girl doesn't Git it</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/kolibril13</name>
+      <uri>https://www.reddit.com/user/kolibril13</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/kolibril13"&gt; /u/kolibril13 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://i.redd.it/fiasvld677c71.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/onhucu/is_it_a_good_idea_to_have_git_workflow_in_a/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onhucu</id>
+    <link href="https://www.reddit.com/r/git/comments/onhucu/is_it_a_good_idea_to_have_git_workflow_in_a/"></link>
+    <updated>2021-07-19T16:42:59+00:00</updated>
+    <published>2021-07-19T16:42:59+00:00</published>
+    <title>Is it a good idea to have git workflow in a Jupyter notebook? 🤔</title>
   </entry>
   <entry>
     <author>

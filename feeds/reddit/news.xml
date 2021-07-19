@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T15:43:09+00:00</updated>
+  <updated>2021-07-19T16:59:56+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4391,6 +4391,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/jurornumber1</name>
+      <uri>https://www.reddit.com/user/jurornumber1</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jurornumber1"&gt; /u/jurornumber1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/world/2013/sep/30/nsa-americans-metadata-year-documents"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ongjrb/nsa_stores_metadata_of_millions_of_web_users_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ongjrb</id>
+    <link href="https://www.reddit.com/r/news/comments/ongjrb/nsa_stores_metadata_of_millions_of_web_users_for/"></link>
+    <updated>2021-07-19T15:39:28+00:00</updated>
+    <published>2021-07-19T15:39:28+00:00</published>
+    <title>NSA stores metadata of millions of web users for up to a year, secret files show</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/kiddenz</name>
       <uri>https://www.reddit.com/user/kiddenz</uri>
     </author>
@@ -4804,6 +4817,19 @@
     <updated>2021-07-10T18:36:58+00:00</updated>
     <published>2021-07-10T18:36:58+00:00</published>
     <title>Nebraska zoo says 200 people possibly exposed to rabid bat</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/nedryerson48</name>
+      <uri>https://www.reddit.com/user/nedryerson48</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/justice-department-reporters-records-merrick-garland-e2348419815ef84dc75cbecd7e546b39?utm_medium=AP&amp;amp;utm_source=Twitter&amp;amp;utm_campaign=SocialFlow"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ongmzk/garland_formally_prohibits_seizure_of_reporters/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ongmzk</id>
+    <link href="https://www.reddit.com/r/news/comments/ongmzk/garland_formally_prohibits_seizure_of_reporters/"></link>
+    <updated>2021-07-19T15:43:49+00:00</updated>
+    <published>2021-07-19T15:43:49+00:00</published>
+    <title>Garland formally prohibits seizure of reporters' records</title>
   </entry>
   <entry>
     <author>
