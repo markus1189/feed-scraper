@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T17:41:39+00:00</updated>
+  <updated>2021-07-19T18:46:41+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3738,6 +3738,19 @@
     <updated>2021-07-17T17:35:10+00:00</updated>
     <published>2021-07-17T17:35:10+00:00</published>
     <title>Canada's vaccination rate overtakes US</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/czwblitz</name>
+      <uri>https://www.reddit.com/user/czwblitz</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/czwblitz"&gt; /u/czwblitz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.lehighvalleylive.com/lehigh-county/2021/07/man-who-crashed-through-airport-fence-drove-toward-full-plane-taking-off-cops-say.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ongv08/man_who_crashed_through_airport_fence_drove/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ongv08</id>
+    <link href="https://www.reddit.com/r/news/comments/ongv08/man_who_crashed_through_airport_fence_drove/"></link>
+    <updated>2021-07-19T15:54:42+00:00</updated>
+    <published>2021-07-19T15:54:42+00:00</published>
+    <title>Man who crashed through airport fence drove toward full plane taking off, cops say</title>
   </entry>
   <entry>
     <author>
