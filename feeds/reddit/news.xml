@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-18T23:34:42+00:00</updated>
+  <updated>2021-07-19T01:35:54+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2025,6 +2025,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/PandaMuffin1</name>
+      <uri>https://www.reddit.com/user/PandaMuffin1</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PandaMuffin1"&gt; /u/PandaMuffin1 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/washington-nationals-game-halted-shooting-park-fans-told/story?id=78907123"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/omyx0y/vehicle_of_interest_wanted_in_triple_shooting/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_omyx0y</id>
+    <link href="https://www.reddit.com/r/news/comments/omyx0y/vehicle_of_interest_wanted_in_triple_shooting/"></link>
+    <updated>2021-07-18T20:42:02+00:00</updated>
+    <published>2021-07-18T20:42:02+00:00</published>
+    <title>Vehicle of interest wanted in triple shooting outside Washington Nationals game</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Papintukas</name>
       <uri>https://www.reddit.com/user/Papintukas</uri>
     </author>
@@ -3218,6 +3231,19 @@
     <updated>2021-07-17T12:35:23+00:00</updated>
     <published>2021-07-17T12:35:23+00:00</published>
     <title>Feds crack down on brothers behind 45 million illegal robocalls</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/blaspheminCapn</name>
+      <uri>https://www.reddit.com/user/blaspheminCapn</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/blaspheminCapn"&gt; /u/blaspheminCapn &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/18/hufcor-factory-janesivlle-wisconsin-opengate-capital"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/on2yv3/wisconsin_workers_fight_factory_move_to_mexico/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_on2yv3</id>
+    <link href="https://www.reddit.com/r/news/comments/on2yv3/wisconsin_workers_fight_factory_move_to_mexico/"></link>
+    <updated>2021-07-19T00:25:04+00:00</updated>
+    <published>2021-07-19T00:25:04+00:00</published>
+    <title>Wisconsin workers fight factory move to Mexico: ‘Anxiety is through the roof’</title>
   </entry>
   <entry>
     <author>
@@ -5779,6 +5805,19 @@
     <updated>2021-07-16T21:25:40+00:00</updated>
     <published>2021-07-16T21:25:40+00:00</published>
     <title>Greenland ceases oil exploration due to climate change: ‘The future does not lie in oil’</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/very_excited</name>
+      <uri>https://www.reddit.com/user/very_excited</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/very_excited"&gt; /u/very_excited &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/uk/australia-deport-britains-katie-hopkins-after-quarantine-breach-2021-07-18"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/on1zrq/australia_to_deport_britains_katie_hopkins_after/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_on1zrq</id>
+    <link href="https://www.reddit.com/r/news/comments/on1zrq/australia_to_deport_britains_katie_hopkins_after/"></link>
+    <updated>2021-07-18T23:26:21+00:00</updated>
+    <published>2021-07-18T23:26:21+00:00</published>
+    <title>Australia to deport Britain's Katie Hopkins after quarantine breach</title>
   </entry>
   <entry>
     <author>
