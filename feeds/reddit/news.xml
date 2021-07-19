@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T20:35:12+00:00</updated>
+  <updated>2021-07-19T21:37:21+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1115,6 +1115,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Exastiken</name>
+      <uri>https://www.reddit.com/user/Exastiken</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Exastiken"&gt; /u/Exastiken &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.pbs.org/newshour/economy/ben-jerrys-to-stop-sales-in-west-bank-east-jerusalem"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onlxqx/ben_jerrys_to_stop_sales_in_west_bank_east/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onlxqx</id>
+    <link href="https://www.reddit.com/r/news/comments/onlxqx/ben_jerrys_to_stop_sales_in_west_bank_east/"></link>
+    <updated>2021-07-19T20:00:40+00:00</updated>
+    <published>2021-07-19T20:00:40+00:00</published>
+    <title>Ben &amp; Jerry's to stop sales in West Bank, east Jerusalem</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/FarSlighted</name>
       <uri>https://www.reddit.com/user/FarSlighted</uri>
     </author>
@@ -2139,6 +2152,19 @@
     <updated>2021-07-19T13:12:54+00:00</updated>
     <published>2021-07-19T13:12:54+00:00</published>
     <title>Accessory to murder suspect caught after commenting on Tulsa police Facebook post</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Ocean_Beast</name>
+      <uri>https://www.reddit.com/user/Ocean_Beast</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Ocean_Beast"&gt; /u/Ocean_Beast &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.newschannel5.com/news/off-duty-decherd-officer-accused-of-pointing-police-issued-gun-at-driver-during-road-rage-incident"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onmmba/offduty_decherd_officer_accused_of_pointing/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onmmba</id>
+    <link href="https://www.reddit.com/r/news/comments/onmmba/offduty_decherd_officer_accused_of_pointing/"></link>
+    <updated>2021-07-19T20:34:45+00:00</updated>
+    <published>2021-07-19T20:34:45+00:00</published>
+    <title>Off-duty Decherd officer accused of pointing police-issued gun at driver during road rage incident</title>
   </entry>
   <entry>
     <author>
