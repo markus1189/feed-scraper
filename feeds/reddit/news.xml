@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T12:56:25+00:00</updated>
+  <updated>2021-07-19T13:37:53+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2048,6 +2048,19 @@
     <updated>2021-07-12T13:33:43+00:00</updated>
     <published>2021-07-12T13:33:43+00:00</published>
     <title>'We are no longer afraid': Thousands of Cubans protest against the government</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Ok-Salamander-2787</name>
+      <uri>https://www.reddit.com/user/Ok-Salamander-2787</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Ok-Salamander-2787"&gt; /u/Ok-Salamander-2787 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.news.com.au/technology/innovation/military/china-threatens-to-nuke-japan-if-country-intervenes-in-taiwan-conflict/news-story/d9af14dc6b90628082e79ab4c77629e1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ondjkb/china_threatens_to_nuke_japan_if_country/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ondjkb</id>
+    <link href="https://www.reddit.com/r/news/comments/ondjkb/china_threatens_to_nuke_japan_if_country/"></link>
+    <updated>2021-07-19T12:59:13+00:00</updated>
+    <published>2021-07-19T12:59:13+00:00</published>
+    <title>China threatens to nuke Japan if country intervenes in Taiwan conflict</title>
   </entry>
   <entry>
     <author>
@@ -5545,6 +5558,19 @@
     <updated>2021-07-11T21:58:26+00:00</updated>
     <published>2021-07-11T21:58:26+00:00</published>
     <title>Cubans Denounce ‘Misery’ in Biggest Protests in Decades</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/suppersready90</name>
+      <uri>https://www.reddit.com/user/suppersready90</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/suppersready90"&gt; /u/suppersready90 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://local12.com/news/local/local-firefighters-rescue-dog-stuck-between-concrete-walls"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ond6xb/local_firefighters_rescue_dog_stuck_between/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ond6xb</id>
+    <link href="https://www.reddit.com/r/news/comments/ond6xb/local_firefighters_rescue_dog_stuck_between/"></link>
+    <updated>2021-07-19T12:36:39+00:00</updated>
+    <published>2021-07-19T12:36:39+00:00</published>
+    <title>Local firefighters rescue dog stuck between concrete walls</title>
   </entry>
   <entry>
     <author>
