@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T11:32:50+00:00</updated>
+  <updated>2021-07-19T12:56:25+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4053,6 +4053,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/hugglenugget</name>
+      <uri>https://www.reddit.com/user/hugglenugget</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/hugglenugget"&gt; /u/hugglenugget &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/world/2021/jul/18/nso-spyware-used-to-target-family-of-jamal-khashoggi-leaked-data-shows-saudis-pegasus?CMP=Share_AndroidApp_Other"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onciv1/saudis_behind_nso_spyware_attack_on_jamal/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onciv1</id>
+    <link href="https://www.reddit.com/r/news/comments/onciv1/saudis_behind_nso_spyware_attack_on_jamal/"></link>
+    <updated>2021-07-19T11:52:59+00:00</updated>
+    <published>2021-07-19T11:52:59+00:00</published>
+    <title>Saudis behind NSO spyware attack on Jamal Khashoggi’s family, leak suggests</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/hydromies</name>
       <uri>https://www.reddit.com/user/hydromies</uri>
     </author>
@@ -5483,6 +5496,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/stillness0072</name>
+      <uri>https://www.reddit.com/user/stillness0072</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/stillness0072"&gt; /u/stillness0072 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/microsoft-exchange-hack-biden-china-d533f5361cbc3374fdea58d3fb059f35"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onbzzi/microsoft_exchange_email_hack_was_caused_by_china/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onbzzi</id>
+    <link href="https://www.reddit.com/r/news/comments/onbzzi/microsoft_exchange_email_hack_was_caused_by_china/"></link>
+    <updated>2021-07-19T11:16:06+00:00</updated>
+    <published>2021-07-19T11:16:06+00:00</published>
+    <title>Microsoft Exchange email hack was caused by China, US says</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/stoolsample2</name>
       <uri>https://www.reddit.com/user/stoolsample2</uri>
     </author>
@@ -5714,6 +5740,19 @@
     <updated>2021-07-10T11:27:39+00:00</updated>
     <published>2021-07-10T11:27:39+00:00</published>
     <title>Robert E. Lee statue removal underway in Charlottesville</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/tool101</name>
+      <uri>https://www.reddit.com/user/tool101</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tool101"&gt; /u/tool101 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/science-fires-environment-and-nature-wildfires-3f102582aa78c2400a95374a2fb07529"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onbzwe/dangerous_conditions_complicate_wildfire_fight_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onbzwe</id>
+    <link href="https://www.reddit.com/r/news/comments/onbzwe/dangerous_conditions_complicate_wildfire_fight_in/"></link>
+    <updated>2021-07-19T11:15:56+00:00</updated>
+    <published>2021-07-19T11:15:56+00:00</published>
+    <title>Dangerous conditions complicate wildfire fight in western US</title>
   </entry>
   <entry>
     <author>
@@ -6013,6 +6052,19 @@
     <updated>2021-07-17T20:51:08+00:00</updated>
     <published>2021-07-17T20:51:08+00:00</published>
     <title>1 dead, 6 injured in downtown Portland shooting</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/youryankeebluejeans</name>
+      <uri>https://www.reddit.com/user/youryankeebluejeans</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/youryankeebluejeans"&gt; /u/youryankeebluejeans &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/amp/news/us-olympic-gymnast-covid-test-positive-tokyo-summer-games-coronavirus/#app"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oncim1/american_olympic_gymnast_tests_positive_for_covid/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oncim1</id>
+    <link href="https://www.reddit.com/r/news/comments/oncim1/american_olympic_gymnast_tests_positive_for_covid/"></link>
+    <updated>2021-07-19T11:52:25+00:00</updated>
+    <published>2021-07-19T11:52:25+00:00</published>
+    <title>American Olympic gymnast tests positive for COVID</title>
   </entry>
   <entry>
     <author>
