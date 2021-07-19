@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-19T21:37:21+00:00</updated>
+  <updated>2021-07-19T22:36:39+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1125,6 +1125,19 @@
     <updated>2021-07-19T20:00:40+00:00</updated>
     <published>2021-07-19T20:00:40+00:00</published>
     <title>Ben &amp; Jerry's to stop sales in West Bank, east Jerusalem</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Exastiken</name>
+      <uri>https://www.reddit.com/user/Exastiken</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Exastiken"&gt; /u/Exastiken &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.pbs.org/newshour/education/california-launches-largest-free-school-lunch-program-in-u-s"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onn7ph/california_launches_largest_free_school_lunch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onn7ph</id>
+    <link href="https://www.reddit.com/r/news/comments/onn7ph/california_launches_largest_free_school_lunch/"></link>
+    <updated>2021-07-19T21:04:31+00:00</updated>
+    <published>2021-07-19T21:04:31+00:00</published>
+    <title>California launches largest free school lunch program in U.S.</title>
   </entry>
   <entry>
     <author>
@@ -4157,6 +4170,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/fpoiuyt</name>
+      <uri>https://www.reddit.com/user/fpoiuyt</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/fpoiuyt"&gt; /u/fpoiuyt &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews4.com/news/nation-world/volunteer-childrens-director-arrested-after-more-victims-come-forward"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ono34u/report_baptist_childrens_director_accused_of/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ono34u</id>
+    <link href="https://www.reddit.com/r/news/comments/ono34u/report_baptist_childrens_director_accused_of/"></link>
+    <updated>2021-07-19T21:48:30+00:00</updated>
+    <published>2021-07-19T21:48:30+00:00</published>
+    <title>Report: Baptist children's director accused of child porn also used hidden restroom cam</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/gdmfsobtc</name>
       <uri>https://www.reddit.com/user/gdmfsobtc</uri>
     </author>
@@ -4414,6 +4440,19 @@
     <updated>2021-07-16T23:42:58+00:00</updated>
     <published>2021-07-16T23:42:58+00:00</published>
     <title>Teen accused of stabbing girl 114 times allegedly asked how her death was his 'problem'</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/jaffacakes077</name>
+      <uri>https://www.reddit.com/user/jaffacakes077</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jaffacakes077"&gt; /u/jaffacakes077 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/19/politics/tarrio-proud-boys-guilty-plea/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onna3n/proud_boys_leader_pleads_guilty_to_burning_dc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onna3n</id>
+    <link href="https://www.reddit.com/r/news/comments/onna3n/proud_boys_leader_pleads_guilty_to_burning_dc/"></link>
+    <updated>2021-07-19T21:07:48+00:00</updated>
+    <published>2021-07-19T21:07:48+00:00</published>
+    <title>Proud Boys leader pleads guilty to burning DC church's Black Lives Matter banner | CNN Politics</title>
   </entry>
   <entry>
     <author>
