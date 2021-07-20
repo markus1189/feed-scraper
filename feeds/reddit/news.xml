@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T17:40:44+00:00</updated>
+  <updated>2021-07-20T18:44:26+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3364,6 +3364,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/amnesiac7</name>
+      <uri>https://www.reddit.com/user/amnesiac7</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/amnesiac7"&gt; /u/amnesiac7 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.mprnews.org/story/2021/07/20/npr-low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo7jxi/low_pay_no_benefits_rude_customers_restaurant/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo7jxi</id>
+    <link href="https://www.reddit.com/r/news/comments/oo7jxi/low_pay_no_benefits_rude_customers_restaurant/"></link>
+    <updated>2021-07-20T18:08:08+00:00</updated>
+    <published>2021-07-20T18:08:08+00:00</published>
+    <title>Low pay, no benefits, rude customers: Restaurant workers quit at record rate</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/amprather</name>
       <uri>https://www.reddit.com/user/amprather</uri>
     </author>
@@ -4538,6 +4551,19 @@
       <uri>https://www.reddit.com/user/guntherbumpass</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/guntherbumpass"&gt; /u/guntherbumpass &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcstlouis.com/news/offbeat/teen-driver-swerves-to-miss-squirrel-crashes-into-lincolns-historic-family-home"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo62w3/teen_driver_swerves_to_miss_squirrel_crashes_into/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo62w3</id>
+    <link href="https://www.reddit.com/r/news/comments/oo62w3/teen_driver_swerves_to_miss_squirrel_crashes_into/"></link>
+    <updated>2021-07-20T16:56:22+00:00</updated>
+    <published>2021-07-20T16:56:22+00:00</published>
+    <title>Teen driver swerves to miss squirrel, crashes into Lincoln's historic family home</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/guntherbumpass</name>
+      <uri>https://www.reddit.com/user/guntherbumpass</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/guntherbumpass"&gt; /u/guntherbumpass &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/trouble-alaska-massive-oil-pipeline-threatened-thawing-permafrost-n1273589"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oi7sgz/trouble_in_alaska_massive_oil_pipeline_is/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_oi7sgz</id>
     <link href="https://www.reddit.com/r/news/comments/oi7sgz/trouble_in_alaska_massive_oil_pipeline_is/"></link>
@@ -5457,6 +5483,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/nedryerson48</name>
+      <uri>https://www.reddit.com/user/nedryerson48</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/nedryerson48"&gt; /u/nedryerson48 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/us/us-agencies-report-rising-number-unruly-airline-passengers-2021-07-20/?taid=60f7036b4f7e8d0001f2bacd&amp;amp;utm_campaign=trueAnthem:+Trending+Content&amp;amp;utm_medium=trueAnthem&amp;amp;utm_source=twitter"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo6fdy/us_inflight_disturbances_jump_500_85_tsa_officers/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo6fdy</id>
+    <link href="https://www.reddit.com/r/news/comments/oo6fdy/us_inflight_disturbances_jump_500_85_tsa_officers/"></link>
+    <updated>2021-07-20T17:12:44+00:00</updated>
+    <published>2021-07-20T17:12:44+00:00</published>
+    <title>U.S. inflight disturbances jump 500%, 85 TSA officers assaulted</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/nellieg68</name>
       <uri>https://www.reddit.com/user/nellieg68</uri>
     </author>
@@ -5753,6 +5792,19 @@
     <updated>2021-07-17T19:01:28+00:00</updated>
     <published>2021-07-17T19:01:28+00:00</published>
     <title>Third strike: Anaheim venue latest to cancel Reps. Gaetz and Greene’s America First rally</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/powerfulphotography</name>
+      <uri>https://www.reddit.com/user/powerfulphotography</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/powerfulphotography"&gt; /u/powerfulphotography &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.independent.co.uk/news/world/americas/us-politics/dea-agent-capitol-riot-arrest-b1887471.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo71pr/dea_agent_arrested_after_filming_himself_with/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo71pr</id>
+    <link href="https://www.reddit.com/r/news/comments/oo71pr/dea_agent_arrested_after_filming_himself_with/"></link>
+    <updated>2021-07-20T17:43:41+00:00</updated>
+    <published>2021-07-20T17:43:41+00:00</published>
+    <title>DEA agent arrested after filming himself with firearm while storming Capitol</title>
   </entry>
   <entry>
     <author>
