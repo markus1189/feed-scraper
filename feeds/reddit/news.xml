@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T15:43:11+00:00</updated>
+  <updated>2021-07-20T16:59:35+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -891,6 +891,19 @@
     <updated>2021-07-16T17:07:03+00:00</updated>
     <published>2021-07-16T17:07:03+00:00</published>
     <title>Delta COVID variant now dominant strain worldwide; U.S. deaths surge -officials</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Defluvium</name>
+      <uri>https://www.reddit.com/user/Defluvium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Defluvium"&gt; /u/Defluvium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/lifestyle/sports/iocs-bach-lauds-medical-workers-says-games-will-send-powerful-message-peace-2021-07-20/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo2tur/tokyo_2020_chief_muto_doesnt_rule_out_cancelling/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo2tur</id>
+    <link href="https://www.reddit.com/r/news/comments/oo2tur/tokyo_2020_chief_muto_doesnt_rule_out_cancelling/"></link>
+    <updated>2021-07-20T14:12:41+00:00</updated>
+    <published>2021-07-20T14:12:41+00:00</published>
+    <title>Tokyo 2020 chief Muto doesn't rule out cancelling Games</title>
   </entry>
   <entry>
     <author>
@@ -2757,6 +2770,19 @@
       <uri>https://www.reddit.com/user/Sumit316</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Sumit316"&gt; /u/Sumit316 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/sports-2020-tokyo-olympics-health-tokyo-coronavirus-pandemic-3d7dcb39c13fabdd8cdf9ecd1b2ee3ef"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo3v52/total_covid19_cases_rise_to_71_at_tokyo_olympics/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo3v52</id>
+    <link href="https://www.reddit.com/r/news/comments/oo3v52/total_covid19_cases_rise_to_71_at_tokyo_olympics/"></link>
+    <updated>2021-07-20T15:07:05+00:00</updated>
+    <published>2021-07-20T15:07:05+00:00</published>
+    <title>Total COVID-19 cases rise to 71 at Tokyo Olympics</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Sumit316</name>
+      <uri>https://www.reddit.com/user/Sumit316</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Sumit316"&gt; /u/Sumit316 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/politics/national-security/code-huge-ransomware-attack-written-avoid-computers-use-russian-says-n1273222"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/og87i7/code_in_huge_ransomware_attack_written_to_avoid/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_og87i7</id>
     <link href="https://www.reddit.com/r/news/comments/og87i7/code_in_huge_ransomware_attack_written_to_avoid/"></link>
@@ -3728,6 +3754,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/brahbocop</name>
+      <uri>https://www.reddit.com/user/brahbocop</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/brahbocop"&gt; /u/brahbocop &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/20/upshot/medical-debt-americans-medicaid.html?referringSource=articleShare"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo4yua/americans_medical_debts_are_bigger_than_was_known/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo4yua</id>
+    <link href="https://www.reddit.com/r/news/comments/oo4yua/americans_medical_debts_are_bigger_than_was_known/"></link>
+    <updated>2021-07-20T16:01:32+00:00</updated>
+    <published>2021-07-20T16:01:32+00:00</published>
+    <title>Americans’ Medical Debts Are Bigger Than Was Known, Totaling $140 Billion</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/buildzeewallnow</name>
       <uri>https://www.reddit.com/user/buildzeewallnow</uri>
     </author>
@@ -4089,6 +4128,19 @@
     <updated>2021-07-10T10:42:14+00:00</updated>
     <published>2021-07-10T10:42:14+00:00</published>
     <title>Belgium recalls ambassador to Seoul after wife's second physical altercation</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/decent-rimjob</name>
+      <uri>https://www.reddit.com/user/decent-rimjob</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/decent-rimjob"&gt; /u/decent-rimjob &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/20/us/georgia-social-media-abuse-video-arrests/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo46ez/three_arrested_after_social_media_video_appeared/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo46ez</id>
+    <link href="https://www.reddit.com/r/news/comments/oo46ez/three_arrested_after_social_media_video_appeared/"></link>
+    <updated>2021-07-20T15:22:42+00:00</updated>
+    <published>2021-07-20T15:22:42+00:00</published>
+    <title>Three arrested after social media video appeared to show boy being abused</title>
   </entry>
   <entry>
     <author>
