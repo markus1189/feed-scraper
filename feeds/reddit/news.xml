@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T16:59:35+00:00</updated>
+  <updated>2021-07-20T17:40:44+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -436,6 +436,19 @@
     <updated>2021-07-16T20:14:23+00:00</updated>
     <published>2021-07-16T20:14:23+00:00</published>
     <title>Ugandan weightlifter goes missing during training camp in Japan for Tokyo Olympics</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Balls_of_Adamanthium</name>
+      <uri>https://www.reddit.com/user/Balls_of_Adamanthium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Balls_of_Adamanthium"&gt; /u/Balls_of_Adamanthium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/20/health/us-coronavirus-tuesday/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo4omr/highly_contagious_delta_variant_now_makes_up_83/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo4omr</id>
+    <link href="https://www.reddit.com/r/news/comments/oo4omr/highly_contagious_delta_variant_now_makes_up_83/"></link>
+    <updated>2021-07-20T15:47:43+00:00</updated>
+    <published>2021-07-20T15:47:43+00:00</published>
+    <title>Highly contagious Delta variant now makes up 83% of US coronavirus cases, CDC says</title>
   </entry>
   <entry>
     <author>
@@ -4791,6 +4804,19 @@
     <updated>2021-07-07T15:58:48+00:00</updated>
     <published>2021-07-07T15:58:48+00:00</published>
     <title>Trump sues Twitter, Google and Facebook, alleging 'censorship'</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/je97</name>
+      <uri>https://www.reddit.com/user/je97</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/je97"&gt; /u/je97 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.fr24news.com/a/2021/07/american-deafblind-paralympian-withdraws-from-tokyo-games-after-request-for-personal-assistant-refused.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo633g/american_deafblind_paralympian_withdraws_from/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo633g</id>
+    <link href="https://www.reddit.com/r/news/comments/oo633g/american_deafblind_paralympian_withdraws_from/"></link>
+    <updated>2021-07-20T16:56:38+00:00</updated>
+    <published>2021-07-20T16:56:38+00:00</published>
+    <title>American deafblind Paralympian withdraws from Tokyo Games after request for personal assistant refused</title>
   </entry>
   <entry>
     <author>
