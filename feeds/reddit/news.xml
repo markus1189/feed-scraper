@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T19:32:44+00:00</updated>
+  <updated>2021-07-20T20:35:57+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -618,6 +618,19 @@
     <updated>2021-07-09T18:06:41+00:00</updated>
     <published>2021-07-09T18:06:41+00:00</published>
     <title>The U.S. just experienced its hottest June on record</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Born_Salamander_8238</name>
+      <uri>https://www.reddit.com/user/Born_Salamander_8238</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Born_Salamander_8238"&gt; /u/Born_Salamander_8238 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/20/politics/pelosi-aide-covid-white-house-official/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo6jhj/a_white_house_official_and_a_senior_pelosi_aide/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo6jhj</id>
+    <link href="https://www.reddit.com/r/news/comments/oo6jhj/a_white_house_official_and_a_senior_pelosi_aide/"></link>
+    <updated>2021-07-20T17:18:13+00:00</updated>
+    <published>2021-07-20T17:18:13+00:00</published>
+    <title>A White House official and a senior Pelosi aide, both fully vaccinated, have tested positive for Covid-19</title>
   </entry>
   <entry>
     <author>
@@ -2285,6 +2298,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Mosanso</name>
+      <uri>https://www.reddit.com/user/Mosanso</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mosanso"&gt; /u/Mosanso &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/wireStory/church-youth-pastor-arrested-3rd-time-video-voyeurism-78944580?cid=clicksource_4380645_2_heads_hero_live_headlines_hed"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo8gkk/church_youth_pastor_arrested_3rd_time_for_video/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo8gkk</id>
+    <link href="https://www.reddit.com/r/news/comments/oo8gkk/church_youth_pastor_arrested_3rd_time_for_video/"></link>
+    <updated>2021-07-20T18:53:05+00:00</updated>
+    <published>2021-07-20T18:53:05+00:00</published>
+    <title>Church youth pastor arrested 3rd time for video voyeurism</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/Murderhands</name>
       <uri>https://www.reddit.com/user/Murderhands</uri>
     </author>
@@ -2659,6 +2685,19 @@
     <updated>2021-07-11T20:38:32+00:00</updated>
     <published>2021-07-11T20:38:32+00:00</published>
     <title>Virgin Galactic founder Richard Branson successfully rockets to outer space</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Rusty-Shackleford</name>
+      <uri>https://www.reddit.com/user/Rusty-Shackleford</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Rusty-Shackleford"&gt; /u/Rusty-Shackleford &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://whdh.com/news/i-hope-you-get-hit-by-a-car-after-customers-berate-staff-cape-restaurant-shuts-for-day-of-kindnesss/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo99j7/i_hope_you_get_hit_by_a_car_after_customers/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo99j7</id>
+    <link href="https://www.reddit.com/r/news/comments/oo99j7/i_hope_you_get_hit_by_a_car_after_customers/"></link>
+    <updated>2021-07-20T19:32:39+00:00</updated>
+    <published>2021-07-20T19:32:39+00:00</published>
+    <title>‘I hope you get hit by a car’: After customers berate staff, one restaurant in Massachusetts shuts for ‘Day of Kindness’</title>
   </entry>
   <entry>
     <author>
@@ -3868,6 +3907,19 @@
     <updated>2021-07-11T22:41:51+00:00</updated>
     <published>2021-07-11T22:41:51+00:00</published>
     <title>Gutter ball: Michigan man finds 160 bowling balls under home</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cardart</name>
+      <uri>https://www.reddit.com/user/cardart</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cardart"&gt; /u/cardart &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.abc.net.au/news/2021-07-21/harvey-weinstein-extradited/100309782"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo8ym5/harvey_weinstein_extradited_to_california_to_face/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo8ym5</id>
+    <link href="https://www.reddit.com/r/news/comments/oo8ym5/harvey_weinstein_extradited_to_california_to_face/"></link>
+    <updated>2021-07-20T19:17:51+00:00</updated>
+    <published>2021-07-20T19:17:51+00:00</published>
+    <title>Harvey Weinstein extradited to California to face new sex assault charges</title>
   </entry>
   <entry>
     <author>
@@ -6221,6 +6273,19 @@
     <updated>2021-07-08T16:21:37+00:00</updated>
     <published>2021-07-08T16:21:37+00:00</published>
     <title>Mask requirement returns at California state Capitol following COVID-19 outbreak</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/sometimestar</name>
+      <uri>https://www.reddit.com/user/sometimestar</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/sometimestar"&gt; /u/sometimestar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/science-environment-57904042"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo50xb/climate_change_us_pushes_china_to_make_faster/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo50xb</id>
+    <link href="https://www.reddit.com/r/news/comments/oo50xb/climate_change_us_pushes_china_to_make_faster/"></link>
+    <updated>2021-07-20T16:04:18+00:00</updated>
+    <published>2021-07-20T16:04:18+00:00</published>
+    <title>Climate change: US pushes China to make faster carbon cuts</title>
   </entry>
   <entry>
     <author>
