@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T03:40:12+00:00</updated>
+  <updated>2021-07-20T04:46:45+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4531,6 +4531,19 @@
     <updated>2021-07-19T21:07:48+00:00</updated>
     <published>2021-07-19T21:07:48+00:00</published>
     <title>Proud Boys leader pleads guilty to burning DC church's Black Lives Matter banner | CNN Politics</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/janjinx</name>
+      <uri>https://www.reddit.com/user/janjinx</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/janjinx"&gt; /u/janjinx &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.zdnet.com/article/law-firm-for-ford-boeing-exxon-marriott-walgreens-and-more-hacked-in-ransomware-attack/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ontg8o/law_firm_for_ford_boeing_exxon_marriott_walgreens/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ontg8o</id>
+    <link href="https://www.reddit.com/r/news/comments/ontg8o/law_firm_for_ford_boeing_exxon_marriott_walgreens/"></link>
+    <updated>2021-07-20T02:56:53+00:00</updated>
+    <published>2021-07-20T02:56:53+00:00</published>
+    <title>Law firm for Ford, Boeing, Exxon, Marriott, Walgreens and more hacked in ransomware attack | ZDNet</title>
   </entry>
   <entry>
     <author>

@@ -1,12 +1,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-20T03:40:10+00:00</updated>
+  <updated>2021-07-20T04:46:43+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
   <link rel="alternate" href="https://www.reddit.com/r/git" type="text/html"></link>
   <logo>https://b.thumbs.redditmedia.com/Bw40GDos1awbwVMD5-ChpEuIISbIvbfoWdVJOrmPuHI.png</logo>
   <title>git</title>
+  <entry>
+    <author>
+      <name>/u/AdDiscombobulated707</name>
+      <uri>https://www.reddit.com/user/AdDiscombobulated707</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello! I have the following commit history (outputted via &lt;code&gt;git rev-list HEAD&lt;/code&gt;):&lt;/p&gt; &lt;pre&gt;&lt;code&gt;03cc1ddb1a5694de1c3f12f0c6a668c481c37c5c 66d0196b4197de6a4718e81a6ab6a702c1657776 c21eed56bd816d7982f9151ba4ff3522d5e49b49 c02876ff6bbd6b2ed01581d6abffe9aa8f82b157 6e40adeb7aec45e780d7f8e28276963caf8b2bd6 61011fc19b2537bf9590c4e04a1d7cca7792c446 a9e0aec805a7fe81fda06084f54577ca0d92f474 ffa3a59387144d13f62d40e8fb5b79f676b83d29 fe46ce4e70f90c15d28fd6a76f6ce3cd0f888541 060ad0a60ca83f3e5d7ffcab67ae3732176a1c18 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;When I run &lt;code&gt;git rev-list c21eed56..HEAD&lt;/code&gt; I obtain expected result:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;03cc1ddb1a5694de1c3f12f0c6a668c481c37c5c 66d0196b4197de6a4718e81a6ab6a702c1657776 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;But if I execute &lt;code&gt;git rev-list HEAD ^c21eed56&lt;/code&gt; I get:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;03cc1ddb1a5694de1c3f12f0c6a668c481c37c5c 66d0196b4197de6a4718e81a6ab6a702c1657776 c21eed56bd816d7982f9151ba4ff3522d5e49b49 c02876ff6bbd6b2ed01581d6abffe9aa8f82b157 6e40adeb7aec45e780d7f8e28276963caf8b2bd6 61011fc19b2537bf9590c4e04a1d7cca7792c446 a9e0aec805a7fe81fda06084f54577ca0d92f474 ffa3a59387144d13f62d40e8fb5b79f676b83d29 fe46ce4e70f90c15d28fd6a76f6ce3cd0f888541 060ad0a60ca83f3e5d7ffcab67ae3732176a1c18 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;It is strange because according to &lt;a href="https://git-scm.com/docs/git-rev-list"&gt;docs&lt;/a&gt; it must work:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;A special notation &amp;quot;&lt;em&gt;&amp;lt;commit1&amp;gt;&lt;/em&gt;..&lt;em&gt;&amp;lt;commit2&amp;gt;&lt;/em&gt;&amp;quot; can be used as a short-hand for &amp;quot;^&lt;em&gt;&amp;lt;commit1&amp;gt;&lt;/em&gt; &lt;em&gt;&amp;lt;commit2&amp;gt;&lt;/em&gt;&amp;quot;. For example, either of the following may be used interchangeably: &lt;/p&gt; &lt;p&gt;$ git rev-list origin..HEAD &lt;/p&gt; &lt;p&gt;$ git rev-list HEAD ^origin &lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;I also tried &lt;code&gt;git rev-list ^c21eed56 HEAD&lt;/code&gt; but obtained the same result:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;03cc1ddb1a5694de1c3f12f0c6a668c481c37c5c 66d0196b4197de6a4718e81a6ab6a702c1657776 c21eed56bd816d7982f9151ba4ff3522d5e49b49 c02876ff6bbd6b2ed01581d6abffe9aa8f82b157 6e40adeb7aec45e780d7f8e28276963caf8b2bd6 61011fc19b2537bf9590c4e04a1d7cca7792c446 a9e0aec805a7fe81fda06084f54577ca0d92f474 ffa3a59387144d13f62d40e8fb5b79f676b83d29 fe46ce4e70f90c15d28fd6a76f6ce3cd0f888541 060ad0a60ca83f3e5d7ffcab67ae3732176a1c18 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;What am I missing? Is looks like a mistake in documentation.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AdDiscombobulated707"&gt; /u/AdDiscombobulated707 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/onupo6/strange_behavior_of_git_revlist_according_to/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/onupo6/strange_behavior_of_git_revlist_according_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onupo6</id>
+    <link href="https://www.reddit.com/r/git/comments/onupo6/strange_behavior_of_git_revlist_according_to/"></link>
+    <updated>2021-07-20T04:17:53+00:00</updated>
+    <published>2021-07-20T04:17:53+00:00</published>
+    <title>Strange behavior of git rev-list according to official docs</title>
+  </entry>
   <entry>
     <author>
       <name>/u/AdImmediate8078</name>
@@ -552,6 +565,19 @@
     <updated>2021-07-17T06:39:41+00:00</updated>
     <published>2021-07-17T06:39:41+00:00</published>
     <title>Looking for a tool to improve pull request experience</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/__pythonic_user__</name>
+      <uri>https://www.reddit.com/user/__pythonic_user__</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Let&amp;#39;s say I have a mini project whose git history looks like this:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;$ git log --graph --decorate --pretty=oneline --all --abbrev-commit * b53390c (HEAD -&amp;gt; main) mini-project 3 * d4ba0ec mini-project 2 * 63d4aff mini-project 1 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;...and a root project repo whose history looks like this:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;$ git log --graph --decorate --pretty=oneline --all --abbrev-commit * 70925ba (HEAD -&amp;gt; main) root 2 * 538af79 root 1 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;I want to add the mini-project as a subfolder in the root repo. I can add the updated contents manually and then perform a single commit in the root repo. &lt;em&gt;However, I want to preserve the commits of the mini-project (&lt;code&gt;b53390c&lt;/code&gt;, &lt;code&gt;d4ba0ec&lt;/code&gt;, &lt;code&gt;63d4aff&lt;/code&gt;).&lt;/em&gt;&lt;/p&gt; &lt;p&gt;I found a way to do this using &lt;code&gt;git subtree&lt;/code&gt;; it felt like the perfect tool for this:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;$ git subtree add -P mini-project ../mini-project/.git main git fetch ../mini-project/.git main remote: Enumerating objects: 9, done. remote: Counting objects: 100% (9/9), done. remote: Compressing objects: 100% (4/4), done. remote: Total 9 (delta 0), reused 0 (delta 0), pack-reused 0 Unpacking objects: 100% (9/9), 713 bytes | 1024 bytes/s, done. From ../mini-project/ * branch main -&amp;gt; FETCH_HEAD Added dir &amp;#39;mini-project&amp;#39; $ git log --graph --decorate --pretty=oneline --all --abbrev-commit * 16160c3 (HEAD -&amp;gt; main) Add &amp;#39;mini-project/&amp;#39; from commit &amp;#39;b53390c1057cb58ba34a6775b5c0c1334bba2cb4&amp;#39; |\ | * b53390c mini-project 3 | * d4ba0ec mini-project 2 | * 63d4aff mini-project 1 * 70925ba root 2 * 538af79 root 1 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;However, here&amp;#39;s my question. &lt;strong&gt;Once there are more commits in the mini project, how do I merge the updates (see &lt;code&gt;ea486b4&lt;/code&gt;, &lt;code&gt;8f78c20&lt;/code&gt; below) into the &lt;code&gt;mini-project&lt;/code&gt; sub-directory of the root repo?&lt;/strong&gt;&lt;/p&gt; &lt;pre&gt;&lt;code&gt;$ git log --graph --decorate --pretty=oneline --all --abbrev-commit * ea486b4 (HEAD -&amp;gt; main) mini-project 5 * 8f78c20 mini-project 4 * b53390c mini-project 3 * d4ba0ec mini-project 2 * 63d4aff mini-project 1 &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;I don&amp;#39;t think &lt;code&gt;git subtree merge&lt;/code&gt; command is going to help me here.&lt;/p&gt; &lt;p&gt;If &lt;code&gt;git subtree&lt;/code&gt; is not ideal here, can I use some other (more elegant) approach?&lt;/p&gt; &lt;p&gt;Edit: expanded alias I used earlier (&lt;code&gt;lol = log --graph --decorate --pretty=oneline --all --abbrev-commit&lt;/code&gt;).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/__pythonic_user__"&gt; /u/__pythonic_user__ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/onebcp/how_to_merge_updates_last_few_commits_from_a/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/onebcp/how_to_merge_updates_last_few_commits_from_a/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onebcp</id>
+    <link href="https://www.reddit.com/r/git/comments/onebcp/how_to_merge_updates_last_few_commits_from_a/"></link>
+    <updated>2021-07-19T13:43:27+00:00</updated>
+    <published>2021-07-19T13:43:27+00:00</published>
+    <title>How to merge updates (last few commits) from a source (local) repository with sub directory created using git subtree?</title>
   </entry>
   <entry>
     <author>
