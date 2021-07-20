@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T11:32:52+00:00</updated>
+  <updated>2021-07-20T12:55:40+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1944,6 +1944,19 @@
     <updated>2021-07-08T14:03:47+00:00</updated>
     <published>2021-07-08T14:03:47+00:00</published>
     <title>Volkswagen and BMW fined $1 billion for running emissions cartel</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/KymeStar</name>
+      <uri>https://www.reddit.com/user/KymeStar</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KymeStar"&gt; /u/KymeStar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/19/us/cruise-ship-killing-man-found-dead/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo06v8/man_convicted_of_murdering_his_wife_on_an_alaskan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo06v8</id>
+    <link href="https://www.reddit.com/r/news/comments/oo06v8/man_convicted_of_murdering_his_wife_on_an_alaskan/"></link>
+    <updated>2021-07-20T11:27:17+00:00</updated>
+    <published>2021-07-20T11:27:17+00:00</published>
+    <title>Man convicted of murdering his wife on an Alaskan cruise is found dead in his prison cell</title>
   </entry>
   <entry>
     <author>
@@ -4837,6 +4850,19 @@
       <uri>https://www.reddit.com/user/marsianer</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marsianer"&gt; /u/marsianer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/business-science-health-india-pandemics-334c326d86efa73a0631bf7cb6e3f92e?utm_source=Sailthru&amp;amp;utm_medium=email&amp;amp;utm_campaign=MorningWire_July20&amp;amp;utm_term=Morning%20Wire%20Subscribers"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onza37/indias_deaths_during_pandemic_10x_official_toll/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onza37</id>
+    <link href="https://www.reddit.com/r/news/comments/onza37/indias_deaths_during_pandemic_10x_official_toll/"></link>
+    <updated>2021-07-20T10:18:10+00:00</updated>
+    <published>2021-07-20T10:18:10+00:00</published>
+    <title>India's deaths during pandemic 10X official toll</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/marsianer</name>
+      <uri>https://www.reddit.com/user/marsianer</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/marsianer"&gt; /u/marsianer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/europe-technology-environment-and-nature-business-health-10d70ad75b4cfe7170a9045b18ae5f4b"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/og4ev1/eu_fines_4_german_car_makers_1b_over_emission/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_og4ev1</id>
     <link href="https://www.reddit.com/r/news/comments/og4ev1/eu_fines_4_german_car_makers_1b_over_emission/"></link>
@@ -5925,6 +5951,32 @@
   </entry>
   <entry>
     <author>
+      <name>/u/sometimestar</name>
+      <uri>https://www.reddit.com/user/sometimestar</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/sometimestar"&gt; /u/sometimestar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/technology-57891289"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo0eyc/apple_delays_return_to_office_as_covid_cases_rise/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo0eyc</id>
+    <link href="https://www.reddit.com/r/news/comments/oo0eyc/apple_delays_return_to_office_as_covid_cases_rise/"></link>
+    <updated>2021-07-20T11:43:16+00:00</updated>
+    <published>2021-07-20T11:43:16+00:00</published>
+    <title>Apple delays return to office as Covid cases rise</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/sometimestar</name>
+      <uri>https://www.reddit.com/user/sometimestar</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/sometimestar"&gt; /u/sometimestar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/world-us-canada-57890935"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo0e61/oregon_bootleg_fire_evacuations_as_largest_us/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo0e61</id>
+    <link href="https://www.reddit.com/r/news/comments/oo0e61/oregon_bootleg_fire_evacuations_as_largest_us/"></link>
+    <updated>2021-07-20T11:41:45+00:00</updated>
+    <published>2021-07-20T11:41:45+00:00</published>
+    <title>Oregon Bootleg Fire: Evacuations as largest US fire burns 300,000 acres</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/stanxv</name>
       <uri>https://www.reddit.com/user/stanxv</uri>
     </author>
@@ -6143,6 +6195,19 @@
     <updated>2021-07-18T17:01:04+00:00</updated>
     <published>2021-07-18T17:01:04+00:00</published>
     <title>Gloria Richardson, civil rights pioneer, dies at 99</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/thewyldfire</name>
+      <uri>https://www.reddit.com/user/thewyldfire</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/thewyldfire"&gt; /u/thewyldfire &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/science-fires-environment-and-nature-oregon-weather-9a8021b4073fc50309ddf9bad479d956"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onz8zq/calls_for_outside_help_as_extreme_weather_fuels/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onz8zq</id>
+    <link href="https://www.reddit.com/r/news/comments/onz8zq/calls_for_outside_help_as_extreme_weather_fuels/"></link>
+    <updated>2021-07-20T10:15:32+00:00</updated>
+    <published>2021-07-20T10:15:32+00:00</published>
+    <title>Calls for outside help as extreme weather fuels Oregon fires</title>
   </entry>
   <entry>
     <author>
