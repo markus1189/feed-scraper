@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T22:37:00+00:00</updated>
+  <updated>2021-07-20T23:33:44+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3361,6 +3361,19 @@
     <updated>2021-07-08T22:39:54+00:00</updated>
     <published>2021-07-08T22:39:54+00:00</published>
     <title>California exodus is just a myth, massive UC research project finds</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/_jumpstoconclusions_</name>
+      <uri>https://www.reddit.com/user/_jumpstoconclusions_</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/_jumpstoconclusions_"&gt; /u/_jumpstoconclusions_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/article/media-lawsuits-south-carolina-rock-hill-46749112373a029f4eefb93766d83c02"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooc6jp/man_sues_police_for_defamation_after_charges/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooc6jp</id>
+    <link href="https://www.reddit.com/r/news/comments/ooc6jp/man_sues_police_for_defamation_after_charges/"></link>
+    <updated>2021-07-20T22:00:40+00:00</updated>
+    <published>2021-07-20T22:00:40+00:00</published>
+    <title>Man sues police for defamation after charges dropped</title>
   </entry>
   <entry>
     <author>
