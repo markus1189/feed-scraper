@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T08:38:58+00:00</updated>
+  <updated>2021-07-20T09:39:00+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4375,6 +4375,19 @@
     <updated>2021-07-17T13:24:44+00:00</updated>
     <published>2021-07-17T13:24:44+00:00</published>
     <title>Hospitals charge huge 'trauma' fees to treat people with minor injuries</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/hugglenugget</name>
+      <uri>https://www.reddit.com/user/hugglenugget</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/hugglenugget"&gt; /u/hugglenugget &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnet.com/news/amazon-kicks-nso-group-off-its-cloud-service-after-spying-reports/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onsvb6/amazon_kicks_nso_group_off_its_cloud_service/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onsvb6</id>
+    <link href="https://www.reddit.com/r/news/comments/onsvb6/amazon_kicks_nso_group_off_its_cloud_service/"></link>
+    <updated>2021-07-20T02:20:28+00:00</updated>
+    <published>2021-07-20T02:20:28+00:00</published>
+    <title>Amazon kicks NSO Group off its cloud service after spying reports</title>
   </entry>
   <entry>
     <author>
