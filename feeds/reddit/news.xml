@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T12:55:40+00:00</updated>
+  <updated>2021-07-20T13:36:34+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -982,6 +982,19 @@
     <updated>2021-07-08T21:22:46+00:00</updated>
     <published>2021-07-08T21:22:46+00:00</published>
     <title>Pfizer says it is developing a Covid booster shot to target the highly transmissible delta variant</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Dictator0</name>
+      <uri>https://www.reddit.com/user/Dictator0</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Dictator0"&gt; /u/Dictator0 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/20/health/covid-19-public-health-emergency-renewal-bn/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo1dv7/us_renews_public_health_emergency_due_to_covid19/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo1dv7</id>
+    <link href="https://www.reddit.com/r/news/comments/oo1dv7/us_renews_public_health_emergency_due_to_covid19/"></link>
+    <updated>2021-07-20T12:48:44+00:00</updated>
+    <published>2021-07-20T12:48:44+00:00</published>
+    <title>US renews 'public health emergency' due to Covid-19 pandemic</title>
   </entry>
   <entry>
     <author>
@@ -5480,6 +5493,19 @@
     <updated>2021-07-15T12:28:03+00:00</updated>
     <published>2021-07-15T12:28:03+00:00</published>
     <title>Dutch journalist Peter de Vries, dies, one week after being shot in the head</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/pechinburger</name>
+      <uri>https://www.reddit.com/user/pechinburger</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/pechinburger"&gt; /u/pechinburger &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/20/weather/us-western-wildfires-tuesday/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo17ey/the_bootleg_fire_in_oregon_is_so_large_its/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo17ey</id>
+    <link href="https://www.reddit.com/r/news/comments/oo17ey/the_bootleg_fire_in_oregon_is_so_large_its/"></link>
+    <updated>2021-07-20T12:37:14+00:00</updated>
+    <published>2021-07-20T12:37:14+00:00</published>
+    <title>The Bootleg Fire in Oregon is so large it's creating its own weather</title>
   </entry>
   <entry>
     <author>
