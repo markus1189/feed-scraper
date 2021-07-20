@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-20T06:47:15+00:00</updated>
+  <updated>2021-07-20T07:32:57+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -84,6 +84,19 @@
     <updated>2021-07-10T00:47:46+00:00</updated>
     <published>2021-07-10T00:47:46+00:00</published>
     <title>How to list all files in the git current worktree?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Arezyl-zer0</name>
+      <uri>https://www.reddit.com/user/Arezyl-zer0</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Arezyl-zer0"&gt; /u/Arezyl-zer0 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://wordssaysalot.hashnode.dev/art-of-writing-a-good-commit-message"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/onwzxe/art_of_writing_a_good_commit_message/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onwzxe</id>
+    <link href="https://www.reddit.com/r/git/comments/onwzxe/art_of_writing_a_good_commit_message/"></link>
+    <updated>2021-07-20T07:05:44+00:00</updated>
+    <published>2021-07-20T07:05:44+00:00</published>
+    <title>art of writing a good commit message</title>
   </entry>
   <entry>
     <author>
