@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T05:32:43+00:00</updated>
+  <updated>2021-07-20T06:47:17+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -6416,6 +6416,19 @@
     <updated>2021-07-16T21:25:40+00:00</updated>
     <published>2021-07-16T21:25:40+00:00</published>
     <title>Greenland ceases oil exploration due to climate change: ‘The future does not lie in oil’</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/very_excited</name>
+      <uri>https://www.reddit.com/user/very_excited</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/very_excited"&gt; /u/very_excited &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/19/world/americas/peru-election-pedro-castillo.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ontxhy/pedro_castillo_leftist_political_outsider_wins/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ontxhy</id>
+    <link href="https://www.reddit.com/r/news/comments/ontxhy/pedro_castillo_leftist_political_outsider_wins/"></link>
+    <updated>2021-07-20T03:26:38+00:00</updated>
+    <published>2021-07-20T03:26:38+00:00</published>
+    <title>Pedro Castillo, Leftist Political Outsider, Wins Peru Presidency</title>
   </entry>
   <entry>
     <author>
