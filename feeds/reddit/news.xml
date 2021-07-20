@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T01:41:45+00:00</updated>
+  <updated>2021-07-20T02:46:06+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2087,6 +2087,19 @@
     <updated>2021-07-18T00:28:12+00:00</updated>
     <published>2021-07-18T00:28:12+00:00</published>
     <title>France: Thousands protest against vaccination, COVID passes</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Mighty_L_LORT</name>
+      <uri>https://www.reddit.com/user/Mighty_L_LORT</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mighty_L_LORT"&gt; /u/Mighty_L_LORT &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-raises-covid-warning-travelers-united-kingdom-2021-07-19/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onpxok/us_issues_do_not_travel_advisory_for_uk_over/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onpxok</id>
+    <link href="https://www.reddit.com/r/news/comments/onpxok/us_issues_do_not_travel_advisory_for_uk_over/"></link>
+    <updated>2021-07-19T23:27:12+00:00</updated>
+    <published>2021-07-19T23:27:12+00:00</published>
+    <title>U.S. issues 'Do Not Travel' advisory for UK over COVID-19</title>
   </entry>
   <entry>
     <author>
