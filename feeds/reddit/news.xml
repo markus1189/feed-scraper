@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T09:39:00+00:00</updated>
+  <updated>2021-07-20T10:38:49+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1996,6 +1996,19 @@
     <updated>2021-07-14T03:12:11+00:00</updated>
     <published>2021-07-14T03:12:11+00:00</published>
     <title>Lego demands US company Culper Precision stop producing Glock pistol covering that looks like a toy</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/LuckyBdx4</name>
+      <uri>https://www.reddit.com/user/LuckyBdx4</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/LuckyBdx4"&gt; /u/LuckyBdx4 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.abc.net.au/news/2021-07-20/man-escapes-hotel-quarantine-by-climbing-out-window/100308950"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/onyk4q/queensland_man_escapes_hotel_quarantine_in_perth/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onyk4q</id>
+    <link href="https://www.reddit.com/r/news/comments/onyk4q/queensland_man_escapes_hotel_quarantine_in_perth/"></link>
+    <updated>2021-07-20T09:18:35+00:00</updated>
+    <published>2021-07-20T09:18:35+00:00</published>
+    <title>Queensland man escapes hotel quarantine in Perth using bed sheets tied from fourth-floor window, police allege</title>
   </entry>
   <entry>
     <author>
