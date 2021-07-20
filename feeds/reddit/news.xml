@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T14:33:03+00:00</updated>
+  <updated>2021-07-20T15:43:11+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -319,6 +319,19 @@
     <updated>2021-07-15T13:58:19+00:00</updated>
     <published>2021-07-15T13:58:19+00:00</published>
     <title>Crooks target cashless hot chicken restaurant, end up stealing electronics and lemonade</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/AudibleNod</name>
+      <uri>https://www.reddit.com/user/AudibleNod</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/AudibleNod"&gt; /u/AudibleNod &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/people-hospitalized-house-explodes-plano-texas-officials/story?id=78940145&amp;amp;cid=clicksource_4380645_2_heads_hero_live_headlines_hed"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo2ts1/6_people_hospitalized_after_house_explodes_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo2ts1</id>
+    <link href="https://www.reddit.com/r/news/comments/oo2ts1/6_people_hospitalized_after_house_explodes_in/"></link>
+    <updated>2021-07-20T14:12:34+00:00</updated>
+    <published>2021-07-20T14:12:34+00:00</published>
+    <title>6 people hospitalized after house explodes in Plano, Texas: Officials</title>
   </entry>
   <entry>
     <author>
@@ -1964,6 +1977,19 @@
       <uri>https://www.reddit.com/user/KymeStar</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KymeStar"&gt; /u/KymeStar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/business-57902093"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo27oq/nike_halts_footwear_production_due_to_covid/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo27oq</id>
+    <link href="https://www.reddit.com/r/news/comments/oo27oq/nike_halts_footwear_production_due_to_covid/"></link>
+    <updated>2021-07-20T13:39:10+00:00</updated>
+    <published>2021-07-20T13:39:10+00:00</published>
+    <title>Nike halts footwear production due to Covid outbreak</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/KymeStar</name>
+      <uri>https://www.reddit.com/user/KymeStar</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KymeStar"&gt; /u/KymeStar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/08/business/eu-commission-fines-german-carmakers/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/og7unr/volkswagen_and_bmw_fined_1_billion_for_running/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_og7unr</id>
     <link href="https://www.reddit.com/r/news/comments/og7unr/volkswagen_and_bmw_fined_1_billion_for_running/"></link>
@@ -2425,6 +2451,19 @@
     <updated>2021-07-13T18:19:02+00:00</updated>
     <published>2021-07-13T18:19:02+00:00</published>
     <title>FCC finalizes program to rip and replace Huawei, ZTE telecom equipment in the U.S.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/PhilDesenex</name>
+      <uri>https://www.reddit.com/user/PhilDesenex</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/PhilDesenex"&gt; /u/PhilDesenex &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/uk/britain-permanently-deploy-two-warships-asian-waters-2021-07-20/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo1toz/britain_to_permanently_deploy_two_warships_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo1toz</id>
+    <link href="https://www.reddit.com/r/news/comments/oo1toz/britain_to_permanently_deploy_two_warships_in/"></link>
+    <updated>2021-07-20T13:15:46+00:00</updated>
+    <published>2021-07-20T13:15:46+00:00</published>
+    <title>Britain to permanently deploy two warships in Asian waters</title>
   </entry>
   <entry>
     <author>
@@ -2997,6 +3036,19 @@
     <updated>2021-07-09T18:26:26+00:00</updated>
     <published>2021-07-09T18:26:26+00:00</published>
     <title>Cat missing after Surfside condo collapse found alive</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Veldron</name>
+      <uri>https://www.reddit.com/user/Veldron</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Veldron"&gt; /u/Veldron &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.co.uk/news/world-asia-china-57898147"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oo0nok/china_says_microsoft_hacking_accusations/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oo0nok</id>
+    <link href="https://www.reddit.com/r/news/comments/oo0nok/china_says_microsoft_hacking_accusations/"></link>
+    <updated>2021-07-20T12:00:17+00:00</updated>
+    <published>2021-07-20T12:00:17+00:00</published>
+    <title>China says Microsoft hacking accusations fabricated by US and allies</title>
   </entry>
   <entry>
     <author>
