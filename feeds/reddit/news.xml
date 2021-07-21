@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T10:38:39+00:00</updated>
+  <updated>2021-07-21T11:32:53+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -930,6 +930,19 @@
     <updated>2021-07-17T01:00:34+00:00</updated>
     <published>2021-07-17T01:00:34+00:00</published>
     <title>One hundred lost night-vision goggles at Fort Hood triggers investigation</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Deadinsidesince70</name>
+      <uri>https://www.reddit.com/user/Deadinsidesince70</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Deadinsidesince70"&gt; /u/Deadinsidesince70 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/sport/disability-sport/57887715"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooku56/olivia_breen_world_champion_paraathlete_left/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooku56</id>
+    <link href="https://www.reddit.com/r/news/comments/ooku56/olivia_breen_world_champion_paraathlete_left/"></link>
+    <updated>2021-07-21T07:02:53+00:00</updated>
+    <published>2021-07-21T07:02:53+00:00</published>
+    <title>Olivia Breen: World champion para-athlete left angry after official said her shorts were 'too revealing' - BBC Sport</title>
   </entry>
   <entry>
     <author>
