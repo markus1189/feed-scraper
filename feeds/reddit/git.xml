@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-21T15:43:05+00:00</updated>
+  <updated>2021-07-21T17:01:04+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -188,6 +188,19 @@
     <updated>2021-07-08T16:01:44+00:00</updated>
     <published>2021-07-08T16:01:44+00:00</published>
     <title>Need some advice managing multiple repos with separate versioning</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Emergency_Web_2828</name>
+      <uri>https://www.reddit.com/user/Emergency_Web_2828</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I am using git-flow. This is the work flow:&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Created a release (release/v-xxx).&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;git flow release start v-xxx&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Then pushed the code:&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;git push origin release/v-xxx&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;In my code repository, I have merged and deleted release/v-xxx to main branch. &lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Then tried to finish and delete the release version in my local machine: &lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;git flow release finish v-xxx&lt;/p&gt; &lt;p&gt;But I am getting this error:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;fatal: couldn&amp;#39;t find remote ref release/v-xxx Fatal: Could not fetch &lt;/p&gt; &lt;p&gt;release/v-xxx from origin. &lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;I also followed &lt;a href="https://github.com/petervanderdoes/gitflow-avh/issues/264#issuecomment-347706036"&gt;this comment on github&lt;/a&gt;, but this didn&amp;#39;t help either. Any help or suggestions are appreciated. Thank you.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Emergency_Web_2828"&gt; /u/Emergency_Web_2828 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oospxn/git_flow_cannot_finish_the_branch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/oospxn/git_flow_cannot_finish_the_branch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oospxn</id>
+    <link href="https://www.reddit.com/r/git/comments/oospxn/git_flow_cannot_finish_the_branch/"></link>
+    <updated>2021-07-21T15:53:49+00:00</updated>
+    <published>2021-07-21T15:53:49+00:00</published>
+    <title>Git flow cannot finish the branch</title>
   </entry>
   <entry>
     <author>

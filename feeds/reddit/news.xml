@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T15:43:07+00:00</updated>
+  <updated>2021-07-21T17:01:06+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -976,6 +976,19 @@
       <uri>https://www.reddit.com/user/Defluvium</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Defluvium"&gt; /u/Defluvium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/china/heavy-rainfall-kills-12-central-chinas-henan-provincial-capital-xinhua-2021-07-20/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oopvxz/at_least_25_dead_in_chinese_provinces_heaviest/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oopvxz</id>
+    <link href="https://www.reddit.com/r/news/comments/oopvxz/at_least_25_dead_in_chinese_provinces_heaviest/"></link>
+    <updated>2021-07-21T13:27:59+00:00</updated>
+    <published>2021-07-21T13:27:59+00:00</published>
+    <title>At least 25 dead in Chinese province's heaviest rains in 1,000 years</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Defluvium</name>
+      <uri>https://www.reddit.com/user/Defluvium</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Defluvium"&gt; /u/Defluvium &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/world/europe/further-flooding-feared-western-europe-with-death-toll-over-100-2021-07-16/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/olftym/floodwaters_still_rising_in_western_europe_with/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_olftym</id>
     <link href="https://www.reddit.com/r/news/comments/olftym/floodwaters_still_rising_in_western_europe_with/"></link>
@@ -1388,6 +1401,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/FeydSeswatha982</name>
+      <uri>https://www.reddit.com/user/FeydSeswatha982</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/FeydSeswatha982"&gt; /u/FeydSeswatha982 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.standard.co.uk/news/uk/old-bailey-national-action-twitter-jewish-muslim-b946836.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooqo1n/neonazi_student_to_be_sentenced_for_terrorism_and/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooqo1n</id>
+    <link href="https://www.reddit.com/r/news/comments/ooqo1n/neonazi_student_to_be_sentenced_for_terrorism_and/"></link>
+    <updated>2021-07-21T14:10:57+00:00</updated>
+    <published>2021-07-21T14:10:57+00:00</published>
+    <title>Neo-Nazi student to be sentenced for terrorism and hate offences</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/FlimsyBodybuilder4</name>
       <uri>https://www.reddit.com/user/FlimsyBodybuilder4</uri>
     </author>
@@ -1723,6 +1749,19 @@
     <updated>2021-07-10T15:57:29+00:00</updated>
     <published>2021-07-10T15:57:29+00:00</published>
     <title>Maine sees increase in potato acreage</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Ice_Burn</name>
+      <uri>https://www.reddit.com/user/Ice_Burn</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Ice_Burn"&gt; /u/Ice_Burn &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.americamagazine.org/faith/2021/07/20/usccb-resigns-media-report-jeffrey-burrill-241088"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oorz14/general_secretary_of_usccb_unexpectedly_resigns/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oorz14</id>
+    <link href="https://www.reddit.com/r/news/comments/oorz14/general_secretary_of_usccb_unexpectedly_resigns/"></link>
+    <updated>2021-07-21T15:16:44+00:00</updated>
+    <published>2021-07-21T15:16:44+00:00</published>
+    <title>General Secretary of USCCB unexpectedly resigns after ‘impending media reports alleging possible improper behavior’</title>
   </entry>
   <entry>
     <author>
@@ -3010,6 +3049,19 @@
     <updated>2021-07-20T15:07:05+00:00</updated>
     <published>2021-07-20T15:07:05+00:00</published>
     <title>Total COVID-19 cases rise to 71 at Tokyo Olympics</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Sumit316</name>
+      <uri>https://www.reddit.com/user/Sumit316</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Sumit316"&gt; /u/Sumit316 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.independent.co.uk/climate-change/news/dubai-fake-rain-heat-b1887596.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oorix7/dubai_is_making_its_own_fake_rain_to_beat_122f/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oorix7</id>
+    <link href="https://www.reddit.com/r/news/comments/oorix7/dubai_is_making_its_own_fake_rain_to_beat_122f/"></link>
+    <updated>2021-07-21T14:54:58+00:00</updated>
+    <published>2021-07-21T14:54:58+00:00</published>
+    <title>Dubai is making its own fake rain to beat 122F heat</title>
   </entry>
   <entry>
     <author>
@@ -6975,6 +7027,19 @@
     <updated>2021-07-18T12:45:29+00:00</updated>
     <published>2021-07-18T12:45:29+00:00</published>
     <title>First athletes have Covid at Olympic village</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/tsnud</name>
+      <uri>https://www.reddit.com/user/tsnud</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tsnud"&gt; /u/tsnud &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://news.sky.com/story/russias-permafrost-is-thawing-and-it-could-make-melting-polar-ice-caps-look-like-a-sideshow-12359940"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oos734/russias_permafrost_is_thawing_and_it_could_make/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oos734</id>
+    <link href="https://www.reddit.com/r/news/comments/oos734/russias_permafrost_is_thawing_and_it_could_make/"></link>
+    <updated>2021-07-21T15:27:46+00:00</updated>
+    <published>2021-07-21T15:27:46+00:00</published>
+    <title>Russia's permafrost is thawing - and it could make melting polar ice caps look like a sideshow | Climate News</title>
   </entry>
   <entry>
     <author>
