@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T03:40:42+00:00</updated>
+  <updated>2021-07-21T04:46:56+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3361,6 +3361,19 @@
     <updated>2021-07-10T22:43:22+00:00</updated>
     <published>2021-07-10T22:43:22+00:00</published>
     <title>California Wildfire advances as heat wave blankets US West</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/XXmynameisNeganXX</name>
+      <uri>https://www.reddit.com/user/XXmynameisNeganXX</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/XXmynameisNeganXX"&gt; /u/XXmynameisNeganXX &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nytimes.com/2021/07/20/science/bezos-amazon.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oohsex/bezos_thanks_amazon_workers_and_customers_for_his/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oohsex</id>
+    <link href="https://www.reddit.com/r/news/comments/oohsex/bezos_thanks_amazon_workers_and_customers_for_his/"></link>
+    <updated>2021-07-21T03:26:01+00:00</updated>
+    <published>2021-07-21T03:26:01+00:00</published>
+    <title>Bezos thanks Amazon workers and customers for his vast wealth, prompting backlash.</title>
   </entry>
   <entry>
     <author>
