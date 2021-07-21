@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T09:39:08+00:00</updated>
+  <updated>2021-07-21T10:38:39+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2334,6 +2334,19 @@
     <updated>2021-07-10T16:27:34+00:00</updated>
     <published>2021-07-10T16:27:34+00:00</published>
     <title>U.S. Olympic swimmer Michael Andrew won't get vaccinated</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Mighty_L_LORT</name>
+      <uri>https://www.reddit.com/user/Mighty_L_LORT</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mighty_L_LORT"&gt; /u/Mighty_L_LORT &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/world/2021/jul/20/everything-is-on-fire-siberia-hit-by-unprecedented-burning"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooke4c/everything_is_on_fire_siberia_hit_by/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooke4c</id>
+    <link href="https://www.reddit.com/r/news/comments/ooke4c/everything_is_on_fire_siberia_hit_by/"></link>
+    <updated>2021-07-21T06:27:06+00:00</updated>
+    <published>2021-07-21T06:27:06+00:00</published>
+    <title>‘Everything is on fire’: Siberia hit by unprecedented burning</title>
   </entry>
   <entry>
     <author>
