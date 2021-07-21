@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-20T23:33:44+00:00</updated>
+  <updated>2021-07-21T01:38:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2152,6 +2152,19 @@
     <updated>2021-07-20T09:18:35+00:00</updated>
     <published>2021-07-20T09:18:35+00:00</published>
     <title>Queensland man escapes hotel quarantine in Perth using bed sheets tied from fourth-floor window, police allege</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/LurkmasterGeneral</name>
+      <uri>https://www.reddit.com/user/LurkmasterGeneral</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/LurkmasterGeneral"&gt; /u/LurkmasterGeneral &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.sfgate.com/sports/article/Women-s-Handball-Players-Are-Fined-for-Rejecting-16326963.php"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oocxuq/womens_handball_players_are_fined_for_rejecting/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oocxuq</id>
+    <link href="https://www.reddit.com/r/news/comments/oocxuq/womens_handball_players_are_fined_for_rejecting/"></link>
+    <updated>2021-07-20T22:40:41+00:00</updated>
+    <published>2021-07-20T22:40:41+00:00</published>
+    <title>Women's Handball Players Are Fined for Rejecting Bikini Uniforms</title>
   </entry>
   <entry>
     <author>
@@ -6923,6 +6936,19 @@
     <updated>2021-07-20T03:26:38+00:00</updated>
     <published>2021-07-20T03:26:38+00:00</published>
     <title>Pedro Castillo, Leftist Political Outsider, Wins Peru Presidency</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/very_excited</name>
+      <uri>https://www.reddit.com/user/very_excited</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/very_excited"&gt; /u/very_excited &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.pbs.org/newshour/nation/federal-judge-blocks-arkansas-law-banning-most-abortions"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooeapk/federal_judge_blocks_arkansas_law_banning_most/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooeapk</id>
+    <link href="https://www.reddit.com/r/news/comments/ooeapk/federal_judge_blocks_arkansas_law_banning_most/"></link>
+    <updated>2021-07-20T23:55:58+00:00</updated>
+    <published>2021-07-20T23:55:58+00:00</published>
+    <title>Federal judge blocks Arkansas law banning most abortions</title>
   </entry>
   <entry>
     <author>

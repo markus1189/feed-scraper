@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-20T23:33:42+00:00</updated>
+  <updated>2021-07-21T01:38:05+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -1497,5 +1497,14 @@
     <updated>2021-07-12T02:30:44+00:00</updated>
     <published>2021-07-12T02:30:44+00:00</published>
     <title>How to git checkout &lt;commit&gt; on repo from command line while in a directory outside of the repo?</title>
+  </entry>
+  <entry>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;One of our developers with a less performant computer is experiencing some major hemorrhaging while trying to branch/update some of our repos. Sometimes it can take up to 45 minutes for this guys computer to merge commits, while it only takes like 30 seconds-2minutes for mine. One thing we have done is create separate branches for storing legacy application versions (its not really useful to store them IMO, but we are, if this is causing the issue we will trim it down to a master and dev branch only).&lt;/p&gt; &lt;p&gt;For instance, we have a master branch representing whats in production, and many other branches like&lt;/p&gt; &lt;p&gt;master (main)&lt;/p&gt; &lt;p&gt;v1.0.0&lt;/p&gt; &lt;p&gt;v1.0.1&lt;/p&gt; &lt;p&gt;v1.0.2&lt;/p&gt; &lt;p&gt;...&lt;/p&gt; &lt;p&gt;v5.0.1&lt;/p&gt; &lt;p&gt;v5.0.2&lt;/p&gt; &lt;p&gt;...&lt;/p&gt; &lt;p&gt;v5.30.0&lt;/p&gt; &lt;p&gt;...&lt;/p&gt; &lt;p&gt;dev/feature-1&lt;/p&gt; &lt;p&gt;dev/feature-2&lt;/p&gt; &lt;p&gt;etc&lt;/p&gt; &lt;p&gt;&amp;#x200B;&lt;/p&gt; &lt;p&gt;could this format potentially be contributing to the issues this dev is experiencing? Especially if there are 25+ branches on some of these projects? And yes, some of these are large projects&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/onkbgs/can_having_many_many_branches_on_a_git_repo_slow/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/onkbgs/can_having_many_many_branches_on_a_git_repo_slow/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_onkbgs</id>
+    <link href="https://www.reddit.com/r/git/comments/onkbgs/can_having_many_many_branches_on_a_git_repo_slow/"></link>
+    <updated>2021-07-19T18:41:09+00:00</updated>
+    <published>2021-07-19T18:41:09+00:00</published>
+    <title>Can having many many branches on a git repo slow down git?</title>
   </entry>
 </feed>
