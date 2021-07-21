@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T11:32:53+00:00</updated>
+  <updated>2021-07-21T12:55:27+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -3667,6 +3667,19 @@
       <uri>https://www.reddit.com/user/anikhch</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.bbc.com/news/world-europe-57914270"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oonanx/gold_toilet_found_in_russian_police_bribery_probe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oonanx</id>
+    <link href="https://www.reddit.com/r/news/comments/oonanx/gold_toilet_found_in_russian_police_bribery_probe/"></link>
+    <updated>2021-07-21T10:39:38+00:00</updated>
+    <published>2021-07-21T10:39:38+00:00</published>
+    <title>Gold toilet found in Russian police bribery probe</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/anikhch</name>
+      <uri>https://www.reddit.com/user/anikhch</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/anikhch"&gt; /u/anikhch &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnbc.com/2021/07/12/most-fully-vaccinated-people-who-get-covid-delta-infections-are-asymptomatic-who-says-.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oiz0v4/most_fully_vaccinated_people_who_get_covid_delta/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_oiz0v4</id>
     <link href="https://www.reddit.com/r/news/comments/oiz0v4/most_fully_vaccinated_people_who_get_covid_delta/"></link>
@@ -4531,6 +4544,19 @@
     <updated>2021-07-18T03:16:17+00:00</updated>
     <published>2021-07-18T03:16:17+00:00</published>
     <title>Majority of Covid misinformation came from 12 people, report finds | Coronavirus</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ezzrd</name>
+      <uri>https://www.reddit.com/user/ezzrd</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ezzrd"&gt; /u/ezzrd &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/travel/amp/yosemite-bear-killed-by-car-ranger-plea-trnd/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oonzyz/yosemite_park_ranger_shares_heartbreaking_plea_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oonzyz</id>
+    <link href="https://www.reddit.com/r/news/comments/oonzyz/yosemite_park_ranger_shares_heartbreaking_plea_to/"></link>
+    <updated>2021-07-21T11:30:04+00:00</updated>
+    <published>2021-07-21T11:30:04+00:00</published>
+    <title>Yosemite park ranger shares heartbreaking plea to visitors to slow down after a bear cub was killed by a car</title>
   </entry>
   <entry>
     <author>

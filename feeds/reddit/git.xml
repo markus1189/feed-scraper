@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-21T11:32:51+00:00</updated>
+  <updated>2021-07-21T12:55:25+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -542,6 +542,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Super_Run9140</name>
+      <uri>https://www.reddit.com/user/Super_Run9140</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hey there!&lt;br/&gt; I&amp;#39;ve just published an article for the company where I work, on &lt;a href="https://www.padok.fr/en/blog/argocd-image-updater"&gt;ArgoCD Image Updater&lt;/a&gt;. I show you how to set it up, and the drawbacks and trade-offs of this new tool!&lt;br/&gt; Hope this article will be useful for some of you guys!&lt;br/&gt; Do not hesitate to send me your feedback :)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Super_Run9140"&gt; /u/Super_Run9140 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ooowvg/an_opinionated_introduction_guide_for_argocd/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ooowvg/an_opinionated_introduction_guide_for_argocd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooowvg</id>
+    <link href="https://www.reddit.com/r/git/comments/ooowvg/an_opinionated_introduction_guide_for_argocd/"></link>
+    <updated>2021-07-21T12:30:46+00:00</updated>
+    <published>2021-07-21T12:30:46+00:00</published>
+    <title>An opinionated introduction guide for ArgoCD Image Updater!</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/TechBasedQuestion</name>
       <uri>https://www.reddit.com/user/TechBasedQuestion</uri>
     </author>
@@ -760,6 +773,19 @@
     <updated>2021-07-09T15:58:09+00:00</updated>
     <published>2021-07-09T15:58:09+00:00</published>
     <title>A couple basic questions about Git</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/coder323</name>
+      <uri>https://www.reddit.com/user/coder323</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m building a Django app that I hope to deploy on Heroku. I have my repo organized in such a way that the root folder contains an src folder containing the actual Django project root. Since Heroku requires the project root to be the same as the repo root, I&amp;#39;m planning to use &amp;#39;git subtree&amp;#39;. There are other ways of handling this issue, but I found this to be the easiest. But reading up subtree, I found this line &amp;quot;it maintains a subtree-specific &amp;#39;branch&amp;#39; that gets merged on every git subtree pull and git subtree merge. This means it will clutter your graph forever, and I, for one, have a strong distaste for this&amp;quot; from &lt;a href="https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec"&gt;this medium article&lt;/a&gt;. For Heroku I will only be performing a push, but I&amp;#39;m still a lil worried. Will executing the git subtree push&amp;#39; command in any way affect my repo permanently..?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/coder323"&gt; /u/coder323 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ooovi4/will_simply_pushing_a_subtree_to_a_remote_affect/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ooovi4/will_simply_pushing_a_subtree_to_a_remote_affect/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooovi4</id>
+    <link href="https://www.reddit.com/r/git/comments/ooovi4/will_simply_pushing_a_subtree_to_a_remote_affect/"></link>
+    <updated>2021-07-21T12:28:23+00:00</updated>
+    <published>2021-07-21T12:28:23+00:00</published>
+    <title>Will simply pushing a sub-tree to a remote affect the repo history in any way?</title>
   </entry>
   <entry>
     <author>
