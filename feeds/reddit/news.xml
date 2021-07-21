@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T04:46:56+00:00</updated>
+  <updated>2021-07-21T05:32:45+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -4674,6 +4674,19 @@
     <updated>2021-07-18T10:31:00+00:00</updated>
     <published>2021-07-18T10:31:00+00:00</published>
     <title>Pilot dies in fall from hot air balloon, passengers carried across state line</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/goforth1457</name>
+      <uri>https://www.reddit.com/user/goforth1457</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/goforth1457"&gt; /u/goforth1457 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.wxpr.org/post/us-life-expectancy-fell-15-years-2020-biggest-drop-ww-ii#stream/0"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooigq9/us_life_expectancy_fell_by_15_years_in_2020_the/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooigq9</id>
+    <link href="https://www.reddit.com/r/news/comments/ooigq9/us_life_expectancy_fell_by_15_years_in_2020_the/"></link>
+    <updated>2021-07-21T04:09:01+00:00</updated>
+    <published>2021-07-21T04:09:01+00:00</published>
+    <title>U.S. Life Expectancy Fell By 1.5 Years In 2020, The Biggest Drop Since WW II</title>
   </entry>
   <entry>
     <author>
