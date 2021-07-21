@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T01:38:07+00:00</updated>
+  <updated>2021-07-21T02:45:06+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -527,6 +527,19 @@
     <updated>2021-07-14T14:49:15+00:00</updated>
     <published>2021-07-14T14:49:15+00:00</published>
     <title>Declining Water Levels In The Great Salt Lake Spell Economic Trouble For Utah. The Great Salt Lake is reaching its lowest level ever.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/BohemianBella</name>
+      <uri>https://www.reddit.com/user/BohemianBella</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/BohemianBella"&gt; /u/BohemianBella &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://abcnews.go.com/US/wireStory/couple-charged-california-fire-sparked-gender-reveal-78957446"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oofw3f/couple_charged_in_california_fire_sparked_by/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oofw3f</id>
+    <link href="https://www.reddit.com/r/news/comments/oofw3f/couple_charged_in_california_fire_sparked_by/"></link>
+    <updated>2021-07-21T01:28:41+00:00</updated>
+    <published>2021-07-21T01:28:41+00:00</published>
+    <title>Couple charged in California fire sparked by gender reveal</title>
   </entry>
   <entry>
     <author>
@@ -3927,6 +3940,19 @@
       <uri>https://www.reddit.com/user/cal_oe</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cal_oe"&gt; /u/cal_oe &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://laist.com/news/health/pasadena-to-require-city-workers-to-be-fully-vaccinated"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oog0m8/pasadena_to_require_city_workers_to_be_fully/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oog0m8</id>
+    <link href="https://www.reddit.com/r/news/comments/oog0m8/pasadena_to_require_city_workers_to_be_fully/"></link>
+    <updated>2021-07-21T01:36:13+00:00</updated>
+    <published>2021-07-21T01:36:13+00:00</published>
+    <title>Pasadena To Require City Workers To Be Fully Vaccinated</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cal_oe</name>
+      <uri>https://www.reddit.com/user/cal_oe</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cal_oe"&gt; /u/cal_oe &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/14/americas/cuban-youtuber-dina-fernandez-protests-intl/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/okh9qe/cuban_youtuber_says_she_is_being_taken_away_by/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_okh9qe</id>
     <link href="https://www.reddit.com/r/news/comments/okh9qe/cuban_youtuber_says_she_is_being_taken_away_by/"></link>
@@ -6988,6 +7014,19 @@
     <updated>2021-07-14T05:56:57+00:00</updated>
     <published>2021-07-14T05:56:57+00:00</published>
     <title>Britney Spears conservatorship case heads back to court amid turmoil</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/very_excited</name>
+      <uri>https://www.reddit.com/user/very_excited</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/very_excited"&gt; /u/very_excited &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/technology/2021/jul/21/airbnb-suspends-victorian-host-who-rejected-couple-for-receiving-covid-vaccine"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooedw1/airbnb_suspends_victorian_host_who_rejected/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooedw1</id>
+    <link href="https://www.reddit.com/r/news/comments/ooedw1/airbnb_suspends_victorian_host_who_rejected/"></link>
+    <updated>2021-07-21T00:00:35+00:00</updated>
+    <published>2021-07-21T00:00:35+00:00</published>
+    <title>Airbnb suspends Victorian host who rejected couple for receiving Covid vaccine</title>
   </entry>
   <entry>
     <author>
