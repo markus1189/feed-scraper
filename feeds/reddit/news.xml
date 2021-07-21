@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T13:36:29+00:00</updated>
+  <updated>2021-07-21T14:33:09+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -2438,6 +2438,19 @@
     <updated>2021-07-14T12:51:23+00:00</updated>
     <published>2021-07-14T12:51:23+00:00</published>
     <title>Sacha Baron Cohen: US politician Roy Moore loses bid to sue over TV stunt</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/NewsModTeam</name>
+      <uri>https://www.reddit.com/user/NewsModTeam</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;This thread is for discussing news related to the 2020 Tokyo Olympics. Information and details about individual events can also be discussed in greater detail at &lt;a href="/r/sports"&gt;/r/sports&lt;/a&gt; and &lt;a href="/r/olympics"&gt;/r/olympics&lt;/a&gt;.&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;+++&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Medal Count&lt;/strong&gt;&lt;/p&gt; &lt;table&gt;&lt;thead&gt; &lt;tr&gt; &lt;th&gt;Country&lt;/th&gt; &lt;th&gt;Total&lt;/th&gt; &lt;th&gt;Bronze&lt;/th&gt; &lt;th&gt;Silver&lt;/th&gt; &lt;th&gt;Gold&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;&lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Greece&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Japan&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;td&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt;&lt;/table&gt; &lt;p&gt;+++&lt;/p&gt; &lt;p&gt;Please read &lt;a href="https://www.redditinc.com/policies/content-policy"&gt;Reddit&amp;#39;s Content Policy&lt;/a&gt; and&lt;a href="https://www.reddit.com/r/news/wiki/rules/?utm_source=reddit&amp;amp;utm_medium=usertext&amp;amp;utm_name=news&amp;amp;utm_content=t5_2qh3l"&gt; our rules&lt;/a&gt; before posting and submitting content.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/NewsModTeam"&gt; /u/NewsModTeam &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooqc6i/2020_tokyo_olympics_megathread/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooqc6i/2020_tokyo_olympics_megathread/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooqc6i</id>
+    <link href="https://www.reddit.com/r/news/comments/ooqc6i/2020_tokyo_olympics_megathread/"></link>
+    <updated>2021-07-21T13:53:34+00:00</updated>
+    <published>2021-07-21T13:53:34+00:00</published>
+    <title>2020 Tokyo Olympics Megathread</title>
   </entry>
   <entry>
     <author>
@@ -5168,6 +5181,19 @@
     <updated>2021-07-09T10:20:47+00:00</updated>
     <published>2021-07-09T10:20:47+00:00</published>
     <title>Taliban says it controls most of Afghanistan, reassures Russia</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/joburgexpat</name>
+      <uri>https://www.reddit.com/user/joburgexpat</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/joburgexpat"&gt; /u/joburgexpat &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/money/2021/jul/20/south-carolina-state-university-forgives-student-loans"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooq3wl/south_carolina_state_university_forgives_loans_of/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooq3wl</id>
+    <link href="https://www.reddit.com/r/news/comments/ooq3wl/south_carolina_state_university_forgives_loans_of/"></link>
+    <updated>2021-07-21T13:40:38+00:00</updated>
+    <published>2021-07-21T13:40:38+00:00</published>
+    <title>South Carolina State University forgives loans of 2,500 former students</title>
   </entry>
   <entry>
     <author>

@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="git" label="r/git"></category>
-  <updated>2021-07-21T13:36:27+00:00</updated>
+  <updated>2021-07-21T14:33:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/git.rss</id>
   <link rel="self" href="https://www.reddit.com/r/git.rss" type="application/atom+xml"></link>
@@ -916,6 +916,19 @@
     <updated>2021-07-15T21:51:49+00:00</updated>
     <published>2021-07-15T21:51:49+00:00</published>
     <title>An example of a pointless discussion in the mailing list</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/felipec</name>
+      <uri>https://www.reddit.com/user/felipec</uri>
+    </author>
+    <category term="git" label="r/git"></category>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;In my previous posts people assumed that the reason my patches were ignored was my communication style.&lt;/p&gt; &lt;p&gt;I don&amp;#39;t think this is the case, so here is one very simple patch that introduces no problems and fixes an annoying issue.&lt;/p&gt; &lt;p&gt;Can anybody find a problem with the &amp;quot;communication style&amp;quot; of the patch?&lt;/p&gt; &lt;p&gt;&lt;a href="https://lore.kernel.org/git/20210721134650.1866387-1-felipe.contreras@gmail.com/"&gt;pull: introduce --merge option&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/felipec"&gt; /u/felipec &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ooqbq4/does_anybody_see_a_problem_with_this_patch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/git/comments/ooqbq4/does_anybody_see_a_problem_with_this_patch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooqbq4</id>
+    <link href="https://www.reddit.com/r/git/comments/ooqbq4/does_anybody_see_a_problem_with_this_patch/"></link>
+    <updated>2021-07-21T13:52:50+00:00</updated>
+    <published>2021-07-21T13:52:50+00:00</published>
+    <title>Does anybody see a problem with this patch?</title>
   </entry>
   <entry>
     <author>
