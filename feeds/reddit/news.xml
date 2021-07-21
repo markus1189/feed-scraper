@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T14:33:09+00:00</updated>
+  <updated>2021-07-21T15:43:07+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1128,6 +1128,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/Dictator0</name>
+      <uri>https://www.reddit.com/user/Dictator0</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Dictator0"&gt; /u/Dictator0 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/new-jersey-hospital-fires-6-employees-who-did-not-get-n1274601"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oorcsq/new_jersey_hospital_fires_6_employees_who_did_not/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oorcsq</id>
+    <link href="https://www.reddit.com/r/news/comments/oorcsq/new_jersey_hospital_fires_6_employees_who_did_not/"></link>
+    <updated>2021-07-21T14:46:33+00:00</updated>
+    <published>2021-07-21T14:46:33+00:00</published>
+    <title>New Jersey hospital fires 6 employees who did not get vaccinated</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/DissonantNeuron</name>
       <uri>https://www.reddit.com/user/DissonantNeuron</uri>
     </author>
@@ -1268,6 +1281,19 @@
     <updated>2021-07-09T23:27:00+00:00</updated>
     <published>2021-07-09T23:27:00+00:00</published>
     <title>Twitter Bans White Nationalist Leader Nick Fuentes, Ally Of Arizona Republican Rep. Gosar</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/EssoEssex</name>
+      <uri>https://www.reddit.com/user/EssoEssex</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/EssoEssex"&gt; /u/EssoEssex &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.lamag.com/citythinkblog/rideshare-strike-california/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ooqsyu/as_fares_rise_and_rates_plummet_california/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_ooqsyu</id>
+    <link href="https://www.reddit.com/r/news/comments/ooqsyu/as_fares_rise_and_rates_plummet_california/"></link>
+    <updated>2021-07-21T14:18:13+00:00</updated>
+    <published>2021-07-21T14:18:13+00:00</published>
+    <title>As Fares Rise and Rates Plummet, California Rideshare Drivers Are Staging a Strike</title>
   </entry>
   <entry>
     <author>
@@ -2412,6 +2438,19 @@
     <updated>2021-07-14T12:55:37+00:00</updated>
     <published>2021-07-14T12:55:37+00:00</published>
     <title>COVID cases found at Olympic hotel in Japan as IOC hails 'historic' Games</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/MorsesTheHorse</name>
+      <uri>https://www.reddit.com/user/MorsesTheHorse</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/MorsesTheHorse"&gt; /u/MorsesTheHorse &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.pennlive.com/nation-world/2021/07/mama-bear-cries-out-stays-with-cub-killed-by-vehicle-in-yosemite-photo.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oor5ic/mama_bear_cries_out_stays_with_cub_killed_by/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oor5ic</id>
+    <link href="https://www.reddit.com/r/news/comments/oor5ic/mama_bear_cries_out_stays_with_cub_killed_by/"></link>
+    <updated>2021-07-21T14:36:18+00:00</updated>
+    <published>2021-07-21T14:36:18+00:00</published>
+    <title>Mama bear cries out, stays with cub killed by vehicle in Yosemite</title>
   </entry>
   <entry>
     <author>
@@ -6848,6 +6887,19 @@
   </entry>
   <entry>
     <author>
+      <name>/u/tippinsights</name>
+      <uri>https://www.reddit.com/user/tippinsights</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tippinsights"&gt; /u/tippinsights &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.africanews.com/2021/07/21/south-africa-unrest-hits-40-000-businesses-government-says/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oopt7i/south_africa_unrest_hits_40000_businesses_the/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oopt7i</id>
+    <link href="https://www.reddit.com/r/news/comments/oopt7i/south_africa_unrest_hits_40000_businesses_the/"></link>
+    <updated>2021-07-21T13:23:43+00:00</updated>
+    <published>2021-07-21T13:23:43+00:00</published>
+    <title>South Africa unrest hits 40,000 businesses, the government says</title>
+  </entry>
+  <entry>
+    <author>
       <name>/u/tool1001</name>
       <uri>https://www.reddit.com/user/tool1001</uri>
     </author>
@@ -7196,6 +7248,19 @@
     <updated>2021-07-15T00:07:27+00:00</updated>
     <published>2021-07-15T00:07:27+00:00</published>
     <title>Every single Covid patient in a L.A. County DHS hospital is not fully vaccinated</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/vokiel</name>
+      <uri>https://www.reddit.com/user/vokiel</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/vokiel"&gt; /u/vokiel &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.aljazeera.com/news/2021/7/21/couple-whose-gender-reveal-sparked-california-wild-fire-charged"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oorksg/couple_whose_gender_reveal_sparked_california/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oorksg</id>
+    <link href="https://www.reddit.com/r/news/comments/oorksg/couple_whose_gender_reveal_sparked_california/"></link>
+    <updated>2021-07-21T14:57:34+00:00</updated>
+    <published>2021-07-21T14:57:34+00:00</published>
+    <title>Couple whose ‘gender reveal’ sparked California wildfire charged</title>
   </entry>
   <entry>
     <author>
