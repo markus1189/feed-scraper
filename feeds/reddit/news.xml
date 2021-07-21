@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <category term="news" label="r/news"></category>
-  <updated>2021-07-21T12:55:27+00:00</updated>
+  <updated>2021-07-21T13:36:29+00:00</updated>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <id>/r/news.rss</id>
   <link rel="self" href="https://www.reddit.com/r/news.rss" type="application/atom+xml"></link>
@@ -1106,6 +1106,19 @@
       <uri>https://www.reddit.com/user/Dictator0</uri>
     </author>
     <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Dictator0"&gt; /u/Dictator0 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2021/07/21/politics/robert-morss-army-ranger-capitol-riot/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_allpolitics+%28RSS%3A+CNN+-+Politics%29"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oop5by/exarmy_ranger_weaponized_military_training_to_aid/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oop5by</id>
+    <link href="https://www.reddit.com/r/news/comments/oop5by/exarmy_ranger_weaponized_military_training_to_aid/"></link>
+    <updated>2021-07-21T12:45:49+00:00</updated>
+    <published>2021-07-21T12:45:49+00:00</published>
+    <title>Ex-Army Ranger weaponized military training to aid Capitol rioters, judge says</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Dictator0</name>
+      <uri>https://www.reddit.com/user/Dictator0</uri>
+    </author>
+    <category term="news" label="r/news"></category>
     <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Dictator0"&gt; /u/Dictator0 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.nbcnews.com/news/us-news/marilyn-manson-surrenders-police-assault-arrest-warrant-n1273391"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/ogkh0v/marilyn_manson_surrenders_to_police_for_assault/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <id>t3_ogkh0v</id>
     <link href="https://www.reddit.com/r/news/comments/ogkh0v/marilyn_manson_surrenders_to_police_for_assault/"></link>
@@ -2139,6 +2152,19 @@
     <updated>2021-07-19T14:54:44+00:00</updated>
     <published>2021-07-19T14:54:44+00:00</published>
     <title>All children should wear masks in school this fall, even if vaccinated, according to pediatrics group</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/KymeStar</name>
+      <uri>https://www.reddit.com/user/KymeStar</uri>
+    </author>
+    <category term="news" label="r/news"></category>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KymeStar"&gt; /u/KymeStar &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theguardian.com/us-news/2021/jul/21/alaska-assistant-attorney-general-twitter-far-right"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/oooxqo/revealed_assistant_attorney_general_in_alaska/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_oooxqo</id>
+    <link href="https://www.reddit.com/r/news/comments/oooxqo/revealed_assistant_attorney_general_in_alaska/"></link>
+    <updated>2021-07-21T12:32:21+00:00</updated>
+    <published>2021-07-21T12:32:21+00:00</published>
+    <title>Revealed: assistant attorney general in Alaska posted racist and antisemitic tweets</title>
   </entry>
   <entry>
     <author>
